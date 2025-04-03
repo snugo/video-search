@@ -82,3 +82,22 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
+li {
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+  padding: 1rem 1.5rem;
+  margin-bottom: 1rem;
+  overflow-wrap: break-word;     /* ✅ Allow long words to wrap */
+  word-break: break-word;        /* ✅ Handle URLs or long titles */
+  max-width: 100%;               /* ✅ Keep within container */
+  box-sizing: border-box;
+}
+
+a {
+  color: #1a73e8;
+  text-decoration: none;
+  word-break: break-word;        /* ✅ Break long URLs */
+  overflow-wrap: anywhere;       /* ✅ Wrap at any point if needed */
+}
