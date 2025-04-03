@@ -98,6 +98,6 @@ li {
 a {
   color: #1a73e8;
   text-decoration: none;
-  word-break: break-word;        /* ✅ Break long URLs */
-  overflow-wrap: anywhere;       /* ✅ Wrap at any point if needed */
+  word-break: break-word;
+  overflow-wrap: anywhere; /* ✅ this is the real hero */
 }
