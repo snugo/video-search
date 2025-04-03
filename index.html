@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Video Search</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <h1>Search Videos</h1>
+<div id="filters">
+  <button data-filter="all">All</button>
+  <button data-filter="solo">Piano Solo</button>
+  <button data-filter="accompaniment">Accompaniment</button>
+</div>
+
+<input type="text" id="search" placeholder="Type to search..." />
+<ul id="results"></ul>
+
+  <script src="https://cdn.jsdelivr.net/npm/fuse.js@7"></script>
+  <script src="script.js"></script>
+</body>
+</html>
