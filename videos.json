@@ -1,5 +1,45 @@
 [
   {
+    "song_title": "PRELUDE AND FUGUE NO 2 IN C MINOR",
+    "artist": "BACH",
+    "tbh_video_title": "Bach - Prelude and Fugue No. 2 in C Minor - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=YDPuE5yLOg4",
+    "sheet_music_link": "https://hugospianoschool.com/p/bach-prelude-and-fugue-no-2-in-c-minor-782498",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "THIS IS WHAT LOSING SOMEONE FEELS LIKE",
+    "artist": "JVKE",
+    "tbh_video_title": "JVKE - this is what losing someone feels like - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=wmL_Z_t7iOQ",
+    "sheet_music_link": "",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "HOW TO SAVE A LIFE",
+    "artist": "THE FRAY",
+    "tbh_video_title": "The Fray - How To Save A Life - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=jjaWtkALMhM",
+    "sheet_music_link": "https://www.musicnotes.com/l/TL5KX",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "The Fray - How To Save A Life - EASY Piano Tutorial",
+    "easy_video_link": "https://youtu.be/NFRas34VKyw"
+  },
+  {
+    "song_title": "HAMPSTEAD",
+    "artist": "ARIANA GRANDE",
+    "tbh_video_title": "Ariana Grande - Hampstead - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=_WXaxL4v0ug",
+    "sheet_music_link": "",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "PATHETIQUE SONATA 1ST MOVEMENT",
     "artist": "BEETHOVEN",
     "tbh_video_title": "Beethoven - Pathetique Sonata 1st Movement - Piano Tutorial with Sheet Music",
