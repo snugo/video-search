@@ -1,5 +1,45 @@
 [
   {
+    "song_title": "ETURE OP 25 NO 1 AEOLIAN HARP",
+    "artist": "CHOPIN",
+    "tbh_video_title": "Chopin - \"Aeolian Harp\" Etude Op.25 No.1 - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=T-7tElGkBxI",
+    "sheet_music_link": "https://hugospianoschool.com/p/chopin-etude-op-25-no-1-aeolian-harp-787507",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "THE BIRD SONG",
+    "artist": "NOAH FLOERSCH",
+    "tbh_video_title": "Noah Floersch - The Bird Song - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=w6R7Z57fjxc",
+    "sheet_music_link": "https://www.musicnotes.com/l/M2Wrp",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "TURNING TABLES",
+    "artist": "ADELE",
+    "tbh_video_title": "Adele - Turning Tables - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=wXxuLR3aiVo",
+    "sheet_music_link": "https://www.musicnotes.com/l/dhWrm",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "HENRY COME ON",
+    "artist": "LANA DEL REY",
+    "tbh_video_title": "Lana Del Rey - Henry, come on - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=B6wKB5kkuMc",
+    "sheet_music_link": "https://www.musicnotes.com/l/D5brW",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "PRELUDE AND FUGUE NO 2 IN C MINOR",
     "artist": "BACH",
     "tbh_video_title": "Bach - Prelude and Fugue No. 2 in C Minor - Piano Tutorial with Sheet Music",
