@@ -61,7 +61,10 @@ function applyFilter(results) {
 
 function displayResults(results) {
   const list = document.getElementById('results');
+  const countDisplay = document.getElementById('result-count');
+
   list.innerHTML = '';
+  countDisplay.innerText = `${results.length} result${results.length !== 1 ? 's' : ''} found`;
   results.forEach(video => {
     const isAccompaniment = video['is_accompaniment'] === 'TRUE';
     const typeLabel = isAccompaniment ? 'Accompaniment' : 'Piano Solo';
