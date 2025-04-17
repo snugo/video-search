@@ -1,6 +1,15 @@
 let fuse;
 let data = [];
 let currentFilter = 'all';
+let selectedArtist = null;
+
+const clearArtistBtn = document.getElementById('clear-artist');
+
+clearArtistBtn.addEventListener('click', () => {
+  selectedArtist = null;
+  clearArtistBtn.style.display = 'none';
+  handleSearch();
+});
 
 async function loadData() {
   const res = await fetch('videos.json');
@@ -13,18 +22,17 @@ async function loadData() {
 
   document.getElementById('search').addEventListener('input', handleSearch);
   document.querySelectorAll('#filters button').forEach(btn => {
-  	btn.addEventListener('click', () => {
-	    currentFilter = btn.getAttribute('data-filter');
-	
-	    // Remove active class from all buttons
-	    document.querySelectorAll('#filters button').forEach(b => b.classList.remove('active'));
-	
-	    // Add active class to clicked button
-	    btn.classList.add('active');
-	
-	    handleSearch();
-	  });
-	});
+      btn.addEventListener('click', () => {
+        currentFilter = btn.getAttribute('data-filter');
+
+        // Update active button style
+        document.querySelectorAll('#filters button').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+
+        handleSearch();
+      });
+    });
+
 
 
   displayResults(data); // show all on load
@@ -38,12 +46,17 @@ function handleSearch() {
 }
 
 function applyFilter(results) {
-  if (currentFilter === 'solo') {
-    return results.filter(v => v['is_accompaniment'] === 'FALSE');
-  } else if (currentFilter === 'accompaniment') {
-    return results.filter(v => v['is_accompaniment'] === 'TRUE');
-  }
-  return results;
+  return results.filter(v => {
+    const matchesAccompaniment =
+      currentFilter === 'all' ||
+      (currentFilter === 'solo' && v['is_accompaniment'] === 'FALSE') ||
+      (currentFilter === 'accompaniment' && v['is_accompaniment'] === 'TRUE');
+
+    const matchesArtist =
+      !selectedArtist || v['artist'] === selectedArtist;
+
+    return matchesAccompaniment && matchesArtist;
+  });
 }
 
 function displayResults(results) {
@@ -67,7 +80,8 @@ function displayResults(results) {
 
     const li = document.createElement('li');
     li.innerHTML = `
-      <strong>${video['song_title']}</strong> by ${video['artist']}<br/>
+      <strong>${video['song_title']}</strong> by 
+      <a href="#" class="artist-link" data-artist="${video['artist']}">${video['artist']}</a><br/>
       <em>${typeLabel}</em><br/>
       ${tutorialLink}
       ${sheetMusic}
@@ -79,3 +93,20 @@ function displayResults(results) {
 
 
 loadData();
+
+document.addEventListener('click', function (e) {
+  if (e.target.classList.contains('artist-link')) {
+    e.preventDefault();
+    selectedArtist = e.target.getAttribute('data-artist');
+    clearArtistBtn.style.display = 'inline-block';
+
+    // Clear search box
+    document.getElementById('search').value = '';
+
+    // Unset 'active' from filter buttons (optional — depends on your design)
+    document.querySelectorAll('#filters button').forEach(b => b.classList.remove('active'));
+
+    // Recalculate search + filter
+    handleSearch();
+  }
+});
