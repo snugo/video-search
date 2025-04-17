@@ -101,15 +101,20 @@ document.addEventListener('click', function (e) {
   if (e.target.classList.contains('artist-link')) {
     e.preventDefault();
     selectedArtist = e.target.getAttribute('data-artist');
-    clearArtistBtn.style.display = 'inline-block';
 
-    // Clear search box
-    document.getElementById('search').value = '';
+    document.getElementById('search').value = ''; // clear search
 
-    // Unset 'active' from filter buttons (optional — depends on your design)
-    document.querySelectorAll('#filters button').forEach(b => b.classList.remove('active'));
+    // Keep the solo/accompaniment filter, just re-apply the highlight
+    document.querySelectorAll('#filters button').forEach(b => {
+      b.classList.remove('active');
+      if (b.getAttribute('data-filter') === currentFilter) {
+        b.classList.add('active');
+      }
+    });
 
-    // Recalculate search + filter
+    // Show the clear artist filter button if needed
+    document.getElementById('clear-artist').style.display = 'inline-block';
+
     handleSearch();
   }
 });
