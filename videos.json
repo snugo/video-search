@@ -1,5 +1,45 @@
 [
   {
+    "song_title": "IMPOSSIBLE",
+    "artist": "WASIA PROJECT",
+    "tbh_video_title": "Wasia Project - ​impossible - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=OQ2qGWnGXps",
+    "sheet_music_link": "",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "WHAT WAS THAT",
+    "artist": "LORDE",
+    "tbh_video_title": "Lorde - What Was That - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=_l6pQHSySfQ",
+    "sheet_music_link": "",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "COMPTINE DUN AUTRE ETE LAPRES MIDI",
+    "artist": "YANN TIERSEN",
+    "tbh_video_title": "Yann Tiersen - Comptine d'un Autre été: L'Après-Midi - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=C7bw9itPuPw",
+    "sheet_music_link": "https://www.musicnotes.com/l/VtMrW",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "EMPIRE STATE OF MIND PART II",
+    "artist": "ALICIA KEYS",
+    "tbh_video_title": "Alicia Keys - Empire State of Mind (Part II) - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=7oVhc_TP4vg",
+    "sheet_music_link": "https://www.musicnotes.com/l/gRMrZ",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "TEARDROPS ON MY GUITAR",
     "artist": "TAYLOR SWIFT",
     "tbh_video_title": "Taylor Swift - Teardrops On My Guitar (Eras Tour) - Accurate Piano Tutorial with Sheet Music",
@@ -13620,7 +13660,7 @@
     "easy_video_link": "https://www.youtube.com/watch?v=m4fU984k1HU"
   },
   {
-    "song_title": "COMPTINE DUN AUTRE ÉTÉ AMÉLIE",
+    "song_title": "COMPTINE DUN AUTRE ETE LAPRES MIDI",
     "artist": "YANN TIERSEN",
     "tbh_video_title": "Yann Tiersen - Comptine d'un autre été (Amélie) - Piano Tutorial + SHEETS",
     "tbh_video_link": "https://www.youtube.com/watch?v=jtrURfPDWU0",
