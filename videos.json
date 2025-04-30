@@ -1,5 +1,25 @@
 [
   {
+    "song_title": "NOCTURNE OP 55 NO 1",
+    "artist": "CHOPIN",
+    "tbh_video_title": "Chopin - Nocturne Op. 55 No. 1 - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=y1tZHhCE-I4",
+    "sheet_music_link": "https://hugospianoschool.com/p/chopin-nocturne-in-f-minor-op-55-no-1-796596",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "WILDEST DREAMS X ENCHANTED",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Wildest Dreams/Enchanted (1989 Tour) - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=brMGyM2wNKA",
+    "sheet_music_link": "https://www.musicnotes.com/l/MGMrX",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "IMPOSSIBLE",
     "artist": "WASIA PROJECT",
     "tbh_video_title": "Wasia Project - ​impossible - Accurate Piano Tutorial with Sheet Music",
@@ -16,8 +36,8 @@
     "tbh_video_link": "https://www.youtube.com/watch?v=_l6pQHSySfQ",
     "sheet_music_link": "",
     "is_accompaniment": "FALSE",
-    "easy_video_title": "",
-    "easy_video_link": ""
+    "easy_video_title": "Lorde - What Was That - EASY Piano Tutorial",
+    "easy_video_link": "https://www.youtube.com/watch?v=-w2YoKWhzxc"
   },
   {
     "song_title": "COMPTINE DUN AUTRE ETE LAPRES MIDI",
@@ -114,7 +134,7 @@
     "artist": "JVKE",
     "tbh_video_title": "JVKE - this is what losing someone feels like - Accurate Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=wmL_Z_t7iOQ",
-    "sheet_music_link": "",
+    "sheet_music_link": "https://www.musicnotes.com/l/3t8rX",
     "is_accompaniment": "TRUE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -134,7 +154,7 @@
     "artist": "ARIANA GRANDE",
     "tbh_video_title": "Ariana Grande - Hampstead - Accurate Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=_WXaxL4v0ug",
-    "sheet_music_link": "",
+    "sheet_music_link": "https://www.musicnotes.com/l/v3Xr4",
     "is_accompaniment": "TRUE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -1326,8 +1346,8 @@
     "tbh_video_link": "https://www.youtube.com/watch?v=5NdnBNfVI3A",
     "sheet_music_link": "https://www.musicnotes.com/l/g9kKp",
     "is_accompaniment": "FALSE",
-    "easy_video_title": "",
-    "easy_video_link": ""
+    "easy_video_title": "Weezer - Say It Ain't So - EASY Piano Tutorial",
+    "easy_video_link": "https://www.youtube.com/watch?v=PrGpNOqbFuE"
   },
   {
     "song_title": "HALLEYS COMET",
@@ -1546,8 +1566,8 @@
     "tbh_video_link": "https://www.youtube.com/watch?v=AiRT_-7Xj-U",
     "sheet_music_link": "https://www.musicnotes.com/l/ptkK8",
     "is_accompaniment": "FALSE",
-    "easy_video_title": "Rudimental - These Days (feat. Jess Glynne, Macklemore & Dan Caplen)- EASY Piano Tutorial",
-    "easy_video_link": "https://www.youtube.com/watch?v=krXkXFNT9Jw"
+    "easy_video_title": "Nico - These Days - EASY Piano Tutorial",
+    "easy_video_link": "https://www.youtube.com/watch?v=E1GFReSQ2NM"
   },
   {
     "song_title": "MINUTE WALTZ",
@@ -1666,8 +1686,8 @@
     "tbh_video_link": "https://www.youtube.com/watch?v=2pEYP0f27nM",
     "sheet_music_link": "https://www.musicnotes.com/l/gRvKp",
     "is_accompaniment": "FALSE",
-    "easy_video_title": "",
-    "easy_video_link": ""
+    "easy_video_title": "Oasis - Stand By Me - EASY Piano Tutorial",
+    "easy_video_link": "https://www.youtube.com/watch?v=j1VqhygDeYI"
   },
   {
     "song_title": "THE EMPTINESS MACHINE",
@@ -4956,8 +4976,8 @@
     "tbh_video_link": "https://www.youtube.com/watch?v=4fMOo8d3bO8",
     "sheet_music_link": "https://www.musicnotes.com/l/xf6hW",
     "is_accompaniment": "TRUE",
-    "easy_video_title": "",
-    "easy_video_link": ""
+    "easy_video_title": "Adele - Set Fire To The Rain - EASY Piano Tutorial",
+    "easy_video_link": "https://www.youtube.com/watch?v=DAKz1QhGvLI"
   },
   {
     "song_title": "FLOWERS",
