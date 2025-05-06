@@ -1,11 +1,61 @@
 [
   {
+    "song_title": "GNOSSIENNE NO 1",
+    "artist": "ERIK SATIE",
+    "tbh_video_title": "Satie - Gnossienne No.1 - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=nKbI61uhQzE",
+    "sheet_music_link": "https://hugospianoschool.com/p/gnossienne-no-1",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "SPRING INTO SUMMER",
+    "artist": "LIZZY MCALPINE",
+    "tbh_video_title": "Lizzy McAlpine - Spring Into Summer - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=kYC4_NaloFE",
+    "sheet_music_link": "",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "PIGGIES",
+    "artist": "THE BEATLES",
+    "tbh_video_title": "The Beatles - Piggies - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=pSsXhuyedlM",
+    "sheet_music_link": "",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "ORDINARY",
+    "artist": "ALEX WARREN",
+    "tbh_video_title": "Alex Warren - Ordinary (Wedding Version) - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=ll_RYDO-DOI",
+    "sheet_music_link": "https://www.musicnotes.com/l/RGMrp",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "NOCTURNE OP 55 NO 1",
     "artist": "CHOPIN",
     "tbh_video_title": "Chopin - Nocturne Op. 55 No. 1 - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=y1tZHhCE-I4",
     "sheet_music_link": "https://hugospianoschool.com/p/chopin-nocturne-in-f-minor-op-55-no-1-796596",
     "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "DEATH WISH",
+    "artist": "GRACIE ABRAMS",
+    "tbh_video_title": "Gracie Abrams - Death Wish (Live) - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=Pkj1gfrv_I4",
+    "sheet_music_link": "",
+    "is_accompaniment": "",
     "easy_video_title": "",
     "easy_video_link": ""
   },
@@ -34,7 +84,7 @@
     "artist": "LORDE",
     "tbh_video_title": "Lorde - What Was That - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=_l6pQHSySfQ",
-    "sheet_music_link": "",
+    "sheet_music_link": "https://www.musicnotes.com/l/vrhrw",
     "is_accompaniment": "FALSE",
     "easy_video_title": "Lorde - What Was That - EASY Piano Tutorial",
     "easy_video_link": "https://www.youtube.com/watch?v=-w2YoKWhzxc"
