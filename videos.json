@@ -1,5 +1,25 @@
 [
   {
+    "song_title": "READ ALL ABOUT IT PT III",
+    "artist": "EMELI SANDE",
+    "tbh_video_title": "Emeli Sandé - Read All About It, Pt. III - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=vaX55Yi1OSk",
+    "sheet_music_link": "https://www.musicnotes.com/l/HthrS",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "OUT OF THE WOODS",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Out Of The Woods (Grammy Museum) - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=EsXpB4eXgNg",
+    "sheet_music_link": "https://www.musicnotes.com/l/9jhrm",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "GNOSSIENNE NO 1",
     "artist": "ERIK SATIE",
     "tbh_video_title": "Satie - Gnossienne No.1 - Piano Tutorial with Sheet Music",
@@ -16,8 +36,8 @@
     "tbh_video_link": "https://www.youtube.com/watch?v=kYC4_NaloFE",
     "sheet_music_link": "",
     "is_accompaniment": "FALSE",
-    "easy_video_title": "",
-    "easy_video_link": ""
+    "easy_video_title": "Lizzy McAlpine - Spring Into Summer - EASY Piano Tutorial",
+    "easy_video_link": "https://www.youtube.com/watch?v=ZtQYL0iRLVw"
   },
   {
     "song_title": "PIGGIES",
@@ -54,8 +74,8 @@
     "artist": "GRACIE ABRAMS",
     "tbh_video_title": "Gracie Abrams - Death Wish (Live) - Accurate Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=Pkj1gfrv_I4",
-    "sheet_music_link": "",
-    "is_accompaniment": "",
+    "sheet_music_link": "https://www.musicnotes.com/l/krhrq",
+    "is_accompaniment": "TRUE",
     "easy_video_title": "",
     "easy_video_link": ""
   },
