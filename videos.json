@@ -1,5 +1,25 @@
 [
   {
+    "song_title": "IDEA 22",
+    "artist": "GIBRAN ALCOCER",
+    "tbh_video_title": "Gibran Alcocer - Idea 22 - Piano Tutorial",
+    "tbh_video_link": "https://www.youtube.com/watch?v=5B7oKcYoezI",
+    "sheet_music_link": "",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "NO ONE NOTICED",
+    "artist": "THE MARIAS",
+    "tbh_video_title": "The Marías - No One Noticed - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=RohlOqgqddk",
+    "sheet_music_link": "https://www.musicnotes.com/l/9lhrJ",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "READ ALL ABOUT IT PT III",
     "artist": "EMELI SANDE",
     "tbh_video_title": "Emeli Sandé - Read All About It, Pt. III - Accurate Piano Tutorial with Sheet Music",
@@ -34,7 +54,7 @@
     "artist": "LIZZY MCALPINE",
     "tbh_video_title": "Lizzy McAlpine - Spring Into Summer - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=kYC4_NaloFE",
-    "sheet_music_link": "",
+    "sheet_music_link": "https://www.musicnotes.com/l/GxhrZ",
     "is_accompaniment": "FALSE",
     "easy_video_title": "Lizzy McAlpine - Spring Into Summer - EASY Piano Tutorial",
     "easy_video_link": "https://www.youtube.com/watch?v=ZtQYL0iRLVw"
@@ -94,7 +114,7 @@
     "artist": "WASIA PROJECT",
     "tbh_video_title": "Wasia Project - ​impossible - Accurate Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=OQ2qGWnGXps",
-    "sheet_music_link": "",
+    "sheet_music_link": "https://www.musicnotes.com/l/N2hrn",
     "is_accompaniment": "TRUE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -240,6 +260,36 @@
     "easy_video_link": ""
   },
   {
+    "song_title": "SWEET NOTHING X HOAX",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Dublin Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=Cu492efzyKs",
+    "sheet_music_link": "https://www.musicnotes.com/l/jV5KW",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "THIS LOVE X OURS",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Dublin Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=Cu492efzyKs",
+    "sheet_music_link": "https://www.musicnotes.com/l/3V5K8",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "YOURE ON YOUR OWN KID",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Dublin Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=Cu492efzyKs",
+    "sheet_music_link": "https://www.musicnotes.com/l/gKTN4",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "DUBLIN SURPRISE SONGS",
     "artist": "TAYLOR SWIFT",
     "tbh_video_title": "Taylor Swift - Dublin Surprise Songs - Accurate Piano Tutorial with Sheet Music",
@@ -276,6 +326,26 @@
     "tbh_video_link": "https://www.youtube.com/watch?v=eoTwKjC_qiI",
     "sheet_music_link": "https://hugospianoschool.com/p/classical-bundle-vol-1-769500-1",
     "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "FIFTEEN X YOURE ON YOUR OWN KID",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Lyon Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=TFFYdX9SdaA",
+    "sheet_music_link": "https://www.musicnotes.com/l/VWBKP",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "CHLOE OR SAM OR SOPHIA OR MARCUS",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Lyon Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=TFFYdX9SdaA",
+    "sheet_music_link": "https://www.musicnotes.com/l/HFBKJ",
+    "is_accompaniment": "TRUE",
     "easy_video_title": "",
     "easy_video_link": ""
   },
@@ -330,6 +400,26 @@
     "easy_video_link": "https://www.youtube.com/watch?v=LMaCeGMGcn0"
   },
   {
+    "song_title": "LAST KISS X SAD BEAUTIFUL TRAGIC",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Zurich Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=misv-11htF8",
+    "sheet_music_link": "https://www.musicnotes.com/l/GvDKn",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "ROBIN X NEVER GROW UP",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Zurich Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=misv-11htF8",
+    "sheet_music_link": "https://www.musicnotes.com/l/fvDK4",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "ZURICH SURPRISE SONGS",
     "artist": "TAYLOR SWIFT",
     "tbh_video_title": "Taylor Swift - Zurich Surprise Songs - Accurate Piano Tutorial with Sheet Music",
@@ -380,6 +470,26 @@
     "easy_video_link": ""
   },
   {
+    "song_title": "WE WERE HAPPY X HAPPINESS",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Hamburg Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=Vq8CJIuHjs8",
+    "sheet_music_link": "https://www.musicnotes.com/l/2rDKF",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "NOTHING NEW X DEAR READER",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Hamburg Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=Vq8CJIuHjs8",
+    "sheet_music_link": "https://www.musicnotes.com/l/7rDKJ",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "HAMBURG SURPRISE SONGS",
     "artist": "TAYLOR SWIFT",
     "tbh_video_title": "Taylor Swift - Hamburg Surprise Songs - Accurate Piano Tutorial with Sheet Music",
@@ -418,6 +528,66 @@
     "is_accompaniment": "FALSE",
     "easy_video_title": "Joe Hisaishi - Summer - MEDIUM Piano Tutorial",
     "easy_video_link": "https://www.youtube.com/watch?v=ohzRzOJiMlU"
+  },
+  {
+    "song_title": "I DONT WANNA LIVE FOREVER X DRESS",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Singapore Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=COSff-6NpPo",
+    "sheet_music_link": "https://www.musicnotes.com/l/t7lK4",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "CLEAN X EVERMORE",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Singapore Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=COSff-6NpPo",
+    "sheet_music_link": "https://www.musicnotes.com/l/j7lKw",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "THIS LOVE X CALL IT WHAT YOU WANT",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Singapore Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=COSff-6NpPo",
+    "sheet_music_link": "https://www.musicnotes.com/l/67lKp",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "FIFTEEN X YOURE ON YOUR OWN KID",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Singapore Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=COSff-6NpPo",
+    "sheet_music_link": "https://www.musicnotes.com/l/V7lKS",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "FALSE GOD X SLUT",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Singapore Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=COSff-6NpPo",
+    "sheet_music_link": "https://www.musicnotes.com/l/H7lKw",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "MIRRORBALL X EPIPHANY",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Singapore Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=COSff-6NpPo",
+    "sheet_music_link": "https://www.musicnotes.com/l/xGCKF",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
   },
   {
     "song_title": "SINGAPORE SURPRISE SONGS",
@@ -510,6 +680,26 @@
     "easy_video_link": ""
   },
   {
+    "song_title": "I LOOK IN PEOPLES WINDOWS X SNOW ON THE BEACH",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Madrid Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=Wd3gAvtGFm0",
+    "sheet_music_link": "https://www.musicnotes.com/l/VjTKP",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "KING OF MY HEART",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Madrid Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=Wd3gAvtGFm0",
+    "sheet_music_link": "https://www.musicnotes.com/l/HjTKp",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "MADRID SURPRISE SONGS",
     "artist": "TAYLOR SWIFT",
     "tbh_video_title": "Taylor Swift - Madrid Surprise Songs - Accurate Piano Tutorial with Sheet Music",
@@ -586,6 +776,36 @@
     "tbh_video_link": "https://www.youtube.com/watch?v=eyh0bFWxWOs",
     "sheet_music_link": "https://hugospianoschool.com/p/classical-bundle-vol-1-769500",
     "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "TIS THE DAMN SEASON X DAYLIGHT",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Edinburgh Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=j-UAxWrICxw",
+    "sheet_music_link": "https://www.musicnotes.com/l/TzCKQ",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "ALL OF THE GIRLS YOU LOVED BEFORE X CRAZIER",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Edinburgh Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=j-UAxWrICxw",
+    "sheet_music_link": "https://www.musicnotes.com/l/zdfKS",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "HAUNTED X EXILE",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Edinburgh Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=j-UAxWrICxw",
+    "sheet_music_link": "https://www.musicnotes.com/l/lzCKw",
+    "is_accompaniment": "TRUE",
     "easy_video_title": "",
     "easy_video_link": ""
   },
@@ -670,6 +890,26 @@
     "easy_video_link": ""
   },
   {
+    "song_title": "I ALMOST DO X THE MOMENT I KNEW",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Milan Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=VwkZLQnuFLQ",
+    "sheet_music_link": "https://www.musicnotes.com/l/TNfKw",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "GETAWAY CAR X OUT OF THE WOODS",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Milan Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=VwkZLQnuFLQ",
+    "sheet_music_link": "https://www.musicnotes.com/l/lNfKQ",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "MILAN SURPRISE SONGS",
     "artist": "TAYLOR SWIFT",
     "tbh_video_title": "Taylor Swift - Milan Surprise Songs - Accurate Piano Tutorial with Sheet Music",
@@ -706,6 +946,26 @@
     "tbh_video_link": "https://www.youtube.com/watch?v=6aGWGaRKK18",
     "sheet_music_link": "https://hugospianoschool.com/p/classical-bundle-vol-1-769500-1",
     "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "IVY X CALL IT WHAT YOU WANT",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Munich Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=JLWUqBNedTg",
+    "sheet_music_link": "https://www.musicnotes.com/l/DLGK8",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "LOML X DONT YOU",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Munich Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=JLWUqBNedTg",
+    "sheet_music_link": "https://www.musicnotes.com/l/BLGKP",
+    "is_accompaniment": "TRUE",
     "easy_video_title": "",
     "easy_video_link": ""
   },
@@ -890,6 +1150,36 @@
     "easy_video_link": ""
   },
   {
+    "song_title": "NEVER GROW UP X THE BEST DAY",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Vancouver Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=ticwja_vLk0",
+    "sheet_music_link": "https://www.musicnotes.com/l/fVLKb",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "THE TORTURED POETS DEPARTMENT X MAROON",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Vancouver Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=ticwja_vLk0",
+    "sheet_music_link": "https://www.musicnotes.com/l/CVLKW",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "LONG LIVE X NEW YEARS DAY X THE MANUSCRIPT",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Vancouver Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=ticwja_vLk0",
+    "sheet_music_link": "https://www.musicnotes.com/l/kKLKW",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "VANCOUVER SURPRISE SONGS",
     "artist": "TAYLOR SWIFT",
     "tbh_video_title": "Taylor Swift - Vancouver Surprise Songs - Accurate Piano Tutorial with Sheet Music",
@@ -1025,6 +1315,66 @@
     "tbh_video_title": "Adele - One And Only - Accurate Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=MPmp3soHgd8",
     "sheet_music_link": "https://www.musicnotes.com/l/G7cKW",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "FALSE GOD X TIS THE DAMN SEASON",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Toronto Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=31lqFmi8whs",
+    "sheet_music_link": "https://www.musicnotes.com/l/RkcKF",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "EVERMORE X PETER",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Toronto Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=31lqFmi8whs",
+    "sheet_music_link": "https://www.musicnotes.com/l/vv9Kb",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "YOURE ON YOUR OWN KID X LONG STORY SHORT",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Toronto Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=31lqFmi8whs",
+    "sheet_music_link": "https://www.musicnotes.com/l/3kcKQ",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "STATE OF GRACE X LABYRINTH",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Toronto Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=31lqFmi8whs",
+    "sheet_music_link": "https://www.musicnotes.com/l/tkcKF",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "CASSANDRA X MAD WOMAN X I DID SOMETHING BAD",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Toronto Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=31lqFmi8whs",
+    "sheet_music_link": "https://www.musicnotes.com/l/TrcKP",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "YOURE LOSING ME X HOW DID IT END",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Toronto Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=31lqFmi8whs",
+    "sheet_music_link": "https://www.musicnotes.com/l/jkcK8",
     "is_accompaniment": "TRUE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -1240,6 +1590,36 @@
     "easy_video_link": "https://www.youtube.com/watch?v=SJq6sSqXp5A"
   },
   {
+    "song_title": "SUBURBAN LEGENDS X NEW YEARS DAY",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Warsaw Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=isY3kI2Y3m0",
+    "sheet_music_link": "https://www.musicnotes.com/l/cd7Kp",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "RED X MAROON",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Warsaw Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=isY3kI2Y3m0",
+    "sheet_music_link": "https://www.musicnotes.com/l/Ld7KW",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "THE BLACK DOG X EXILE",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Warsaw Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=isY3kI2Y3m0",
+    "sheet_music_link": "https://www.musicnotes.com/l/xd7KQ",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "WARSAW SURPRISE SONGS",
     "artist": "TAYLOR SWIFT",
     "tbh_video_title": "Taylor Swift - Warsaw Surprise Songs - Accurate Piano Tutorial with Sheet Music",
@@ -1305,6 +1685,36 @@
     "tbh_video_title": "Nick Cave & The Bad Seeds - Into My Arms - Accurate Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=eZEoZIjqbSQ",
     "sheet_music_link": "https://www.musicnotes.com/l/GG2KW",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "COLD AS YOU X EXILE",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Indianapolis Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=uLzFiGDcmZM",
+    "sheet_music_link": "https://www.musicnotes.com/l/5h7Kn",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "MAROON X COWBOY LIKE ME",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Indianapolis Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=uLzFiGDcmZM",
+    "sheet_music_link": "https://www.musicnotes.com/l/Bh7KZ",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "DEATH BY A THOUSAND CUTS X THE GREAT WAR",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Indianapolis Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=uLzFiGDcmZM",
+    "sheet_music_link": "https://www.musicnotes.com/l/lh7KF",
     "is_accompaniment": "TRUE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -1380,6 +1790,36 @@
     "easy_video_link": "https://www.youtube.com/watch?v=bxZ7iirCV2o"
   },
   {
+    "song_title": "THE BLACK DOG X HAUNTED",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - New Orleans Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=svITY-BYUg8",
+    "sheet_music_link": "https://www.musicnotes.com/l/3x2Kb",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "HITS DIFFERENT X WELCOME TO NEW YORK",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - New Orleans Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=svITY-BYUg8",
+    "sheet_music_link": "https://www.musicnotes.com/l/jx2Kp",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "HOW YOU GET THE GIRL X CLEAN",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - New Orleans Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=svITY-BYUg8",
+    "sheet_music_link": "https://www.musicnotes.com/l/tx2Kb",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "NEW ORLEANS SURPRISE SONGS",
     "artist": "TAYLOR SWIFT",
     "tbh_video_title": "Taylor Swift - New Orleans Surprise Songs - Accurate Piano Tutorial with Sheet Music",
@@ -1450,6 +1890,36 @@
     "easy_video_link": ""
   },
   {
+    "song_title": "THIS IS ME TRYING X DAYLIGHT",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Miami Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=k72RsDMFVng",
+    "sheet_music_link": "https://www.musicnotes.com/l/h62KP",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "LOML X WHITE HORSE",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Miami Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=k72RsDMFVng",
+    "sheet_music_link": "https://www.musicnotes.com/l/N62Kw",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "MIRRORBALL X GUILTY AS SIN",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Miami Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=k72RsDMFVng",
+    "sheet_music_link": "https://www.musicnotes.com/l/K62KZ",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "MIAMI SURPRISE SONGS",
     "artist": "TAYLOR SWIFT",
     "tbh_video_title": "Taylor Swift - Miami Surprise Songs - Accurate Piano Tutorial with Sheet Music",
@@ -1515,6 +1985,36 @@
     "tbh_video_title": "Coldplay - ALL MY LOVE - Accurate Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=xc0UIy2Yy0U",
     "sheet_music_link": "https://www.musicnotes.com/l/gh2K8",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "SLUT X FALSE GOD",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Gelsenkirchen Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=pxOewpa5-N0",
+    "sheet_music_link": "https://www.musicnotes.com/l/9CkKZ",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "THIS IS ME TRYING X LABYRINTH",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Gelsenkirchen Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=pxOewpa5-N0",
+    "sheet_music_link": "https://www.musicnotes.com/l/cCkKm",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "ITS TIME TO GO X BETTER MAN",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Gelsenkirchen Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=pxOewpa5-N0",
+    "sheet_music_link": "https://www.musicnotes.com/l/LCkKP",
     "is_accompaniment": "TRUE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -1606,6 +2106,36 @@
     "tbh_video_link": "https://www.youtube.com/watch?v=6C1B0oprs0s",
     "sheet_music_link": "https://hugospianoschool.com/p/czerny",
     "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "THE ARCHER X QUESTION",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Amsterdam Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=LuWGcb2dFG0",
+    "sheet_music_link": "https://www.musicnotes.com/l/VlvKw",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "YOU ARE IN LOVE X COWBOY LIKE ME",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Amsterdam Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=LuWGcb2dFG0",
+    "sheet_music_link": "https://www.musicnotes.com/l/HlvKW",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "MARYS SONG OH MY MY X SO HIGH SCHOOL X EVERYTHING HAS CHANGED",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Amsterdam Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=LuWGcb2dFG0",
+    "sheet_music_link": "https://www.musicnotes.com/l/vlvKp",
+    "is_accompaniment": "TRUE",
     "easy_video_title": "",
     "easy_video_link": ""
   },
@@ -1770,6 +2300,26 @@
     "easy_video_link": ""
   },
   {
+    "song_title": "WHEN EMMA FALLS IN LOVE",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Kansas City Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=lwBAUyL8KMY",
+    "sheet_music_link": "https://www.musicnotes.com/l/LNvKX",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "DOROTHEA",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Kansas City Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=lwBAUyL8KMY",
+    "sheet_music_link": "https://www.musicnotes.com/l/cNvKW",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "KANSAS CITY SURPRISE SONGS",
     "artist": "TAYLOR SWIFT",
     "tbh_video_title": "Taylor Swift - Kansas City Surprise Songs - Accurate Piano Tutorial with Sheet Music",
@@ -1826,6 +2376,86 @@
     "tbh_video_link": "https://www.youtube.com/watch?v=BdKvU088QN4",
     "sheet_music_link": "https://www.musicnotes.com/l/gGHKn",
     "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "THE BLACK DOG X COME BACK BE HERE X MAROON",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - London Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=4QScywPkWn4",
+    "sheet_music_link": "https://www.musicnotes.com/l/75VKZ",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "CASTLES CRUMBLING",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - London Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=4QScywPkWn4",
+    "sheet_music_link": "https://www.musicnotes.com/l/95VKQ",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "OUT OF THE WOODS X IS IT OVER NOW X CLEAN",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - London Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=4QScywPkWn4",
+    "sheet_music_link": "https://www.musicnotes.com/l/c5VK8",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "KING OF MY HEART X THE ALCHEMY",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - London Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=4QScywPkWn4",
+    "sheet_music_link": "https://www.musicnotes.com/l/L5VKF",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "DEAR JOHN X SAD BEAUTIFUL TRAGIC",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - London Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=4QScywPkWn4",
+    "sheet_music_link": "https://www.musicnotes.com/l/x5VKn",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "MY BOY ONLY BREAKS HIS FAVORITE TOYS X CONEY ISLAND",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - London Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=4QScywPkWn4",
+    "sheet_music_link": "https://www.musicnotes.com/l/G5VKS",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "THE ARCHER X YOURE ON YOUR OWN KID",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - London Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=4QScywPkWn4",
+    "sheet_music_link": "https://www.musicnotes.com/l/f5VK4",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "SO LONG LONDON",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - London Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=4QScywPkWn4",
+    "sheet_music_link": "https://www.musicnotes.com/l/C5VKS",
+    "is_accompaniment": "TRUE",
     "easy_video_title": "",
     "easy_video_link": ""
   },
@@ -2060,6 +2690,36 @@
     "easy_video_link": "https://www.youtube.com/watch?v=UyAfE-8CqVw"
   },
   {
+    "song_title": "CORNELIA STREET X MAROON",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Liverpool Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=89H09Gr5YqY",
+    "sheet_music_link": "https://www.musicnotes.com/l/25jKw",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "THE GREAT WAR X YOURE LOSING ME",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Liverpool Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=89H09Gr5YqY",
+    "sheet_music_link": "https://www.musicnotes.com/l/75jKZ",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "THE MANUSCRIPT X RED",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Liverpool Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=89H09Gr5YqY",
+    "sheet_music_link": "https://www.musicnotes.com/l/c5jKW",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "LIVERPOOL SURPRISE SONGS",
     "artist": "TAYLOR SWIFT",
     "tbh_video_title": "Taylor Swift - Liverpool Surprise Songs - Accurate Piano Tutorial with Sheet Music",
@@ -2270,11 +2930,51 @@
     "easy_video_link": ""
   },
   {
-    "song_title": "SYDNEY SURPRISE SONGS",
+    "song_title": "WHITE HORSE X CONEY ISLAND",
     "artist": "TAYLOR SWIFT",
     "tbh_video_title": "Taylor Swift - Sydney Surprise Songs - Accurate Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=NY2Yr6rSl4s",
     "sheet_music_link": "",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "NEW YEARS DAY X PEACE",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Sydney Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=NY2Yr6rSl4s",
+    "sheet_music_link": "",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "HAUNTED X EXILE",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Sydney Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=NY2Yr6rSl4s",
+    "sheet_music_link": "https://www.musicnotes.com/l/6rRK4",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "FOREVER AND ALWAYS X MAROON",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Sydney Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=NY2Yr6rSl4s",
+    "sheet_music_link": "https://www.musicnotes.com/l/jrRK4",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "SYDNEY SURPRISE SONGS",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Sydney Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=NY2Yr6rSl4s",
+    "sheet_music_link": "https://www.musicnotes.com/l/trRKq",
     "is_accompaniment": "TRUE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -2288,6 +2988,26 @@
     "is_accompaniment": "FALSE",
     "easy_video_title": "Twenty One Pilots - Routines In The Night - EASY Piano Tutorial",
     "easy_video_link": "https://www.youtube.com/watch?v=TKLFLl2map0"
+  },
+  {
+    "song_title": "FRESH OUT THE SLAMMER X HIGH INFIDELITY",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Lisbon Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=xia3cxFItl0",
+    "sheet_music_link": "https://www.musicnotes.com/l/d7dKP",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "YOURE ON YOUR OWN KID X LONG LIVE",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Lisbon Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=xia3cxFItl0",
+    "sheet_music_link": "https://www.musicnotes.com/l/R7dKS",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
   },
   {
     "song_title": "LISBON SURPRISE SONGS",
@@ -2370,6 +3090,46 @@
     "easy_video_link": "https://www.youtube.com/watch?v=ZLMdPlnL-14"
   },
   {
+    "song_title": "LOML",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Paris Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=xepk8W5D4xo",
+    "sheet_music_link": "https://www.musicnotes.com/l/CgdKP",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "MY BOY ONLY BREAKS HIS FAVORITE TOYS",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Paris Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=xepk8W5D4xo",
+    "sheet_music_link": "https://www.musicnotes.com/l/TgdKX",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "MAROON",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Paris Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=xepk8W5D4xo",
+    "sheet_music_link": "https://www.musicnotes.com/l/jvNKn",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "BEGIN AGAIN X PARIS",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Paris Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=xepk8W5D4xo",
+    "sheet_music_link": "",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "PARIS SURPRISE SONGS",
     "artist": "TAYLOR SWIFT",
     "tbh_video_title": "Taylor Swift - Paris Surprise Songs - Accurate Piano Tutorial with Sheet Music",
@@ -2395,6 +3155,36 @@
     "tbh_video_title": "Billie Eilish - L'AMOUR DE MA VIE - Accurate Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=D4oRyo0rwKE",
     "sheet_music_link": "https://www.musicnotes.com/l/fLzKp",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "PETER",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Stockholm Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=t05eMq2E7KA",
+    "sheet_music_link": "https://www.musicnotes.com/l/6LzKQ",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "SAY DONT GO X WELCOME TO NEW YORK",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Stockholm Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=t05eMq2E7KA",
+    "sheet_music_link": "",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "CLEAN X HOW DID IT END",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Stockholm Surprise Songs - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=t05eMq2E7KA",
+    "sheet_music_link": "",
     "is_accompaniment": "TRUE",
     "easy_video_title": "",
     "easy_video_link": ""
