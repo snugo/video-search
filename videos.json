@@ -1,5 +1,65 @@
 [
   {
+    "song_title": "CLANCY PIANO MASHUP",
+    "artist": "TWENTY ONE PILOTS",
+    "tbh_video_title": "Twenty One Pilots - Clancy - Ultimate Piano Mashup",
+    "tbh_video_link": "https://www.youtube.com/watch?v=n6ZqXs1XWzM",
+    "sheet_music_link": "",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "TOUGH LUCK",
+    "artist": "LAUFEY",
+    "tbh_video_title": "Laufey - Tough Luck - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=wG66l-bdi1o",
+    "sheet_music_link": "https://www.musicnotes.com/l/KVNrF",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "Laufey - Tough Luck - EASY Piano Tutorial",
+    "easy_video_link": "https://www.youtube.com/watch?v=yTviFMiYdrA"
+  },
+  {
+    "song_title": "HUNGARIAN DANCE NO 1",
+    "artist": "BRAHMS",
+    "tbh_video_title": "Brahms - Hungarian Dance No. 1 - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=dBsAoRmw1Ng",
+    "sheet_music_link": "https://hugospianoschool.com/p/hungariandanceno1",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "CAMDEN",
+    "artist": "GRACIE ABRAMS",
+    "tbh_video_title": "Gracie Abrams - Camden - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=UGJBos3vkwg",
+    "sheet_music_link": "https://www.musicnotes.com/l/xzNrb",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "WEREWOLF",
+    "artist": "FIONA APPLE",
+    "tbh_video_title": "Fiona Apple - Werewolf - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=oqRNQBOZOiQ",
+    "sheet_music_link": "https://www.musicnotes.com/l/7Chrb",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "BACK TO FRIENDS",
+    "artist": "SOMBR",
+    "tbh_video_title": "sombr - back to friends - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=kraaLtirM6c",
+    "sheet_music_link": "https://www.musicnotes.com/l/2lhrP",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "sombr - back to friends - EASY Piano Tutorial",
+    "easy_video_link": "https://www.youtube.com/watch?v=FhavFxfvi30"
+  },
+  {
     "song_title": "IDEA 22",
     "artist": "GIBRAN ALCOCER",
     "tbh_video_title": "Gibran Alcocer - Idea 22 - Piano Tutorial",
@@ -64,7 +124,7 @@
     "artist": "THE BEATLES",
     "tbh_video_title": "The Beatles - Piggies - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=pSsXhuyedlM",
-    "sheet_music_link": "",
+    "sheet_music_link": "https://www.musicnotes.com/l/HKNrJ",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
