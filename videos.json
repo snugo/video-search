@@ -1,5 +1,45 @@
 [
   {
+    "song_title": "SEE YOU AGAIN",
+    "artist": "TYLER THE CREATOR FEAT KALI UCHIS",
+    "tbh_video_title": "Tyler, The Creator - See You Again (feat Kali Uchis) - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=dAUDvtha74g",
+    "sheet_music_link": "https://www.musicnotes.com/l/MBNrm",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "MOMMA SONG",
+    "artist": "BENSON BOONE",
+    "tbh_video_title": "Benson Boone - Momma Song - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=6OJSDdZlul0",
+    "sheet_music_link": "https://www.musicnotes.com/l/xhKrW",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "ETUDE WOO",
+    "artist": "ALKAN",
+    "tbh_video_title": "Alkan - Etude WoO - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=4fyVUzFpRMo",
+    "sheet_music_link": "https://hugospianoschool.com/p/etudewoo",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "BROOKLYN BABY",
+    "artist": "LANA DEL REY",
+    "tbh_video_title": "Lana Del Rey - Brooklyn Baby - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=nPdYcRrvla0",
+    "sheet_music_link": "https://www.musicnotes.com/l/xxNrW",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "CLANCY PIANO MASHUP",
     "artist": "TWENTY ONE PILOTS",
     "tbh_video_title": "Twenty One Pilots - Clancy - Ultimate Piano Mashup",
