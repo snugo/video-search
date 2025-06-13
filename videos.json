@@ -1,5 +1,95 @@
 [
   {
+    "song_title": "ALL I NEED",
+    "artist": "RADIOHEAD",
+    "tbh_video_title": "Radiohead - All I Need - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=YkxhcYx7dXU",
+    "sheet_music_link": "",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "THE CONTRACT",
+    "artist": "TWENTY ONE PILOTS",
+    "tbh_video_title": "Twenty One Pilots - The Contract - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=RQVe9XD1VHQ",
+    "sheet_music_link": "",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "TAKE MY HAND",
+    "artist": "MATT BERRY",
+    "tbh_video_title": "Matt Berry - Take My Hand - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=7nMOP4_FGyE",
+    "sheet_music_link": "https://www.musicnotes.com/l/MhKrF",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "FANTASIE NO 1",
+    "artist": "WILHELM STENHAMMAR",
+    "tbh_video_title": "Wilhelm Stenhammar - Fantasie No. 1 - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=lBwL1sC--Co",
+    "sheet_music_link": "https://hugospianoschool.com/p/fantasie1",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "MARGARET",
+    "artist": "LANA DEL REY FEAT BLEACHERS",
+    "tbh_video_title": "Lana Del Rey - Margaret (feat. Bleachers) - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=F0gJKXoU5Kk",
+    "sheet_music_link": "https://www.musicnotes.com/l/dTKrQ",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "NORWEGIAN WOOD",
+    "artist": "BEATLES",
+    "tbh_video_title": "The Beatles - Norwegian Wood (This Bird Has Flown) - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=OmeSFy60H-o",
+    "sheet_music_link": "https://www.musicnotes.com/l/HBNrZ",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "THIS SONG",
+    "artist": "CONAN GRAY",
+    "tbh_video_title": "Conan Gray - This Song - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=avZ_D3PyKSs",
+    "sheet_music_link": "",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "BALLADE NO 1 IN G MINOR",
+    "artist": "CHOPIN",
+    "tbh_video_title": "Chopin - Ballade No. 1 in G Minor - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=LkNCjEQAEJY",
+    "sheet_music_link": "https://hugospianoschool.com/p/chopin-bundle",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "ELECTRIC TOUCH",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Electric Touch (Eras Tour) - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=HLBZW1XFeLI",
+    "sheet_music_link": "https://www.musicnotes.com/l/LhKrw",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "SEE YOU AGAIN",
     "artist": "TYLER THE CREATOR FEAT KALI UCHIS",
     "tbh_video_title": "Tyler, The Creator - See You Again (feat Kali Uchis) - Accurate Piano Tutorial with Sheet Music",
@@ -184,7 +274,7 @@
     "artist": "CHOPIN",
     "tbh_video_title": "Chopin - Nocturne Op. 55 No. 1 - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=y1tZHhCE-I4",
-    "sheet_music_link": "https://hugospianoschool.com/p/chopin-nocturne-in-f-minor-op-55-no-1-796596",
+    "sheet_music_link": "https://hugospianoschool.com/p/chopin-bundle",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -274,7 +364,7 @@
     "artist": "CHOPIN",
     "tbh_video_title": "Chopin - \"Aeolian Harp\" Etude Op.25 No.1 - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=T-7tElGkBxI",
-    "sheet_music_link": "https://hugospianoschool.com/p/chopin-etude-op-25-no-1-aeolian-harp-787507",
+    "sheet_music_link": "https://hugospianoschool.com/p/chopin-bundle",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -424,7 +514,7 @@
     "artist": "CHOPIN",
     "tbh_video_title": "Chopin - Raindrop Prelude - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=eoTwKjC_qiI",
-    "sheet_music_link": "https://hugospianoschool.com/p/classical-bundle-vol-1-769500-1",
+    "sheet_music_link": "https://hugospianoschool.com/p/chopin-bundle",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -564,7 +654,7 @@
     "artist": "CHOPIN",
     "tbh_video_title": "Chopin - Prelude Op. 28 No. 16 in B flat minor - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=qGfkgRtlpCc",
-    "sheet_music_link": "https://hugospianoschool.com/p/classical-bundle-vol-1-769500-1",
+    "sheet_music_link": "https://hugospianoschool.com/p/chopin-bundle",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -1044,7 +1134,7 @@
     "artist": "CHOPIN",
     "tbh_video_title": "Chopin - Waltz in C♯ Minor (Op. 64 No. 2) - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=6aGWGaRKK18",
-    "sheet_music_link": "https://hugospianoschool.com/p/classical-bundle-vol-1-769500-1",
+    "sheet_music_link": "https://hugospianoschool.com/p/chopin-bundle",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -1534,7 +1624,7 @@
     "artist": "CHOPIN",
     "tbh_video_title": "Chopin - Nocturne in C Sharp Minor (No. 20) - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=jcSdPY2yiJo",
-    "sheet_music_link": "https://hugospianoschool.com/p/classical-bundle-vol-1-769500-1",
+    "sheet_music_link": "https://hugospianoschool.com/p/chopin-bundle",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
