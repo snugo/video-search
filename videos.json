@@ -1,5 +1,45 @@
 [
   {
+    "song_title": "TEST DRIVE",
+    "artist": "HOW TO TRAIN YOUR DRAGON",
+    "tbh_video_title": "How To Train Your Dragon - Test Drive - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=ep2DnZACYTE",
+    "sheet_music_link": "https://www.musicnotes.com/l/T7rrS",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "THE CONTRACT",
+    "artist": "TWENTY ONE PILOTS",
+    "tbh_video_title": "Twenty One Pilots - The Contract - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=OKbv7-MQaho",
+    "sheet_music_link": "https://www.musicnotes.com/l/29rrQ",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "RAGE OVER A LOST PENNY",
+    "artist": "BEETHOVEN",
+    "tbh_video_title": "Beethoven - Rage Over a Lost Penny - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=7qGNZp11zUA",
+    "sheet_music_link": "https://hugospianoschool.com/p/beethoven-bundle",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "ARCADIA",
+    "artist": "LANA DEL REY",
+    "tbh_video_title": "Lana Del Rey - Arcadia - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=JULCyNSMH70",
+    "sheet_music_link": "https://www.musicnotes.com/l/5RrrZ",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "ALL I NEED",
     "artist": "RADIOHEAD",
     "tbh_video_title": "Radiohead - All I Need - Piano Tutorial with Sheet Music",
@@ -14,7 +54,7 @@
     "artist": "TWENTY ONE PILOTS",
     "tbh_video_title": "Twenty One Pilots - The Contract - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=RQVe9XD1VHQ",
-    "sheet_music_link": "",
+    "sheet_music_link": "https://www.musicnotes.com/l/k9rrw",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -34,7 +74,7 @@
     "artist": "WILHELM STENHAMMAR",
     "tbh_video_title": "Wilhelm Stenhammar - Fantasie No. 1 - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=lBwL1sC--Co",
-    "sheet_music_link": "https://hugospianoschool.com/p/fantasie1",
+    "sheet_music_link": "https://hugospianoschool.com/p/various-bundle",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -64,7 +104,7 @@
     "artist": "CONAN GRAY",
     "tbh_video_title": "Conan Gray - This Song - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=avZ_D3PyKSs",
-    "sheet_music_link": "",
+    "sheet_music_link": "https://www.musicnotes.com/l/g2rrq",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -114,7 +154,7 @@
     "artist": "ALKAN",
     "tbh_video_title": "Alkan - Etude WoO - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=4fyVUzFpRMo",
-    "sheet_music_link": "https://hugospianoschool.com/p/etudewoo",
+    "sheet_music_link": "https://hugospianoschool.com/p/various-bundle",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -234,7 +274,7 @@
     "artist": "ERIK SATIE",
     "tbh_video_title": "Satie - Gnossienne No.1 - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=nKbI61uhQzE",
-    "sheet_music_link": "https://hugospianoschool.com/p/gnossienne-no-1",
+    "sheet_music_link": "https://hugospianoschool.com/p/satie-bundle",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -444,7 +484,7 @@
     "artist": "BEETHOVEN",
     "tbh_video_title": "Beethoven - Pathetique Sonata 1st Movement - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=zFZWU7Pq2W0",
-    "sheet_music_link": "https://hugospianoschool.com/p/beethoven-pathetique-sonata-1st-movement-777990",
+    "sheet_music_link": "https://hugospianoschool.com/p/beethoven-bundle",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -964,7 +1004,7 @@
     "artist": "SCOTT JOPLIN",
     "tbh_video_title": "Scott Joplin - Maple Leaf Rag - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=eyh0bFWxWOs",
-    "sheet_music_link": "https://hugospianoschool.com/p/maple-leaf-rag",
+    "sheet_music_link": "https://hugospianoschool.com/p/joplin-bundle",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -1494,7 +1534,7 @@
     "artist": "CHOPIN",
     "tbh_video_title": "Chopin - Étude Op.25 No.11 (Winter Wind) - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=g_UAT5HAEl0",
-    "sheet_music_link": "https://www.musicnotes.com/l/272KZ",
+    "sheet_music_link": "https://hugospianoschool.com/p/chopin-bundle",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -1694,7 +1734,7 @@
     "artist": "LISZT",
     "tbh_video_title": "Liszt - Romance S. 169 - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=nzw7tLDKxkc",
-    "sheet_music_link": "https://hugospianoschool.com/p/romance-s169",
+    "sheet_music_link": "https://hugospianoschool.com/p/liszt-bundle",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -1864,7 +1904,7 @@
     "artist": "BEETHOVEN",
     "tbh_video_title": "Beethoven - Sonata No.17 Tempest 3rd Movement - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=Tn1648X4ZKk",
-    "sheet_music_link": "https://www.musicnotes.com/l/tz7KZ",
+    "sheet_music_link": "https://hugospianoschool.com/p/beethoven-bundle",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -1934,7 +1974,7 @@
     "artist": "CHOPIN",
     "tbh_video_title": "Chopin - Waltz in A minor (Found in New York 2024) - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=iMoXr7cJdts",
-    "sheet_music_link": "https://www.musicnotes.com/l/NM7KS",
+    "sheet_music_link": "https://hugospianoschool.com/p/chopin-bundle",
     "is_accompaniment": "FALSE",
     "easy_video_title": "Chopin - Waltz in A minor - EASY Piano Tutorial",
     "easy_video_link": "https://www.youtube.com/watch?v=fP3vxRJpuHY"
@@ -1964,7 +2004,7 @@
     "artist": "DEBUSSY",
     "tbh_video_title": "Debussy - Arabesque No.1 - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=5qcDb1OrmuQ",
-    "sheet_music_link": "https://www.musicnotes.com/l/c22Km",
+    "sheet_music_link": "https://hugospianoschool.com/p/debussy-bundle",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -2064,7 +2104,7 @@
     "artist": "CHOPIN",
     "tbh_video_title": "Chopin - Nocturne Op.48 No.1 - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=jNqy54JvC0k",
-    "sheet_music_link": "https://www.musicnotes.com/l/td2KW",
+    "sheet_music_link": "https://hugospianoschool.com/p/chopin-bundle",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -2164,7 +2204,7 @@
     "artist": "MOZART",
     "tbh_video_title": "Mozart - Fantasia in d minor, K.397 - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=SMO8jUe4OUw",
-    "sheet_music_link": "https://www.musicnotes.com/l/hkkK4",
+    "sheet_music_link": "https://hugospianoschool.com/p/mozart-bundle",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -2264,7 +2304,7 @@
     "artist": "BEETHOVEN",
     "tbh_video_title": "Beethoven - Pathétique (2nd movement) - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=pHBr-qwwTwE",
-    "sheet_music_link": "https://www.musicnotes.com/l/MhkK4",
+    "sheet_music_link": "https://hugospianoschool.com/p/beethoven-bundle",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -2364,7 +2404,7 @@
     "artist": "CHOPIN",
     "tbh_video_title": "Chopin - Minute Waltz - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=AnbYTuB2dIQ",
-    "sheet_music_link": "https://www.musicnotes.com/l/ckvKZ",
+    "sheet_music_link": "https://hugospianoschool.com/p/chopin-bundle",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -2434,7 +2474,7 @@
     "artist": "DEBUSSY",
     "tbh_video_title": "Debussy - Rêverie - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=5aLl9UEuWhE",
-    "sheet_music_link": "https://www.musicnotes.com/l/KRvKq",
+    "sheet_music_link": "https://hugospianoschool.com/p/debussy-bundle",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -2524,7 +2564,7 @@
     "artist": "BRAHMS",
     "tbh_video_title": "Brahms - Hungarian Dance No. 5 - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=j8DmisS0_h8",
-    "sheet_music_link": "https://www.musicnotes.com/l/tHHKb",
+    "sheet_music_link": "https://hugospianoschool.com/p/brahms-bundle",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -2674,7 +2714,7 @@
     "artist": "CHOPIN",
     "tbh_video_title": "Chopin - Fantaisie-Impromptu, Op. 66 - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=QDcBdJOK6mA",
-    "sheet_music_link": "https://www.musicnotes.com/l/5zHKQ",
+    "sheet_music_link": "https://hugospianoschool.com/p/chopin-bundle",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -4064,7 +4104,7 @@
     "artist": "FRANZ LISZT",
     "tbh_video_title": "Franz Liszt - La Campanella - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=faGkRkz8QNk",
-    "sheet_music_link": "https://musescore.com/song/grandes_etudes_de_paganini_s141-72559",
+    "sheet_music_link": "https://hugospianoschool.com/p/liszt-bundle",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -4274,7 +4314,7 @@
     "artist": "BEETHOVEN",
     "tbh_video_title": "Beethoven - Für Elise - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=3RY5p7rbpd0",
-    "sheet_music_link": "https://www.musicnotes.com/l/rffN4",
+    "sheet_music_link": "https://hugospianoschool.com/p/beethoven-bundle",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -4314,7 +4354,7 @@
     "artist": "MOZART",
     "tbh_video_title": "Mozart - Rondo Alla Turca - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=6_qH4iI2Ado",
-    "sheet_music_link": "https://www.musicnotes.com/l/lxGNw",
+    "sheet_music_link": "https://hugospianoschool.com/p/mozart-bundle",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -4394,7 +4434,7 @@
     "artist": "BEETHOVEN",
     "tbh_video_title": "Beethoven - Moonlight Sonata (3rd Movement) - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=Wm2D7NrtMg4",
-    "sheet_music_link": "https://www.musicnotes.com/l/6v9Nw",
+    "sheet_music_link": "https://hugospianoschool.com/p/beethoven-bundle",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -4444,7 +4484,7 @@
     "artist": "BEETHOVEN",
     "tbh_video_title": "Beethoven - Moonlight Sonata (2nd Movement) - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=XEulrVtU9DM",
-    "sheet_music_link": "https://www.musicnotes.com/l/jz9NP",
+    "sheet_music_link": "https://hugospianoschool.com/p/beethoven-bundle",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -4504,7 +4544,7 @@
     "artist": "BEETHOVEN",
     "tbh_video_title": "Beethoven - Moonlight Sonata (1st Movement) - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=dFJDJkoA3z0",
-    "sheet_music_link": "https://www.musicnotes.com/l/3B7NP",
+    "sheet_music_link": "https://hugospianoschool.com/p/beethoven-bundle",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -6894,7 +6934,7 @@
     "artist": "ÓLAFUR ARNALDS",
     "tbh_video_title": "Ólafur Arnalds - Tomorrow's Song - Piano Tutorial",
     "tbh_video_link": "https://www.youtube.com/watch?v=rDGtxqD2aVM",
-    "sheet_music_link": "https://olafurarnalds.com/sheet-music/",
+    "sheet_music_link": "",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -6924,7 +6964,7 @@
     "artist": "CHOPIN",
     "tbh_video_title": "Chopin - Wrong Note Etude (Op. 25 No. 5) - Piano Tutorial",
     "tbh_video_link": "https://www.youtube.com/watch?v=1kPb30Ym4qc",
-    "sheet_music_link": "https://musescore.com/classicman/scores/175968",
+    "sheet_music_link": "",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -6974,7 +7014,7 @@
     "artist": "ALBENIZ",
     "tbh_video_title": "How to play Asturias on piano (very advanced)",
     "tbh_video_link": "https://www.youtube.com/watch?v=S3GR-axaw14",
-    "sheet_music_link": "https://musescore.com/user/2749876/scores/5047635",
+    "sheet_music_link": "",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -7374,7 +7414,7 @@
     "artist": "ERIK SATIE",
     "tbh_video_title": "Erik Satie - Gymnopédie No. 1 - ACCURATE Piano Tutorial",
     "tbh_video_link": "https://www.youtube.com/watch?v=jUcYgxGGNMI",
-    "sheet_music_link": "https://www.musicnotes.com/l/7VtMP",
+    "sheet_music_link": "https://hugospianoschool.com/p/satie-bundle",
     "is_accompaniment": "TRUE",
     "easy_video_title": "Erik Satie - Gymnopédie No. 1 - EASY Piano Tutorial",
     "easy_video_link": "https://www.youtube.com/watch?v=yRONA4BBz4c"
@@ -9122,9 +9162,9 @@
   {
     "song_title": "THE ENTERTAINER",
     "artist": "SCOTT JOPLIN",
-    "tbh_video_title": "How to play The Entertainer by Scott Joplin on piano",
+    "tbh_video_title": "Scott Joplin - The Entertainer - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=wBbW17x5vZQ",
-    "sheet_music_link": "https://www.musicnotes.com/l/632FF",
+    "sheet_music_link": "https://hugospianoschool.com/p/joplin-bundle",
     "is_accompaniment": "FALSE",
     "easy_video_title": "Scott Joplin - The Entertainer - EASY Piano Tutorial",
     "easy_video_link": "https://www.youtube.com/watch?v=LPh8xUfQdYg"
@@ -9882,9 +9922,9 @@
   {
     "song_title": "LIEBESTRAUM",
     "artist": "FRANZ LISZT",
-    "tbh_video_title": "How to play Liebestraum by Franz Liszt on piano",
+    "tbh_video_title": "Franz Liszt - Liebestraum No. 3 - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=EIs9pi_b6J4",
-    "sheet_music_link": "https://musescore.com/user/25893586/scores/5100571",
+    "sheet_music_link": "https://hugospianoschool.com/p/liszt-bundle",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -9914,7 +9954,7 @@
     "artist": "CLAUDE DEBUSSY",
     "tbh_video_title": "How to play Clair De Lune by Claude Debussy on piano",
     "tbh_video_link": "https://www.youtube.com/watch?v=Fa5QzuJrDMU",
-    "sheet_music_link": "https://musescore.com/classicman/clairdelune",
+    "sheet_music_link": "https://hugospianoschool.com/p/debussy-bundle",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -10004,7 +10044,7 @@
     "artist": "CHOPIN",
     "tbh_video_title": "How to play Nocturne in E-flat major (Op. 9 No. 2) by Chopin on piano",
     "tbh_video_link": "https://www.youtube.com/watch?v=TtCEFCxv6Z0",
-    "sheet_music_link": "https://musescore.com/user/6662591/scores/4383881",
+    "sheet_music_link": "",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
