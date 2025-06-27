@@ -1,5 +1,45 @@
 [
   {
+    "song_title": "ROMANTIC FLIGHT",
+    "artist": "HOW TO TRAIN YOUR DRAGON",
+    "tbh_video_title": "How To Train Your Dragon - Romantic Flight - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=wIwQY3eTmp0",
+    "sheet_music_link": "https://www.musicnotes.com/l/7Hgr8",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "TAKE ME HOME",
+    "artist": "BENSON BOONE",
+    "tbh_video_title": "Benson Boone - Take Me Home - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=R6jTk5KFmEs",
+    "sheet_music_link": "",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "NOCTURNE IN B FLAT MINOR OP 9 NO 1",
+    "artist": "CHOPIN",
+    "tbh_video_title": "Chopin - Nocturne in Bb Minor, Op. 9, No. 1 - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=EhD2a4hv9bM",
+    "sheet_music_link": "https://hugospianoschool.com/p/chopin-bundle",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "BLOOD ORANGE",
+    "artist": "CHAMPAGNE COAST",
+    "tbh_video_title": "Blood Orange - Champagne Coast - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=6BOc33ar2vk",
+    "sheet_music_link": "https://www.musicnotes.com/l/K2rr4",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "TEST DRIVE",
     "artist": "HOW TO TRAIN YOUR DRAGON",
     "tbh_video_title": "How To Train Your Dragon - Test Drive - Piano Tutorial with Sheet Music",
