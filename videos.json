@@ -1,5 +1,105 @@
 [
   {
+    "song_title": "MUSETTE IN D",
+    "artist": "BACH",
+    "tbh_video_title": "Bach - Musette in D - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=BQvsziXooHE",
+    "sheet_music_link": "https://hugospianoschool.com/p/bach-bundle",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "HAUNTED",
+    "artist": "TWYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Haunted (Acoustic Version) - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=M2n0yTs9FPI",
+    "sheet_music_link": "https://www.musicnotes.com/l/6fgrw",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "SOLO PIECE 4",
+    "artist": "SKETCHBOOK",
+    "tbh_video_title": "Sketchbook - Solo Piece 4 - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=gxUc1KUi964",
+    "sheet_music_link": "https://hugospianoschool.com/p/sketchbook",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "SOLO PIECE 3",
+    "artist": "SKETCHBOOK",
+    "tbh_video_title": "Sketchbook - Solo Piece 3 - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=97POuFuKDYc",
+    "sheet_music_link": "https://hugospianoschool.com/p/sketchbook",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "SOLO PIECE 2",
+    "artist": "SKETCHBOOK",
+    "tbh_video_title": "Sketchbook - Solo Piece 2 - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=sMJtXatRg8Q",
+    "sheet_music_link": "https://hugospianoschool.com/p/sketchbook",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "SOLO PIECE 1",
+    "artist": "SKETCHBOOK",
+    "tbh_video_title": "Sketchbook - Solo Piece 1 - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=K_YhniUGjCE",
+    "sheet_music_link": "https://hugospianoschool.com/p/sketchbook",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "SNAP BACK",
+    "artist": "TWENTY ONE PILOTS",
+    "tbh_video_title": "Twenty One Pilots - Snap Back - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=8aJYLv1DzSw",
+    "sheet_music_link": "https://www.musicnotes.com/l/h2rrW",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "LIKE MY FATHER",
+    "artist": "JAX",
+    "tbh_video_title": "Jax - Like My Father - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=K9XFX1Whneo",
+    "sheet_music_link": "",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "ERLKÖNIG",
+    "artist": "SCHUBERT LISZT",
+    "tbh_video_title": "Schubert/Liszt - Erlkönig - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=JEwSioXi2aQ",
+    "sheet_music_link": "https://hugospianoschool.com/p/liszt-bundle",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "LET DOWN",
+    "artist": "RADIOHEAD",
+    "tbh_video_title": "Radiohead - Let Down - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=-Nwuiazr6IE",
+    "sheet_music_link": "https://www.musicnotes.com/l/VRgrX",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "ROMANTIC FLIGHT",
     "artist": "HOW TO TRAIN YOUR DRAGON",
     "tbh_video_title": "How To Train Your Dragon - Romantic Flight - Piano Tutorial with Sheet Music",
@@ -14,7 +114,7 @@
     "artist": "BENSON BOONE",
     "tbh_video_title": "Benson Boone - Take Me Home - Accurate Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=R6jTk5KFmEs",
-    "sheet_music_link": "",
+    "sheet_music_link": "https://www.musicnotes.com/l/hHzr4",
     "is_accompaniment": "TRUE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -1114,7 +1214,7 @@
     "artist": "SHOSTAKOVICH",
     "tbh_video_title": "Shostakovich - Waltz No. 2 - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=IqFkBUGaz4A",
-    "sheet_music_link": "",
+    "sheet_music_link": "https://www.musicnotes.com/l/cfzrp",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
