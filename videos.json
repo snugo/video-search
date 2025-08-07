@@ -1,5 +1,145 @@
 [
   {
+    "song_title": "THE SUBWAY",
+    "artist": "CHAPPELL ROAN",
+    "tbh_video_title": "Chappell Roan - The Subway - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=sWIqvU92gP0",
+    "sheet_music_link": "https://www.musicnotes.com/l/5K3rZ",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "Chappell Roan - The Subway - EASY Piano Tutorial",
+    "easy_video_link": "https://www.youtube.com/watch?v=HGX8uyZNjAM"
+  },
+  {
+    "song_title": "WALTZ IN E MINOR",
+    "artist": "CHOPIN",
+    "tbh_video_title": "Chopin - Waltz in E Minor - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=aYhP69uxcR8",
+    "sheet_music_link": "https://hugospianoschool.com/p/chopin-bundle",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "HOLY GROUND",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Holy Ground (BBC Radio 1 Live Lounge) - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=j9Jj9EjNc8M",
+    "sheet_music_link": "https://www.musicnotes.com/l/fMzrb",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "VODKA CRANBERRY",
+    "artist": "CONAN GRAY",
+    "tbh_video_title": "Conan Gray - Vodka Cranberry - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=Fpnkgu-ZDy0",
+    "sheet_music_link": "https://www.musicnotes.com/l/DR3rX",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "SCHOOL OF VELOCITY IV",
+    "artist": "CZERNY",
+    "tbh_video_title": "Czerny - School of Velocity IV - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=R4yg1mvs-ok",
+    "sheet_music_link": "https://hugospianoschool.com/p/czerny",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "SCHOOL OF VELOCITY III",
+    "artist": "CZERNY",
+    "tbh_video_title": "Czerny - School of Velocity III - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=2JPBwg3eSSU",
+    "sheet_music_link": "https://hugospianoschool.com/p/czerny",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "CHANGES",
+    "artist": "BLACK SABBATH",
+    "tbh_video_title": "Black Sabbath - Changes - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=yhowSXoS7vY",
+    "sheet_music_link": "https://www.musicnotes.com/l/VkRrb",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "SCHOOL OF VELOCITY II",
+    "artist": "CZERNY",
+    "tbh_video_title": "Czerny - School of Velocity II - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=eBm8cAg25Ck",
+    "sheet_music_link": "https://hugospianoschool.com/p/czerny",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "SCHOOL OF VELOCITY I",
+    "artist": "CZERNY",
+    "tbh_video_title": "Czerny - School of Velocity I - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=uBxX64WD6y4",
+    "sheet_music_link": "https://hugospianoschool.com/p/czerny",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "IM NOT THE ONLY ONE",
+    "artist": "SAM SMITH",
+    "tbh_video_title": "Sam Smith - I'm Not The Only One - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=wjaIYQCskjE",
+    "sheet_music_link": "https://www.musicnotes.com/l/VfgrF",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "QUASI ADAGIO",
+    "artist": "BELA BARTOK",
+    "tbh_video_title": "Béla Bartók - Quasi Adagio - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=K5lbADs9iL0",
+    "sheet_music_link": "https://hugospianoschool.com/p/various-bundle",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "MINUET IN G",
+    "artist": "MOZART",
+    "tbh_video_title": "Mozart - Minuet in G major, K. 1/1e - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=7Uzaq7H0K5E",
+    "sheet_music_link": "https://hugospianoschool.com/p/mozart-bundle",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "LOVER GIRL",
+    "artist": "LAUFEY",
+    "tbh_video_title": "Laufey - Lover Girl - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=7iK-iLSrwbI",
+    "sheet_music_link": "https://www.musicnotes.com/l/HBdrS",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "ECOSSAISE IN G",
+    "artist": "BEETHOVEN",
+    "tbh_video_title": "Beethoven - Ecossaise in G - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=eopZ7tK9Xf8",
+    "sheet_music_link": "https://hugospianoschool.com/p/beethoven-bundle",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "MUSETTE IN D",
     "artist": "BACH",
     "tbh_video_title": "Bach - Musette in D - Piano Tutorial with Sheet Music",
@@ -11,7 +151,7 @@
   },
   {
     "song_title": "HAUNTED",
-    "artist": "TWYLOR SWIFT",
+    "artist": "TAYLOR SWIFT",
     "tbh_video_title": "Taylor Swift - Haunted (Acoustic Version) - Accurate Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=M2n0yTs9FPI",
     "sheet_music_link": "https://www.musicnotes.com/l/6fgrw",
@@ -146,8 +286,8 @@
     "tbh_video_link": "https://www.youtube.com/watch?v=ep2DnZACYTE",
     "sheet_music_link": "https://www.musicnotes.com/l/T7rrS",
     "is_accompaniment": "FALSE",
-    "easy_video_title": "",
-    "easy_video_link": ""
+    "easy_video_title": "How To Train Your Dragon - Test Drive - EASY Piano Tutorial",
+    "easy_video_link": "https://www.youtube.com/watch?v=f2qnHDTLe1o"
   },
   {
     "song_title": "THE CONTRACT",
