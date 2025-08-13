@@ -1,5 +1,35 @@
 [
   {
+    "song_title": "SUMMER",
+    "artist": "VIVALDI",
+    "tbh_video_title": "Vivaldi - Summer - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=l2rSjLGndbQ",
+    "sheet_music_link": "https://hugospianoschool.com/p/various-bundle",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "NO SURPRISES",
+    "artist": "RADIOHEAD",
+    "tbh_video_title": "Radiohead - No Surprises - Advanced Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=-D6To5G8RwA",
+    "sheet_music_link": "https://www.musicnotes.com/l/Dj3rw",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "GOLDEN BROWN",
+    "artist": "THE STRANGLERS",
+    "tbh_video_title": "The Stranglers - Golden Brown - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=7hFnSebpL0c",
+    "sheet_music_link": "https://www.musicnotes.com/l/5lgrp",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "THE SUBWAY",
     "artist": "CHAPPELL ROAN",
     "tbh_video_title": "Chappell Roan - The Subway - Piano Tutorial with Sheet Music",
@@ -6171,7 +6201,7 @@
   },
   {
     "song_title": "NO SURPRISES",
-    "artist": "REGINA SPEKTOR VERSION",
+    "artist": "RADIOHEAD REGINA SPEKTOR",
     "tbh_video_title": "Radiohead - No Surprises (Regina Spektor Version) - Accurate Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=GFBwYXfoP6I",
     "sheet_music_link": "https://www.musicnotes.com/l/K3ch8",
