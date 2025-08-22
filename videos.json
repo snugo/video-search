@@ -1,5 +1,75 @@
 [
   {
+    "song_title": "GOLDEN",
+    "artist": "KPOP DEMON HUNTERS",
+    "tbh_video_title": "KPop Demon Hunters - Golden - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=Rlpmom8nuwM",
+    "sheet_music_link": "https://www.musicnotes.com/l/5vtr8",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "CASTLES CRUMBLING",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Castles Crumbling (Eras Tour) - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=HSV_MTbCu8c",
+    "sheet_music_link": "https://www.musicnotes.com/l/K3trZ",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "REVOLUTIONARY ETUDE",
+    "artist": "CHOPIN",
+    "tbh_video_title": "Chopin - Revolutionary Etude - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=pnkN0oyNLyg",
+    "sheet_music_link": "https://hugospianoschool.com/p/chopin-bundle",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "DRUM SHOW",
+    "artist": "TWENTY ONE PILOTS",
+    "tbh_video_title": "Twenty One Pilots - Drum Show - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=QMZQdthws_4",
+    "sheet_music_link": "https://www.musicnotes.com/l/HHtrp",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "HALO",
+    "artist": "BEYONCE",
+    "tbh_video_title": "Beyoncé - Halo - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=dfQOfWjvMkk",
+    "sheet_music_link": "https://www.musicnotes.com/l/973rS",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "SNOW WHITE",
+    "artist": "LAUFEY",
+    "tbh_video_title": "Laufey - Snow White - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=_aDXXqiLbBY",
+    "sheet_music_link": "https://www.musicnotes.com/l/CdtrS",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "ZOMBIE",
+    "artist": "THE CRANBERRIES",
+    "tbh_video_title": "The Cranberries - Zombie (Wednesday Version) - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=s7BsV7gcWKk",
+    "sheet_music_link": "https://www.musicnotes.com/l/CT3rZ",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "SUMMER",
     "artist": "VIVALDI",
     "tbh_video_title": "Vivaldi - Summer - Piano Tutorial with Sheet Music",
