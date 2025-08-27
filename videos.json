@@ -1,5 +1,25 @@
 [
   {
+    "song_title": "SONATA NO 23 APPASSIONATA 3RD MVT",
+    "artist": "BEETHOVEN",
+    "tbh_video_title": "Beethoven - Sonata No. 23, “Appassionata” 3rd Movement - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=nCVbw7_F6QY",
+    "sheet_music_link": "https://hugospianoschool.com/p/beethoven-bundle",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "BUTTERFLIES",
+    "artist": "JVKE",
+    "tbh_video_title": "JVKE et al. - butterflies - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=7TW3M2RbFGM",
+    "sheet_music_link": "",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "GOLDEN",
     "artist": "KPOP DEMON HUNTERS",
     "tbh_video_title": "KPop Demon Hunters - Golden - Piano Tutorial with Sheet Music",
