@@ -1,5 +1,35 @@
 [
   {
+    "song_title": "EXIT MUSIC FOR A FILM",
+    "artist": "RADIOHEAD",
+    "tbh_video_title": "Radiohead - Exit Music (For A Film) - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=FRD8SrOxWmI",
+    "sheet_music_link": "",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "SODA POP",
+    "artist": "KPOP DEMON HUNTERS",
+    "tbh_video_title": "KPop Demon Hunters - Soda Pop - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=B1qqxw5mQik",
+    "sheet_music_link": "https://www.musicnotes.com/l/dgjrS",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "FORGET ME NOT",
+    "artist": "LAUFEY",
+    "tbh_video_title": "Laufey - Forget-Me-Not - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=mO-JYUil4A4",
+    "sheet_music_link": "",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "SONATA NO 23 APPASSIONATA 3RD MVT",
     "artist": "BEETHOVEN",
     "tbh_video_title": "Beethoven - Sonata No. 23, “Appassionata” 3rd Movement - Piano Tutorial with Sheet Music",
@@ -14,7 +44,7 @@
     "artist": "JVKE",
     "tbh_video_title": "JVKE et al. - butterflies - Accurate Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=7TW3M2RbFGM",
-    "sheet_music_link": "",
+    "sheet_music_link": "https://www.musicnotes.com/l/rrjrm",
     "is_accompaniment": "TRUE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -26,8 +56,8 @@
     "tbh_video_link": "https://www.youtube.com/watch?v=Rlpmom8nuwM",
     "sheet_music_link": "https://www.musicnotes.com/l/5vtr8",
     "is_accompaniment": "FALSE",
-    "easy_video_title": "",
-    "easy_video_link": ""
+    "easy_video_title": "KPop Demon Hunters - Golden - EASY Piano Tutorial",
+    "easy_video_link": "https://www.youtube.com/watch?v=CdmSe0vp1IY"
   },
   {
     "song_title": "CASTLES CRUMBLING",
