@@ -1,10 +1,100 @@
 [
   {
+    "song_title": "DOROTHEA",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - dorothea - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=tgy_UpIZfjs",
+    "sheet_music_link": "https://www.musicnotes.com/l/kVjrZ",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "ARMY DREAMERS",
+    "artist": "KATE BUSH",
+    "tbh_video_title": "Kate Bush - Army Dreamers - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=HplbEBR_VGQ",
+    "sheet_music_link": "https://www.musicnotes.com/l/MN6rW",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "LYRIC PIECES OP 68 NO 5 AT THE CRADLE",
+    "artist": "GRIEG",
+    "tbh_video_title": "Grieg - Lyric Pieces Op. 68 No. 5: “At the Cradle” - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=Hld-FjY18lc",
+    "sheet_music_link": "https://hugospianoschool.com/p/various-bundle",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "GIVE A LITTLE BIT",
+    "artist": "SUPERTRAMP",
+    "tbh_video_title": "Supertramp - Give a Little Bit - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=ePCpDbw5DEE",
+    "sheet_music_link": "https://www.musicnotes.com/l/tTjrm",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "LAST NIGHT ON EARTH",
+    "artist": "GREEN DAY",
+    "tbh_video_title": "Green Day - Last Night on Earth - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=jALJnAeK8Tg",
+    "sheet_music_link": "",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "ALL TOO WELL SAD GIRL AUTUMN VERSION",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "All Too Well (Sad Girl Autumn Version) - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=i2heoCRHkLQ",
+    "sheet_music_link": "https://www.musicnotes.com/l/2jjrQ",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "TEARS",
+    "artist": "SABRINA CARPENTER",
+    "tbh_video_title": "Sabrina Carpenter - Tears - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=juZrqyBBzFY",
+    "sheet_music_link": "https://www.musicnotes.com/l/GkjrZ",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "CONSOLATION NO 3",
+    "artist": "LISZT",
+    "tbh_video_title": "Liszt - Consolation No. 3 - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=Jh5zNGZyKxA",
+    "sheet_music_link": "https://hugospianoschool.com/p/liszt-bundle",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "JEALOUS",
+    "artist": "LABRINTH",
+    "tbh_video_title": "Labrinth - Jealous - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=wt2EEartibs",
+    "sheet_music_link": "https://www.musicnotes.com/l/55trm",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "EXIT MUSIC FOR A FILM",
     "artist": "RADIOHEAD",
     "tbh_video_title": "Radiohead - Exit Music (For A Film) - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=FRD8SrOxWmI",
-    "sheet_music_link": "",
+    "sheet_music_link": "https://www.musicnotes.com/l/9VjrJ",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
