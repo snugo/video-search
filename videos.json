@@ -1,5 +1,55 @@
 [
   {
+    "song_title": "GARBAGE",
+    "artist": "TWENTY ONE PILOTS",
+    "tbh_video_title": "Twenty One Pilots - Garbage - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=lhIpzSt-wBA",
+    "sheet_music_link": "",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "MAN I NEED",
+    "artist": "OLIVIA DEAN",
+    "tbh_video_title": "Olivia Dean - Man I Need - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=5X6y1mF0Pkc",
+    "sheet_music_link": "https://www.musicnotes.com/l/326rW",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "WALTZ OP 69 NO 2",
+    "artist": "CHOPIN",
+    "tbh_video_title": "Chopin - Waltz in B minor Op. 69 No. 2 - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=IHVc3-XcE8k",
+    "sheet_music_link": "https://hugospianoschool.com/p/chopin-bundle",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "COTTONWOOD",
+    "artist": "TWENTY ONE PILOTS",
+    "tbh_video_title": "Twenty One Pilots - Cottonwood - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=IvhN7Bv5nME",
+    "sheet_music_link": "",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "INTENTIONS",
+    "artist": "TWENTY ONE PILOTS",
+    "tbh_video_title": "Twenty One Pilots - Intentions - Piano Tutorial (and Truce Reversed)",
+    "tbh_video_link": "https://www.youtube.com/watch?v=0LhMuacxYWg",
+    "sheet_music_link": "",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "DOROTHEA",
     "artist": "TAYLOR SWIFT",
     "tbh_video_title": "Taylor Swift - dorothea - Accurate Piano Tutorial with Sheet Music",
