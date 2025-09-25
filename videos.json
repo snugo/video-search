@@ -1,10 +1,70 @@
 [
   {
+    "song_title": "ZOMBIE",
+    "artist": "YUNGBLUD",
+    "tbh_video_title": "YUNGBLUD - Zombie - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=BsqIj1h9mPY",
+    "sheet_music_link": "",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "SYMPHONY NO 7 II ALLEGRETTO",
+    "artist": "BEETHOVEN",
+    "tbh_video_title": "Beethoven/Liszt - Symphony No.7 II. Allegretto - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=VVn_V8oiGQ0",
+    "sheet_music_link": "https://hugospianoschool.com/p/beethoven-bundle",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "ALL I ASK",
+    "artist": "ADELE",
+    "tbh_video_title": "Adele - All I Ask - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=0MuKkTn5r0A",
+    "sheet_music_link": "https://www.musicnotes.com/l/5jVrn",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "FIFTEEN",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Fifteen (Eras Tour) - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=L9ww8NTrWbg",
+    "sheet_music_link": "https://www.musicnotes.com/l/dl6rZ",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "FAKE PLASTIC TREES",
+    "artist": "RADIOHEAD",
+    "tbh_video_title": "Radiohead - Fake Plastic Trees - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=4FEh3Y-AD-k",
+    "sheet_music_link": "https://www.musicnotes.com/l/tKVrn",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "DRAG PATH",
+    "artist": "TWENTY ONE PILOTS",
+    "tbh_video_title": "Twenty One Pilots - Drag Path - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=mnBkCBB2pW0",
+    "sheet_music_link": "https://www.musicnotes.com/l/H6Vrn",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "GARBAGE",
     "artist": "TWENTY ONE PILOTS",
     "tbh_video_title": "Twenty One Pilots - Garbage - Accurate Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=lhIpzSt-wBA",
-    "sheet_music_link": "",
+    "sheet_music_link": "https://www.musicnotes.com/l/3KVrF",
     "is_accompaniment": "TRUE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -34,7 +94,7 @@
     "artist": "TWENTY ONE PILOTS",
     "tbh_video_title": "Twenty One Pilots - Cottonwood - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=IvhN7Bv5nME",
-    "sheet_music_link": "",
+    "sheet_music_link": "https://www.musicnotes.com/l/RKVrW",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -44,10 +104,10 @@
     "artist": "TWENTY ONE PILOTS",
     "tbh_video_title": "Twenty One Pilots - Intentions - Piano Tutorial (and Truce Reversed)",
     "tbh_video_link": "https://www.youtube.com/watch?v=0LhMuacxYWg",
-    "sheet_music_link": "",
+    "sheet_music_link": "https://www.musicnotes.com/l/dKVr4",
     "is_accompaniment": "FALSE",
-    "easy_video_title": "",
-    "easy_video_link": ""
+    "easy_video_title": "Twenty One Pilots - Intentions - EASY Piano Tutorial",
+    "easy_video_link": "https://www.youtube.com/watch?v=PCmiKOTa6No"
   },
   {
     "song_title": "DOROTHEA",
