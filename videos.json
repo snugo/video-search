@@ -1,10 +1,40 @@
 [
   {
+    "song_title": "LOST WOODS",
+    "artist": "ZELDA",
+    "tbh_video_title": "Zelda - Lost Woods (Saria's Song) - Piano Tutorial",
+    "tbh_video_link": "https://www.youtube.com/watch?v=615J7czvZAU",
+    "sheet_music_link": "",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "CITY WALLS",
+    "artist": "TWENTY ONE PILOTS",
+    "tbh_video_title": "Twenty One Pilots - City Walls - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=IQig6udvtIU",
+    "sheet_music_link": "",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "AMAR PELOS DOIS",
+    "artist": "SALVADOR SOBRAL",
+    "tbh_video_title": "Salvador Sobral - Amar Pelos Dois - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=GcBh5UdqMxc",
+    "sheet_music_link": "",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "ZOMBIE",
     "artist": "YUNGBLUD",
     "tbh_video_title": "YUNGBLUD - Zombie - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=BsqIj1h9mPY",
-    "sheet_music_link": "",
+    "sheet_music_link": "https://www.musicnotes.com/l/NlHrP",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -154,7 +184,7 @@
     "artist": "GREEN DAY",
     "tbh_video_title": "Green Day - Last Night on Earth - Accurate Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=jALJnAeK8Tg",
-    "sheet_music_link": "",
+    "sheet_music_link": "https://www.musicnotes.com/l/h66rb",
     "is_accompaniment": "TRUE",
     "easy_video_title": "",
     "easy_video_link": ""
