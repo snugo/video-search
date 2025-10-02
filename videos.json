@@ -1,5 +1,45 @@
 [
   {
+    "song_title": "THE GREAT GIG IN THE SKY",
+    "artist": "PINK FLOYD",
+    "tbh_video_title": "Pink Floyd - The Great Gig in the Sky - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=qnu9nL_L6Ms",
+    "sheet_music_link": "https://www.musicnotes.com/l/R2vrX",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "NOCTURNE IN E MINOR OP 72 NO 1",
+    "artist": "CHOPIN",
+    "tbh_video_title": "Chopin - Nocturne in E Minor, Op. 72, No. 1 - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=wAVzV3YdHgU",
+    "sheet_music_link": "https://hugospianoschool.com/p/chopin-bundle",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "DOWNSTAIRS",
+    "artist": "TWENTY ONE PILOTS",
+    "tbh_video_title": "Twenty One Pilots - Downstairs - Piano Accompaniment Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=yrOM0uQl4bI",
+    "sheet_music_link": "https://www.musicnotes.com/l/77vrw",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "THERE IS A LIGHT THAT NEVER GOES OUT",
+    "artist": "THE SMITHS",
+    "tbh_video_title": "The Smiths - There Is a Light That Never Goes Out - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=Mej24GwaU_I",
+    "sheet_music_link": "https://www.musicnotes.com/l/jzvrW",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "LOST WOODS",
     "artist": "ZELDA",
     "tbh_video_title": "Zelda - Lost Woods (Saria's Song) - Piano Tutorial",
@@ -14,7 +54,7 @@
     "artist": "TWENTY ONE PILOTS",
     "tbh_video_title": "Twenty One Pilots - City Walls - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=IQig6udvtIU",
-    "sheet_music_link": "",
+    "sheet_music_link": "https://www.musicnotes.com/l/bdvrZ",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -24,7 +64,7 @@
     "artist": "SALVADOR SOBRAL",
     "tbh_video_title": "Salvador Sobral - Amar Pelos Dois - Accurate Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=GcBh5UdqMxc",
-    "sheet_music_link": "",
+    "sheet_music_link": "https://www.musicnotes.com/l/97vrF",
     "is_accompaniment": "TRUE",
     "easy_video_title": "",
     "easy_video_link": ""
