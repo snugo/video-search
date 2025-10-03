@@ -1,5 +1,35 @@
 [
   {
+    "song_title": "MAIN THEME",
+    "artist": "FINAL FANTASY VII",
+    "tbh_video_title": "Final Fantasy VII - Main Theme - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=zMquYcmRh48",
+    "sheet_music_link": "",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "ELDEST DAUGHTER",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Eldest Daughter - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=3_mLTDd0fDg",
+    "sheet_music_link": "",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "THE FATE OF OPHELIA",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - The Fate of Ophelia - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=g8mwtls0zzo",
+    "sheet_music_link": "",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "Taylor Swift - The Fate of Ophelia - EASY Piano Tutorial",
+    "easy_video_link": "https://www.youtube.com/watch?v=sEtwR51IrHY"
+  },
+  {
     "song_title": "THE GREAT GIG IN THE SKY",
     "artist": "PINK FLOYD",
     "tbh_video_title": "Pink Floyd - The Great Gig in the Sky - Accurate Piano Tutorial with Sheet Music",
