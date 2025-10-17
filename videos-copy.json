@@ -1,145 +1,5 @@
 [
   {
-    "song_title": "KAMADO TANJIRO NO UTA",
-    "artist": "DEMON SLAYER",
-    "tbh_video_title": "Demon Slayer - Kamado Tanjiro no Uta - Piano Tutorial with Sheet Music",
-    "tbh_video_link": "https://www.youtube.com/watch?v=p1qFBTv6oHQ",
-    "sheet_music_link": "https://www.musicnotes.com/l/zR7rP",
-    "is_accompaniment": "FALSE",
-    "easy_video_title": "",
-    "easy_video_link": ""
-  },
-  {
-    "song_title": "HALF THE WORLD AWAY",
-    "artist": "OASIS",
-    "tbh_video_title": "Oasis - Half The World Away - Piano Tutorial with Sheet Music",
-    "tbh_video_link": "https://www.youtube.com/watch?v=JJ7O9X3kEko",
-    "sheet_music_link": "https://www.musicnotes.com/l/TV7rm",
-    "is_accompaniment": "FALSE",
-    "easy_video_title": "",
-    "easy_video_link": ""
-  },
-  {
-    "song_title": "MY OLD WAYS",
-    "artist": "TAME IMPALA",
-    "tbh_video_title": "Tame Impala - My Old Ways - Accurate Piano Tutorial with Sheet Music",
-    "tbh_video_link": "https://www.youtube.com/watch?v=70N-Z-n55Hg",
-    "sheet_music_link": "",
-    "is_accompaniment": "TRUE",
-    "easy_video_title": "",
-    "easy_video_link": ""
-  },
-  {
-    "song_title": "YOU ARE SO BEAUTIFUL",
-    "artist": "JOE COCKER",
-    "tbh_video_title": "Joe Cocker - You Are So Beautiful - Accurate Piano Tutorial with Sheet Music",
-    "tbh_video_link": "https://www.youtube.com/watch?v=nziOX9iHhEQ",
-    "sheet_music_link": "https://www.musicnotes.com/l/vj7r4",
-    "is_accompaniment": "TRUE",
-    "easy_video_title": "",
-    "easy_video_link": ""
-  },
-  {
-    "song_title": "L ARABESQUE OP 100 NO 2",
-    "artist": "BURGMULLER",
-    "tbh_video_title": "Burgmüller - L’arabesque Op. 100 No. 2 - Piano Tutorial with Sheet Music",
-    "tbh_video_link": "https://www.youtube.com/watch?v=3suvvEuU_JI",
-    "sheet_music_link": "https://hugospianoschool.com/p/various-bundle",
-    "is_accompaniment": "FALSE",
-    "easy_video_title": "",
-    "easy_video_link": ""
-  },
-  {
-    "song_title": "OPALITE",
-    "artist": "TAYLOR SWIFT",
-    "tbh_video_title": "Taylor Swift - Opalite - Piano Tutorial with Sheet Music",
-    "tbh_video_link": "https://www.youtube.com/watch?v=CAlsg762Yoo",
-    "sheet_music_link": "https://www.musicnotes.com/l/xN7rX",
-    "is_accompaniment": "FALSE",
-    "easy_video_title": "",
-    "easy_video_link": ""
-  },
-  {
-    "song_title": "LIABILITY",
-    "artist": "LORDE",
-    "tbh_video_title": "Lorde - Liability - Accurate Piano Tutorial with Sheet Music",
-    "tbh_video_link": "https://www.youtube.com/watch?v=5j6dKRFwhkA",
-    "sheet_music_link": "https://www.musicnotes.com/l/2l2rw",
-    "is_accompaniment": "TRUE",
-    "easy_video_title": "",
-    "easy_video_link": ""
-  },
-  {
-    "song_title": "DEARLY BELOVED",
-    "artist": "KINGDOM HEARTS",
-    "tbh_video_title": "Kingdom Hearts - Dearly Beloved - Piano Tutorial with Sheet Music",
-    "tbh_video_link": "https://www.youtube.com/watch?v=vCVxXANX5bA",
-    "sheet_music_link": "https://www.musicnotes.com/l/9Ckr8",
-    "is_accompaniment": "FALSE",
-    "easy_video_title": "",
-    "easy_video_link": ""
-  },
-  {
-    "song_title": "ROBOT VOICES",
-    "artist": "TWENTY ONE PILOTS",
-    "tbh_video_title": "Twenty One Pilots - Robot Voices - Piano Tutorial with Sheet Music",
-    "tbh_video_link": "https://www.youtube.com/watch?v=uIveAxKJMTI",
-    "sheet_music_link": "",
-    "is_accompaniment": "FALSE",
-    "easy_video_title": "",
-    "easy_video_link": ""
-  },
-  {
-    "song_title": "THE LIFE OF A SHOWGIRL FEAT SABRINA CARPENTER",
-    "artist": "TAYLOR SWIFT",
-    "tbh_video_title": "Taylor Swift - The Life of a Showgirl (feat. Sabrina Carpenter) - Piano Tutorial with Sheet Music",
-    "tbh_video_link": "https://www.youtube.com/watch?v=7ECNTjwUiHU",
-    "sheet_music_link": "https://www.musicnotes.com/l/99krJ",
-    "is_accompaniment": "FALSE",
-    "easy_video_title": "",
-    "easy_video_link": ""
-  },
-  {
-    "song_title": "HIGH AND DRY",
-    "artist": "RADIOHEAD",
-    "tbh_video_title": "Radiohead - High and Dry - Piano Tutorial with Sheet Music",
-    "tbh_video_link": "https://www.youtube.com/watch?v=WNzDq3I1z0w",
-    "sheet_music_link": "https://www.musicnotes.com/l/vR7rF",
-    "is_accompaniment": "FALSE",
-    "easy_video_title": "",
-    "easy_video_link": ""
-  },
-  {
-    "song_title": "INVENTION NO 1 IN C MAJOR",
-    "artist": "BACH",
-    "tbh_video_title": "Bach - Invention No. 1 in C Major, BWV 772 - Piano Tutorial with Sheet Music",
-    "tbh_video_link": "https://www.youtube.com/watch?v=_TBFwUUI-As",
-    "sheet_music_link": "https://hugospianoschool.com/p/bach-bundle",
-    "is_accompaniment": "FALSE",
-    "easy_video_title": "",
-    "easy_video_link": ""
-  },
-  {
-    "song_title": "ELIZABETH TAYLOR",
-    "artist": "TAYLOR SWIFT",
-    "tbh_video_title": "Taylor Swift - Elizabeth Taylor - Accurate Piano Tutorial with Sheet Music",
-    "tbh_video_link": "https://www.youtube.com/watch?v=Ej2qurvvOs0",
-    "sheet_music_link": "https://www.musicnotes.com/l/29krn",
-    "is_accompaniment": "TRUE",
-    "easy_video_title": "",
-    "easy_video_link": ""
-  },
-  {
-    "song_title": "LOVE ME NOT",
-    "artist": "RAVYN LENAE",
-    "tbh_video_title": "Ravyn Lenae - Love Me Not - Piano Tutorial with Sheet Music",
-    "tbh_video_link": "https://www.youtube.com/watch?v=fr9cn2keC-8",
-    "sheet_music_link": "https://www.musicnotes.com/l/xGvrJ",
-    "is_accompaniment": "FALSE",
-    "easy_video_title": "",
-    "easy_video_link": ""
-  },
-  {
     "song_title": "MAIN THEME",
     "artist": "FINAL FANTASY VII",
     "tbh_video_title": "Final Fantasy VII - Main Theme - Piano Tutorial with Sheet Music",
@@ -154,7 +14,7 @@
     "artist": "TAYLOR SWIFT",
     "tbh_video_title": "Taylor Swift - Eldest Daughter - Accurate Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=3_mLTDd0fDg",
-    "sheet_music_link": "https://www.musicnotes.com/l/MnkrJ",
+    "sheet_music_link": "",
     "is_accompaniment": "TRUE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -164,7 +24,7 @@
     "artist": "TAYLOR SWIFT",
     "tbh_video_title": "Taylor Swift - The Fate of Ophelia - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=g8mwtls0zzo",
-    "sheet_music_link": "https://www.musicnotes.com/l/hPkrw",
+    "sheet_music_link": "",
     "is_accompaniment": "FALSE",
     "easy_video_title": "Taylor Swift - The Fate of Ophelia - EASY Piano Tutorial",
     "easy_video_link": "https://www.youtube.com/watch?v=sEtwR51IrHY"
@@ -184,7 +44,7 @@
     "artist": "CHOPIN",
     "tbh_video_title": "Chopin - Nocturne in E Minor, Op. 72, No. 1 - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=wAVzV3YdHgU",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/823675/chopin-bundle",
+    "sheet_music_link": "https://hugospianoschool.com/p/chopin-bundle",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -254,7 +114,7 @@
     "artist": "BEETHOVEN",
     "tbh_video_title": "Beethoven/Liszt - Symphony No.7 II. Allegretto - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=VVn_V8oiGQ0",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/831534/beethoven-bundle",
+    "sheet_music_link": "https://hugospianoschool.com/p/beethoven-bundle",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -324,7 +184,7 @@
     "artist": "CHOPIN",
     "tbh_video_title": "Chopin - Waltz in B minor Op. 69 No. 2 - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=IHVc3-XcE8k",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/823675/chopin-bundle",
+    "sheet_music_link": "https://hugospianoschool.com/p/chopin-bundle",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -474,7 +334,7 @@
     "artist": "BEETHOVEN",
     "tbh_video_title": "Beethoven - Sonata No. 23, “Appassionata” 3rd Movement - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=nCVbw7_F6QY",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/831534/beethoven-bundle",
+    "sheet_music_link": "https://hugospianoschool.com/p/beethoven-bundle",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -514,7 +374,7 @@
     "artist": "CHOPIN",
     "tbh_video_title": "Chopin - Revolutionary Etude - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=pnkN0oyNLyg",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/823675/chopin-bundle",
+    "sheet_music_link": "https://hugospianoschool.com/p/chopin-bundle",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -604,7 +464,7 @@
     "artist": "CHOPIN",
     "tbh_video_title": "Chopin - Waltz in E Minor - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=aYhP69uxcR8",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/823675/chopin-bundle",
+    "sheet_music_link": "https://hugospianoschool.com/p/chopin-bundle",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -724,7 +584,7 @@
     "artist": "BEETHOVEN",
     "tbh_video_title": "Beethoven - Ecossaise in G - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=eopZ7tK9Xf8",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/831534/beethoven-bundle",
+    "sheet_music_link": "https://hugospianoschool.com/p/beethoven-bundle",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -854,7 +714,7 @@
     "artist": "CHOPIN",
     "tbh_video_title": "Chopin - Nocturne in Bb Minor, Op. 9, No. 1 - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=EhD2a4hv9bM",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/823675/chopin-bundle",
+    "sheet_music_link": "https://hugospianoschool.com/p/chopin-bundle",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -894,7 +754,7 @@
     "artist": "BEETHOVEN",
     "tbh_video_title": "Beethoven - Rage Over a Lost Penny - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=7qGNZp11zUA",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/831534/beethoven-bundle",
+    "sheet_music_link": "https://hugospianoschool.com/p/beethoven-bundle",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -914,7 +774,7 @@
     "artist": "RADIOHEAD",
     "tbh_video_title": "Radiohead - All I Need - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=YkxhcYx7dXU",
-    "sheet_music_link": "https://www.musicnotes.com/l/HR7rJ",
+    "sheet_music_link": "",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -984,7 +844,7 @@
     "artist": "CHOPIN",
     "tbh_video_title": "Chopin - Ballade No. 1 in G Minor - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=LkNCjEQAEJY",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/823675/chopin-bundle",
+    "sheet_music_link": "https://hugospianoschool.com/p/chopin-bundle",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -1184,7 +1044,7 @@
     "artist": "CHOPIN",
     "tbh_video_title": "Chopin - Nocturne Op. 55 No. 1 - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=y1tZHhCE-I4",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/823675/chopin-bundle",
+    "sheet_music_link": "https://hugospianoschool.com/p/chopin-bundle",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -1274,7 +1134,7 @@
     "artist": "CHOPIN",
     "tbh_video_title": "Chopin - \"Aeolian Harp\" Etude Op.25 No.1 - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=T-7tElGkBxI",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/823675/chopin-bundle",
+    "sheet_music_link": "https://hugospianoschool.com/p/chopin-bundle",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -1354,7 +1214,7 @@
     "artist": "BEETHOVEN",
     "tbh_video_title": "Beethoven - Pathetique Sonata 1st Movement - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=zFZWU7Pq2W0",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/831534/beethoven-bundle",
+    "sheet_music_link": "https://hugospianoschool.com/p/beethoven-bundle",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -1424,7 +1284,7 @@
     "artist": "CHOPIN",
     "tbh_video_title": "Chopin - Raindrop Prelude - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=eoTwKjC_qiI",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/823675/chopin-bundle",
+    "sheet_music_link": "https://hugospianoschool.com/p/chopin-bundle",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -1564,7 +1424,7 @@
     "artist": "CHOPIN",
     "tbh_video_title": "Chopin - Prelude Op. 28 No. 16 in B flat minor - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=qGfkgRtlpCc",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/823675/chopin-bundle",
+    "sheet_music_link": "https://hugospianoschool.com/p/chopin-bundle",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -2044,7 +1904,7 @@
     "artist": "CHOPIN",
     "tbh_video_title": "Chopin - Waltz in C♯ Minor (Op. 64 No. 2) - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=6aGWGaRKK18",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/823675/chopin-bundle",
+    "sheet_music_link": "https://hugospianoschool.com/p/chopin-bundle",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -2404,7 +2264,7 @@
     "artist": "CHOPIN",
     "tbh_video_title": "Chopin - Étude Op.25 No.11 (Winter Wind) - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=g_UAT5HAEl0",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/823675/chopin-bundle",
+    "sheet_music_link": "https://hugospianoschool.com/p/chopin-bundle",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -2534,7 +2394,7 @@
     "artist": "CHOPIN",
     "tbh_video_title": "Chopin - Nocturne in C Sharp Minor (No. 20) - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=jcSdPY2yiJo",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/823675/chopin-bundle",
+    "sheet_music_link": "https://hugospianoschool.com/p/chopin-bundle",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -2774,7 +2634,7 @@
     "artist": "BEETHOVEN",
     "tbh_video_title": "Beethoven - Sonata No.17 Tempest 3rd Movement - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=Tn1648X4ZKk",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/831534/beethoven-bundle",
+    "sheet_music_link": "https://hugospianoschool.com/p/beethoven-bundle",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -2844,7 +2704,7 @@
     "artist": "CHOPIN",
     "tbh_video_title": "Chopin - Waltz in A minor (Found in New York 2024) - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=iMoXr7cJdts",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/823675/chopin-bundle",
+    "sheet_music_link": "https://hugospianoschool.com/p/chopin-bundle",
     "is_accompaniment": "FALSE",
     "easy_video_title": "Chopin - Waltz in A minor - EASY Piano Tutorial",
     "easy_video_link": "https://www.youtube.com/watch?v=fP3vxRJpuHY"
@@ -2974,7 +2834,7 @@
     "artist": "CHOPIN",
     "tbh_video_title": "Chopin - Nocturne Op.48 No.1 - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=jNqy54JvC0k",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/823675/chopin-bundle",
+    "sheet_music_link": "https://hugospianoschool.com/p/chopin-bundle",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -3174,7 +3034,7 @@
     "artist": "BEETHOVEN",
     "tbh_video_title": "Beethoven - Pathétique (2nd movement) - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=pHBr-qwwTwE",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/831534/beethoven-bundle",
+    "sheet_music_link": "https://hugospianoschool.com/p/beethoven-bundle",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -3274,7 +3134,7 @@
     "artist": "CHOPIN",
     "tbh_video_title": "Chopin - Minute Waltz - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=AnbYTuB2dIQ",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/823675/chopin-bundle",
+    "sheet_music_link": "https://hugospianoschool.com/p/chopin-bundle",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -3584,7 +3444,7 @@
     "artist": "CHOPIN",
     "tbh_video_title": "Chopin - Fantaisie-Impromptu, Op. 66 - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=QDcBdJOK6mA",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/823675/chopin-bundle",
+    "sheet_music_link": "https://hugospianoschool.com/p/chopin-bundle",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -5184,7 +5044,7 @@
     "artist": "BEETHOVEN",
     "tbh_video_title": "Beethoven - Für Elise - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=3RY5p7rbpd0",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/831534/beethoven-bundle",
+    "sheet_music_link": "https://hugospianoschool.com/p/beethoven-bundle",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -5304,7 +5164,7 @@
     "artist": "BEETHOVEN",
     "tbh_video_title": "Beethoven - Moonlight Sonata (3rd Movement) - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=Wm2D7NrtMg4",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/831534/beethoven-bundle",
+    "sheet_music_link": "https://hugospianoschool.com/p/beethoven-bundle",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -5354,7 +5214,7 @@
     "artist": "BEETHOVEN",
     "tbh_video_title": "Beethoven - Moonlight Sonata (2nd Movement) - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=XEulrVtU9DM",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/831534/beethoven-bundle",
+    "sheet_music_link": "https://hugospianoschool.com/p/beethoven-bundle",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -5414,7 +5274,7 @@
     "artist": "BEETHOVEN",
     "tbh_video_title": "Beethoven - Moonlight Sonata (1st Movement) - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=dFJDJkoA3z0",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/831534/beethoven-bundle",
+    "sheet_music_link": "https://hugospianoschool.com/p/beethoven-bundle",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
