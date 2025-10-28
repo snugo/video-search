@@ -1,5 +1,85 @@
 [
   {
+    "song_title": "THIS IS HALLOWEEN",
+    "artist": "THE NIGHTMARE BEFORE CHRISTMAS",
+    "tbh_video_title": "The Nightmare Before Christmas - This Is Halloween - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=-uwQCxuNTBc",
+    "sheet_music_link": "http://bit.ly/2gWW8NK",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "The Nightmare Before Christmas - This is Halloween - EASY Piano Tutorial",
+    "easy_video_link": "https://www.youtube.com/watch?v=AZkZXmLImIE"
+  },
+  {
+    "song_title": "MRS MAGIC",
+    "artist": "STRAWBERRY GUY",
+    "tbh_video_title": "Strawberry Guy - Mrs Magic - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=rOn9uakWguM",
+    "sheet_music_link": "",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "SUPER MARIO BROS",
+    "artist": "MAIN THEME",
+    "tbh_video_title": "Super Mario Bros. - Main Theme - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=QFGJQhPmcts",
+    "sheet_music_link": "",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "BREACH PIANO MASHUP",
+    "artist": "TWENTY ONE PILOTS",
+    "tbh_video_title": "Twenty One Pilots - Breach Piano Mashup - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=SYqFYkfdX2c",
+    "sheet_music_link": "",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "IT WILL RAIN",
+    "artist": "BRUNO MARS",
+    "tbh_video_title": "Bruno Mars - It Will Rain - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=TV9F_KOStv8",
+    "sheet_music_link": "https://www.musicnotes.com/l/3h9rn",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "SPOOKY SCARY SKELETONS UNDEAD TOMBSTONE REMIX",
+    "artist": "ANDREW GOLD",
+    "tbh_video_title": "Andrew Gold - Spooky Scary Skeletons (Undead Tombstone Remix) - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=dzdjTNGblR8",
+    "sheet_music_link": "https://www.musicnotes.com/l/LN9rW",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "IMPROMPTU NO 3",
+    "artist": "SHUBERT",
+    "tbh_video_title": "Schubert - Impromptu No. 3 in Gb Major - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=agovLxX1axM",
+    "sheet_music_link": "https://hugospianoschool.com/p/various-bundle",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "ELIZABETH TAYLOR SO GLAMOROUS CABARET VERSION",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Elizabeth Taylor (So Glamorous Cabaret) - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=E5TK8vBkJU0",
+    "sheet_music_link": "https://www.musicnotes.com/l/l97rS",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "KAMADO TANJIRO NO UTA",
     "artist": "DEMON SLAYER",
     "tbh_video_title": "Demon Slayer - Kamado Tanjiro no Uta - Piano Tutorial with Sheet Music",
@@ -17058,16 +17138,6 @@
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
-  },
-  {
-    "song_title": "THIS IS HALLOWEEN",
-    "artist": "THE NIGHTMARE BEFORE CHRISTMAS",
-    "tbh_video_title": "The Nightmare Before Christmas - This Is Halloween - Piano Tutorial + SHEETS",
-    "tbh_video_link": "https://www.youtube.com/watch?v=wFSo-oQNK8Y",
-    "sheet_music_link": "http://bit.ly/2gWW8NK",
-    "is_accompaniment": "FALSE",
-    "easy_video_title": "The Nightmare Before Christmas - This is Halloween - EASY Piano Tutorial",
-    "easy_video_link": "https://www.youtube.com/watch?v=AZkZXmLImIE"
   },
   {
     "song_title": "BROCCOLI",
