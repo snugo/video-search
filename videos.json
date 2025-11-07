@@ -1,5 +1,95 @@
 [
   {
+    "song_title": "TO ZANARKAND",
+    "artist": "FINAL FANTASY X",
+    "tbh_video_title": "Final Fantasy X - To Zanarkand - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=DOCJWYCdtU4",
+    "sheet_music_link": "https://www.musicnotes.com/l/2Kcrw",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "UPTOWN GIRL",
+    "artist": "BILLY JOEL",
+    "tbh_video_title": "Billy Joel - Uptown Girl - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=BODdc_uFE3Y",
+    "sheet_music_link": "https://www.musicnotes.com/l/D3crw",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "CENTER MASS",
+    "artist": "TWENTY ONE PILOTS",
+    "tbh_video_title": "Twenty One Pilots - Center Mass - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=AnyqPU5VPdw",
+    "sheet_music_link": "",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "NOCTURNE IN D FLAT MAJOR OP 27 NO 2",
+    "artist": "CHOPIN",
+    "tbh_video_title": "Chopin - Nocturne in D-flat Major, Op. 27, No. 2 - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=Q0Krvzg8r_Y",
+    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/823675/chopin-bundle",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "COUNTRY HOUSE",
+    "artist": "BLUE",
+    "tbh_video_title": "Blur - Country House - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=Dsq0Tsx8sfg",
+    "sheet_music_link": "https://www.musicnotes.com/l/CMcrW",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "TOO LITTLE TOO LATE",
+    "artist": "LAUFEY",
+    "tbh_video_title": "Laufey - Too Little, Too Late - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=kbTEUlijUQs",
+    "sheet_music_link": "https://www.musicnotes.com/l/f59rp",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "SPARKLE FROM KIMI NO NA WA",
+    "artist": "RADWIMPS",
+    "tbh_video_title": "RADWIMPS - Sparkle - Kimi no Na wa (Your Name) - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=RJRlTLnTPg8",
+    "sheet_music_link": "https://www.musicnotes.com/l/R29rZ",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "MAN OF WAR",
+    "artist": "RADIOHEAD",
+    "tbh_video_title": "Radiohead - Man of War - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=FWhYRLAWQt4",
+    "sheet_music_link": "https://www.musicnotes.com/l/dgcrS",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "WISH LIST",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Wi$h Li$t - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=2h69z53BOQU",
+    "sheet_music_link": "https://www.musicnotes.com/l/hH9rW",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "IN THE HALL OF THE MOUNTAIN KING",
     "artist": "GRIEG",
     "tbh_video_title": "Grieg - In the Hall of the Mountain King - Piano Tutorial with Sheet Music",
@@ -24,7 +114,7 @@
     "artist": "STRAWBERRY GUY",
     "tbh_video_title": "Strawberry Guy - Mrs Magic - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=rOn9uakWguM",
-    "sheet_music_link": "",
+    "sheet_music_link": "https://www.musicnotes.com/l/C59rn",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
