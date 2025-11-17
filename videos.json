@@ -1,5 +1,65 @@
 [
   {
+    "song_title": "GREAT FAIRY FOUNTAIN",
+    "artist": "ZELDA",
+    "tbh_video_title": "Zelda: Breath of the Wild - Great Fairy Fountain - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=fwJMTJShg5E",
+    "sheet_music_link": "",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "FREE BIRD",
+    "artist": "LYNYRD SKYNYRD",
+    "tbh_video_title": "Lynyrd Skynyrd - Free Bird - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=iKZyZ5kXZao",
+    "sheet_music_link": "https://www.musicnotes.com/l/w9crq",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "DIE ON THIS HILL",
+    "artist": "SIENNA SPIRO",
+    "tbh_video_title": "SIENNA SPIRO - Die On This Hill - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=ArB-rpd-_N8",
+    "sheet_music_link": "https://www.musicnotes.com/l/SfcrS",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "RUIN THE FRIENDSHIP MY ADVICE VERSION",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Ruin The Friendship (My Advice Version) - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=P_G0f7OvLDw",
+    "sheet_music_link": "https://www.musicnotes.com/l/xccrp",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "CONSOLATION NO 2",
+    "artist": "LISZT",
+    "tbh_video_title": "Liszt - Consolation No. 2 - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=ujfWk_52ijc",
+    "sheet_music_link": "https://hugospianoschool.com/p/liszt-bundle",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "IDONTWANNABEYOUANYMORE",
+    "artist": "BILLIE EILISH",
+    "tbh_video_title": "Billie Eilish - idontwannabeyouanymore - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=YrGF7Yg3qbw",
+    "sheet_music_link": "https://www.musicnotes.com/l/5McrS",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "TO ZANARKAND",
     "artist": "FINAL FANTASY X",
     "tbh_video_title": "Final Fantasy X - To Zanarkand - Piano Tutorial with Sheet Music",
