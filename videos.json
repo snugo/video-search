@@ -1,5 +1,115 @@
 [
   {
+    "song_title": "HAVE YOURSELF A MERRY LITTLE CHRISTMAS",
+    "artist": "JUDY GARLAND",
+    "tbh_video_title": "Judy Garland - Have Yourself A Merry Little Christmas - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=KVot4oR6WQo",
+    "sheet_music_link": "",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "FOR GOOD",
+    "artist": "WICKED",
+    "tbh_video_title": "Wicked - For Good - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=qzB_Jfcvwp0",
+    "sheet_music_link": "",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "HUNGARIAN RHAPSODY NO 2",
+    "artist": "LISZT",
+    "tbh_video_title": "Liszt - Hungarian Rhapsody No. 2 - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=PXHF8zH350I",
+    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/834240/liszt-bundle",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "SABOTAGE",
+    "artist": "LAUFEY",
+    "tbh_video_title": "Laufey - Sabotage - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=p5mYCyOnoXo",
+    "sheet_music_link": "https://www.musicnotes.com/l/B9Lrp",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "THE WORLD WE KNEW",
+    "artist": "FRANK SINATRA",
+    "tbh_video_title": "Frank Sinatra - The World We Knew (Over And Over) - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=HlCESqK7xA8",
+    "sheet_music_link": "https://www.musicnotes.com/l/T9LrQ",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "IF I AM WITH YOU",
+    "artist": "JUJUTSU KAISEN",
+    "tbh_video_title": "Jujutsu Kaisen - If I Am With You - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=Ml6BNL7kHiU",
+    "sheet_music_link": "https://www.musicnotes.com/l/McLrQ",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "SULTANS OF SWING",
+    "artist": "DIRE STRAITS",
+    "tbh_video_title": "Dire Straits - Sultans Of Swing - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=vs2xdIxQozc",
+    "sheet_music_link": "https://www.musicnotes.com/l/32Lrp",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "FATHER FIGURE",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Father Figure - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=xpof2rAdW9o",
+    "sheet_music_link": "https://www.musicnotes.com/l/G9Lrq",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "MRS MAGIC STRINGS VERSION",
+    "artist": "STRAWBERRY GUY",
+    "tbh_video_title": "Strawberry Guy - Mrs Magic (Strings Version) - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=WvWwMW6bBls",
+    "sheet_music_link": "https://www.musicnotes.com/l/6HLrS",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "PRELUDE IN E MINOR",
+    "artist": "CHOPIN",
+    "tbh_video_title": "Chopin - Prélude in E Minor - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=6YugMU48Z7A",
+    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/823675/chopin-bundle",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "PAST WONT LEAVE MY BED",
+    "artist": "JOJI",
+    "tbh_video_title": "Joji - Past Won't Leave My Bed - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=MP5uJFZ98JM",
+    "sheet_music_link": "",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "GREAT FAIRY FOUNTAIN",
     "artist": "ZELDA",
     "tbh_video_title": "Zelda: Breath of the Wild - Great Fairy Fountain - Piano Tutorial with Sheet Music",
@@ -8465,16 +8575,6 @@
     "tbh_video_title": "Cornelia Jakobs - Hold Me Closer - Eurovision 2022 - Piano Tutorial",
     "tbh_video_link": "https://www.youtube.com/watch?v=EEeQl5NvYQ8",
     "sheet_music_link": "https://www.musicnotes.com/l/lVVMQ",
-    "is_accompaniment": "FALSE",
-    "easy_video_title": "",
-    "easy_video_link": ""
-  },
-  {
-    "song_title": "SULTANS OF SWING",
-    "artist": "DIRE STRAITS",
-    "tbh_video_title": "Dire Straits - Sultans Of Swing - Piano Tutorial + SHEETS",
-    "tbh_video_link": "https://www.youtube.com/watch?v=xXcirto9SAY",
-    "sheet_music_link": "https://www.musicnotes.com/l/NC6Mb",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
