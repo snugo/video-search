@@ -1,10 +1,60 @@
 [
   {
+    "song_title": "AS LONG AS YOURE MINE",
+    "artist": "WICKED",
+    "tbh_video_title": "Wicked - As Long As You're Mine - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=yGjTzWmoyK4",
+    "sheet_music_link": "",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "FOR GOOD",
+    "artist": "WICKED",
+    "tbh_video_title": "Wicked - For Good - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=dRp5aIRTgIU",
+    "sheet_music_link": "https://www.musicnotes.com/l/Mlxrb",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "FAIRYTALE OF NEW YORK",
+    "artist": "THE POGUES FEAT KIRSTY MACCOLL",
+    "tbh_video_title": "The Pogues - Fairytale of New York - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=vepDuwvxmJQ",
+    "sheet_music_link": "https://www.musicnotes.com/l/kTxr4",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "WINTER",
+    "artist": "VIVALDI",
+    "tbh_video_title": "Vivaldi - Winter - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=onJ-ffw9SH8",
+    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/955814/vivaldi-bundle",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "BACK TO DECEMBER",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Back To December (Eras Tour) - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=LvuCA-xcLvg",
+    "sheet_music_link": "https://www.musicnotes.com/l/dzxrm",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "HAVE YOURSELF A MERRY LITTLE CHRISTMAS",
     "artist": "JUDY GARLAND",
     "tbh_video_title": "Judy Garland - Have Yourself A Merry Little Christmas - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=KVot4oR6WQo",
-    "sheet_music_link": "",
+    "sheet_music_link": "https://www.musicnotes.com/l/4lxrX",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -14,7 +64,7 @@
     "artist": "WICKED",
     "tbh_video_title": "Wicked - For Good - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=qzB_Jfcvwp0",
-    "sheet_music_link": "",
+    "sheet_music_link": "https://www.musicnotes.com/l/h6xrm",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -194,7 +244,7 @@
     "artist": "TWENTY ONE PILOTS",
     "tbh_video_title": "Twenty One Pilots - Center Mass - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=AnyqPU5VPdw",
-    "sheet_music_link": "",
+    "sheet_music_link": "https://www.musicnotes.com/l/H6Grq",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -914,7 +964,7 @@
     "artist": "VIVALDI",
     "tbh_video_title": "Vivaldi - Summer - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=l2rSjLGndbQ",
-    "sheet_music_link": "https://hugospianoschool.com/p/various-bundle",
+    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/955814/vivaldi-bundle",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
