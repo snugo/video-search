@@ -1,10 +1,70 @@
 [
   {
+    "song_title": "JESU JOY OF MANS DESIRING",
+    "artist": "BACH",
+    "tbh_video_title": "Bach/Hess - Jesu, Joy of Man's Desiring - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=8ekMKJPVOFE",
+    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/831466/bach-bundle",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "O CHILDREN",
+    "artist": "NICK CAVE AND THE BAD SEEDS",
+    "tbh_video_title": "Nick Cave & The Bad Seeds - O Children - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=y3-fa5gzVWU",
+    "sheet_music_link": "",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "JINGLE BELL ROCK",
+    "artist": "BOBBY HELMS",
+    "tbh_video_title": "Bobby Helms - Jingle Bell Rock - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=hGkvx8w8SkQ",
+    "sheet_music_link": "https://www.musicnotes.com/l/jNfrm",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "SANTA BABY",
+    "artist": "EARTHA KITT",
+    "tbh_video_title": "Eartha Kitt - Santa Baby - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=dGNDtfwdzGE",
+    "sheet_music_link": "https://www.musicnotes.com/l/xfGrX",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "RUDOLPH THE RED NOSED REINDEER",
+    "artist": "JOHNNY MARKS",
+    "tbh_video_title": "Rudolph The Red-Nosed Reindeer - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=ocptsmBqNg8",
+    "sheet_music_link": "https://www.musicnotes.com/l/txGrF",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "BALLADE NO 1 IN G MINOR",
+    "artist": "CHOPIN",
+    "tbh_video_title": "Chopin - Ballade No. 1 in G Minor - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=txorog90eVM",
+    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/959404/chopin-ballade-no-1-in-g-minor",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "AS LONG AS YOURE MINE",
     "artist": "WICKED",
     "tbh_video_title": "Wicked - As Long As You're Mine - Accurate Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=yGjTzWmoyK4",
-    "sheet_music_link": "",
+    "sheet_music_link": "https://www.musicnotes.com/l/k6GrW",
     "is_accompaniment": "TRUE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -1375,16 +1435,6 @@
     "tbh_video_title": "Conan Gray - This Song - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=avZ_D3PyKSs",
     "sheet_music_link": "https://www.musicnotes.com/l/g2rrq",
-    "is_accompaniment": "FALSE",
-    "easy_video_title": "",
-    "easy_video_link": ""
-  },
-  {
-    "song_title": "BALLADE NO 1 IN G MINOR",
-    "artist": "CHOPIN",
-    "tbh_video_title": "Chopin - Ballade No. 1 in G Minor - Piano Tutorial with Sheet Music",
-    "tbh_video_link": "https://www.youtube.com/watch?v=LkNCjEQAEJY",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/823675/chopin-bundle",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
