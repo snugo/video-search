@@ -1,5 +1,45 @@
 [
   {
+    "song_title": "AVE MARIA",
+    "artist": "SCHUMANN",
+    "tbh_video_title": "Schubert - Ave Maria - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=4IwA45KRxOQ",
+    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/834243/various-bundle",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "SANTA CLAUS IS COMIN TO TOWN",
+    "artist": "J FRED COOTS",
+    "tbh_video_title": "Santa Claus Is Comin' to Town - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=BI5rzzy8XKY",
+    "sheet_music_link": "https://www.musicnotes.com/l/BfCrp",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "RAWFEAR",
+    "artist": "TWENTY ONE PILOTS",
+    "tbh_video_title": "Twenty One Pilots - RAWFEAR - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=J4-muS6ae6A",
+    "sheet_music_link": "",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "YOU STOLE THE SHOW",
+    "artist": "SIENNA SPIRO",
+    "tbh_video_title": "SIENNA SPIRO - You Stole The Show - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=HHX83tzuH0w",
+    "sheet_music_link": "",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "JESU JOY OF MANS DESIRING",
     "artist": "BACH",
     "tbh_video_title": "Bach/Hess - Jesu, Joy of Man's Desiring - Piano Tutorial with Sheet Music",
