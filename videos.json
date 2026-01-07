@@ -1,5 +1,35 @@
 [
   {
+    "song_title": "THOUGHT IT WAS LOVE",
+    "artist": "TY MYERS",
+    "tbh_video_title": "Ty Myers - Thought It Was Love (Acoustic) - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=Y7dN81bwUQE",
+    "sheet_music_link": "https://www.musicnotes.com/l/ztlr4",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "LUSH LIFE",
+    "artist": "ZARA LARSSON",
+    "tbh_video_title": "Zara Larsson - Lush Life - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=kl0O2uemzRs",
+    "sheet_music_link": "https://mnot.es/2Buox9Y",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "Zara Larsson - Lush Life - EASY Piano Tutorial",
+    "easy_video_link": "https://www.youtube.com/watch?v=ZJj7vO2LhQs"
+  },
+  {
+    "song_title": "THE LAST TIME",
+    "artist": "TAYLOR SWIFT FEAT GARY LIGHTBODY",
+    "tbh_video_title": "Taylor Swift - The Last Time (feat. Gary Lightbody) - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=4_MOvDPOpi8",
+    "sheet_music_link": "https://www.musicnotes.com/l/6gTrp",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "AVE MARIA",
     "artist": "SCHUMANN",
     "tbh_video_title": "Schubert - Ave Maria - Accurate Piano Tutorial with Sheet Music",
@@ -24,7 +54,7 @@
     "artist": "TWENTY ONE PILOTS",
     "tbh_video_title": "Twenty One Pilots - RAWFEAR - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=J4-muS6ae6A",
-    "sheet_music_link": "",
+    "sheet_music_link": "https://www.musicnotes.com/l/dfTr8",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -34,7 +64,7 @@
     "artist": "SIENNA SPIRO",
     "tbh_video_title": "SIENNA SPIRO - You Stole The Show - Accurate Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=HHX83tzuH0w",
-    "sheet_music_link": "",
+    "sheet_music_link": "https://www.musicnotes.com/l/2LTrF",
     "is_accompaniment": "TRUE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -54,7 +84,7 @@
     "artist": "NICK CAVE AND THE BAD SEEDS",
     "tbh_video_title": "Nick Cave & The Bad Seeds - O Children - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=y3-fa5gzVWU",
-    "sheet_music_link": "",
+    "sheet_music_link": "https://www.musicnotes.com/l/3fTrP",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -254,7 +284,7 @@
     "artist": "JOJI",
     "tbh_video_title": "Joji - Past Won't Leave My Bed - Accurate Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=MP5uJFZ98JM",
-    "sheet_music_link": "",
+    "sheet_music_link": "https://www.musicnotes.com/l/dtlrq",
     "is_accompaniment": "TRUE",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -20948,16 +20978,6 @@
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
-  },
-  {
-    "song_title": "LUSH LIFE",
-    "artist": "ZARA LARSSON",
-    "tbh_video_title": "Zara Larsson - Lush Life - Piano Tutorial + Sheets",
-    "tbh_video_link": "https://www.youtube.com/watch?v=ow6u7WRHLMA",
-    "sheet_music_link": "https://mnot.es/2Buox9Y",
-    "is_accompaniment": "FALSE",
-    "easy_video_title": "Zara Larsson - Lush Life - EASY Piano Tutorial",
-    "easy_video_link": "https://www.youtube.com/watch?v=ZJj7vO2LhQs"
   },
   {
     "song_title": "WELCOME TO THE BLACK PARADE",
