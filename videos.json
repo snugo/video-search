@@ -1,5 +1,75 @@
 [
   {
+    "song_title": "WOKE UP IN JAPAN",
+    "artist": "FRIQTAO",
+    "tbh_video_title": "friqtao - Woke up in Japan - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=GPjaK0k2xbU",
+    "sheet_music_link": "",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "I THOUGHT I SAW YOUR FACE TODAY",
+    "artist": "SHE AND HIM",
+    "tbh_video_title": "She & Him - I Thought I Saw Your Face Today - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=PW2kOXq6VDM",
+    "sheet_music_link": "https://www.musicnotes.com/l/jkDr8",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "PURPLE RAIN",
+    "artist": "PRINCE",
+    "tbh_video_title": "Prince - Purple Rain - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=ntahGnqGsdw",
+    "sheet_music_link": "https://www.musicnotes.com/l/B3Drb",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "BALLADE NO 2 IN F MAJOR",
+    "artist": "CHOPIN",
+    "tbh_video_title": "Chopin - Ballade No. 2 in F Major - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=kHfZ6nSB93E",
+    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/823675/chopin-bundle",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "I THOUGHT I SAW YOUR FACE TODAY",
+    "artist": "SHE AND HIM",
+    "tbh_video_title": "She & Him - I Thought I Saw Your Face Today - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=FMez-d2sLTM",
+    "sheet_music_link": "https://www.musicnotes.com/l/C9lrq",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "I JUST MIGHT",
+    "artist": "BRUNO MARS",
+    "tbh_video_title": "Bruno Mars - I Just Might - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=LdS379MWOWo",
+    "sheet_music_link": "https://www.musicnotes.com/l/HNDrF",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "INNOCENCE",
+    "artist": "DANIEL CAESAR",
+    "tbh_video_title": "Daniel Caesar - Innocence - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=SGl6mDXJwJ4",
+    "sheet_music_link": "",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "THOUGHT IT WAS LOVE",
     "artist": "TY MYERS",
     "tbh_video_title": "Ty Myers - Thought It Was Love (Acoustic) - Accurate Piano Tutorial with Sheet Music",
