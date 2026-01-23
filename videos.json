@@ -1,5 +1,35 @@
 [
   {
+    "song_title": "APERTURE",
+    "artist": "HARRY STYLES",
+    "tbh_video_title": "Harry Styles - Aperture - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=PMTFyc08uGg",
+    "sheet_music_link": "",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "RAINDANCE",
+    "artist": "DAVE AND TEMS",
+    "tbh_video_title": "Dave, Tems - Raindance - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=zEs5AfOBW2k",
+    "sheet_music_link": "https://www.musicnotes.com/l/khBrw",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "DREAMER",
+    "artist": "LAUFEY",
+    "tbh_video_title": "Laufey - Dreamer - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=y7a0X-ieqdU",
+    "sheet_music_link": "https://www.musicnotes.com/l/KlDrQ",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "WOKE UP IN JAPAN",
     "artist": "FRIQTAO",
     "tbh_video_title": "friqtao - Woke up in Japan - Piano Tutorial with Sheet Music",
