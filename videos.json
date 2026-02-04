@@ -1,10 +1,70 @@
 [
   {
+    "song_title": "THIS WOMANS WORK",
+    "artist": "KATE BUSH",
+    "tbh_video_title": "Kate Bush - This Woman's Work - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=moe9Fk21Q5g",
+    "sheet_music_link": "https://www.musicnotes.com/l/RK5r4",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "GOOD DAY SUNSHINE",
+    "artist": "THE BEATLES",
+    "tbh_video_title": "The Beatles - Good Day Sunshine - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=3_4EhPwtd3w",
+    "sheet_music_link": "https://www.musicnotes.com/l/NGBrb",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "VALENTINE",
+    "artist": "LAUFEY",
+    "tbh_video_title": "Laufey - Valentine - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=qPngZ2s0cQ4",
+    "sheet_music_link": "https://www.musicnotes.com/l/DM5rP",
+    "is_accompaniment": "TRUE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "SO EASY TO FALL IN LOVE",
+    "artist": "OLIVIA DEAN",
+    "tbh_video_title": "Olivia Dean - So Easy (To Fall in Love) - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=L2R5t2BXzZk",
+    "sheet_music_link": "https://www.musicnotes.com/l/HlBrm",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "PIANO SONATA NO 5 IN G MAJOR K 283",
+    "artist": "MOZART",
+    "tbh_video_title": "Mozart - Piano Sonata No. 5 in G major, K. 283: I. Allegro - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=ILCA0J8uiiE",
+    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/831499/mozart-bundle",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "FORGET HER",
+    "artist": "JEFF BUCKLEY",
+    "tbh_video_title": "Jeff Buckley - Forget Her - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=koqEjKjLQdA",
+    "sheet_music_link": "https://www.musicnotes.com/l/LRBrm",
+    "is_accompaniment": "FALSE",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "APERTURE",
     "artist": "HARRY STYLES",
     "tbh_video_title": "Harry Styles - Aperture - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=PMTFyc08uGg",
-    "sheet_music_link": "",
+    "sheet_music_link": "https://www.musicnotes.com/l/tcBr4",
     "is_accompaniment": "FALSE",
     "easy_video_title": "",
     "easy_video_link": ""
