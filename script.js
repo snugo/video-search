@@ -47,15 +47,14 @@ function handleSearch() {
 
 function applyFilter(results) {
   return results.filter(v => {
-    const matchesAccompaniment =
+    const matchesType =
       currentFilter === 'all' ||
-      (currentFilter === 'solo' && v['is_accompaniment'] === 'FALSE') ||
-      (currentFilter === 'accompaniment' && v['is_accompaniment'] === 'TRUE');
+      v['type'] === currentFilter;
 
     const matchesArtist =
       !selectedArtist || v['artist'] === selectedArtist;
 
-    return matchesAccompaniment && matchesArtist;
+    return matchesType && matchesArtist;
   });
 }
 
@@ -66,8 +65,15 @@ function displayResults(results) {
   list.innerHTML = '';
   countDisplay.innerText = `${results.length} result${results.length !== 1 ? 's' : ''} found`;
   results.forEach(video => {
-    const isAccompaniment = video['is_accompaniment'] === 'TRUE';
-    const typeLabel = isAccompaniment ? 'Accompaniment' : 'Piano Solo';
+    let typeLabel = '';
+
+    if (video['type'] === 'ACC') {
+      typeLabel = 'Accompaniment';
+    } else if (video['type'] === 'ARR') {
+      typeLabel = 'Arrangement';
+    } else if (video['type'] === 'CLA') {
+      typeLabel = 'Classical';
+    }
 
     const tutorialLink = video['tbh_video_link'] && video['tbh_video_title']
       ? `Tutorial: <a href="${video['tbh_video_link']}" target="_blank">${video['tbh_video_title']}</a><br/>`
