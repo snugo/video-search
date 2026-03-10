@@ -1,5 +1,45 @@
 [
   {
+    "song_title": "SWAN LAKE",
+    "artist": "TCHAIKOVSKY",
+    "tbh_video_title": "Tchaikovsky - Swan Lake - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=Sgt_CsqLSSo",
+    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/831501/tchaikovsky-bundle",
+    "type": "CLA",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "NO GOOD DEED",
+    "artist": "WICKED",
+    "tbh_video_title": "Wicked - No Good Deed - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=3oz6N4qV9m0",
+    "sheet_music_link": "",
+    "type": "ACC",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "RISK IT ALL",
+    "artist": "BRUNO MARS",
+    "tbh_video_title": "Bruno Mars - Risk It All - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=AIkripktC6k",
+    "sheet_music_link": "https://www.musicnotes.com/l/VjMgJ",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "MADE IN JAPAN",
+    "artist": "BUCK OWENS",
+    "tbh_video_title": "Buck Owens - Made In Japan - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=zcSjy4eCsOg",
+    "sheet_music_link": "",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "INVENTION NO 8 IN F MAJOR BWV 779",
     "artist": "BACH",
     "tbh_video_title": "Bach - Invention No. 8 in F Major, BWV 779 - Piano Tutorial with Sheet Music",
