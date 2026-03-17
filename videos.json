@@ -1,5 +1,45 @@
 [
   {
+    "song_title": "TV",
+    "artist": "BILLIE EILISH",
+    "tbh_video_title": "Billie Eilish - TV - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=S6HFgUUaSAs",
+    "sheet_music_link": "https://www.musicnotes.com/l/hKhgP",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "THE VISITOR",
+    "artist": "SIENNA SPIRO",
+    "tbh_video_title": "SIENNA SPIRO - The Visitor - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=PRvRg-efwGU",
+    "sheet_music_link": "https://www.musicnotes.com/l/5NhgZ",
+    "type": "ACC",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "WHO KNOWS",
+    "artist": "DANIEL CAESAR",
+    "tbh_video_title": "Daniel Caesar - Who Knows - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=W9zEloMTfSU",
+    "sheet_music_link": "https://www.musicnotes.com/l/ZLMgb",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "CONSTELLATIONS",
+    "artist": "JADE LEMAC",
+    "tbh_video_title": "Jade LeMac - Constellations (Piano Version) - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=hvHF6LwjMEY",
+    "sheet_music_link": "https://www.musicnotes.com/l/jfMgQ",
+    "type": "ACC",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "SWAN LAKE",
     "artist": "TCHAIKOVSKY",
     "tbh_video_title": "Tchaikovsky - Swan Lake - Piano Tutorial with Sheet Music",
