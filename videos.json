@@ -1,5 +1,25 @@
 [
   {
+    "song_title": "LIKE SPINNING PLATES",
+    "artist": "RADIOHEAD",
+    "tbh_video_title": "Radiohead - Like Spinning Plates (Live) - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=1Det8S34rCU",
+    "sheet_music_link": "https://www.musicnotes.com/l/LQNgw",
+    "type": "ACC",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "HOME",
+    "artist": "EDWARD SHARPE AND THE MAGNETIC ZEROS",
+    "tbh_video_title": "Edward Sharpe & the Magnetic Zeros - Home - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=SaNLaKy_Dyo",
+    "sheet_music_link": "https://www.musicnotes.com/l/BzNgF",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "PAS DE DEUX",
     "artist": "TCHAIKOVSKY",
     "tbh_video_title": "Tchaikovsky/Pletnev - Pas de Deux (The Nutcracker) - Piano Tutorial with Sheet Music",
