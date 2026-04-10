@@ -1,10 +1,40 @@
 [
   {
+    "song_title": "WAITING FOR YOU",
+    "artist": "ALEX G",
+    "tbh_video_title": "Alex G - Waiting For You - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=6wfBhhYZlXk",
+    "sheet_music_link": "",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "CARLAS SONG",
+    "artist": "HARRY STYLES",
+    "tbh_video_title": "Harry Styles - Carla's Song (A Take Away Show) - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=C1vNXkjpUMw",
+    "sheet_music_link": "https://www.musicnotes.com/l/9RKgX",
+    "type": "ACC",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "PIANO SONATA NO 16 K 545 MOV 2",
+    "artist": "MOZART",
+    "tbh_video_title": "Mozart - Piano Sonata No.16 in C Major, K.545: II. Andante - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=RQr2P6O2WOA",
+    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/831499/mozart-bundle",
+    "type": "CLA",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "OPHELIA",
     "artist": "THE LUMINEERS",
     "tbh_video_title": "The Lumineers - Ophelia - Accurate Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=FTU_6VogzSQ",
-    "sheet_music_link": "",
+    "sheet_music_link": "https://www.musicnotes.com/l/XBNgW",
     "type": "ACC",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -24,7 +54,7 @@
     "artist": "TOM ODELL",
     "tbh_video_title": "Tom Odell - When I Close My Eyes (Live) - Accurate Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=ZJY4dOOk1qk",
-    "sheet_music_link": "",
+    "sheet_music_link": "https://www.musicnotes.com/l/5gKgF",
     "type": "ACC",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -184,7 +214,7 @@
     "artist": "BRUNO MARS",
     "tbh_video_title": "Bruno Mars - Risk It All - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=AIkripktC6k",
-    "sheet_music_link": "https://www.musicnotes.com/l/VjMgJ",
+    "sheet_music_link": "https://www.musicnotes.com/l/3jKg8",
     "type": "ARR",
     "easy_video_title": "",
     "easy_video_link": ""
