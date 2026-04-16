@@ -1,10 +1,30 @@
 [
   {
+    "song_title": "ILL FORGET ABOUT YOU IN TIME",
+    "artist": "LAUFEY",
+    "tbh_video_title": "Laufey - I’ll Forget About You (In Time) - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=YhWzcmcwy1U",
+    "sheet_music_link": "https://www.musicnotes.com/l/7LKgQ",
+    "type": "ACC",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "GOT TO GET YOU INTO MY LIFE",
+    "artist": "THE BEATLES",
+    "tbh_video_title": "The Beatles - Got To Get You Into My Life - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=ypBBMdlDayk",
+    "sheet_music_link": "https://www.musicnotes.com/l/G7Kgb",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "WAITING FOR YOU",
     "artist": "ALEX G",
     "tbh_video_title": "Alex G - Waiting For You - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=6wfBhhYZlXk",
-    "sheet_music_link": "",
+    "sheet_music_link": "https://www.musicnotes.com/l/6fKgS",
     "type": "ARR",
     "easy_video_title": "",
     "easy_video_link": ""
