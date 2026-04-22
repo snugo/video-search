@@ -1,5 +1,45 @@
 [
   {
+    "song_title": "PIANO SONATA NO 5 IN G MAJOR K 283 MOV 2",
+    "artist": "MOZART",
+    "tbh_video_title": "Mozart - Piano Sonata No. 5 in G major, K. 283: II. Andante - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=6PfE0JY9Jgc",
+    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/831499/mozart-bundle",
+    "type": "CLA",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "DROP DEAD",
+    "artist": "OLIVIA RODRIGO",
+    "tbh_video_title": "Olivia Rodrigo - drop dead - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=TWwfqq1w9h8",
+    "sheet_music_link": "https://www.musicnotes.com/l/c3rgW",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "IM GONNA BE 500 MILES",
+    "artist": "THE PROCLAIMERS",
+    "tbh_video_title": "The Proclaimers - I'm Gonna Be (500 Miles) - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=3EU1U00aTRs",
+    "sheet_music_link": "https://www.musicnotes.com/l/N5KgF",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "SINCERITY IS SCARY",
+    "artist": "THE 1975",
+    "tbh_video_title": "The 1975 - Sincerity Is Scary - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=9WPFMX-rgyk",
+    "sheet_music_link": "https://www.musicnotes.com/l/Mgrgm",
+    "type": "ACC",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "ILL FORGET ABOUT YOU IN TIME",
     "artist": "LAUFEY",
     "tbh_video_title": "Laufey - I’ll Forget About You (In Time) - Accurate Piano Tutorial with Sheet Music",
@@ -50,7 +90,7 @@
     "easy_video_link": ""
   },
   {
-    "song_title": "PIANO SONATA NO 16 K 545 MOV 2",
+    "song_title": "PIANO SONATA NO 16 IN C MAJOR K 545 MOV 2",
     "artist": "MOZART",
     "tbh_video_title": "Mozart - Piano Sonata No.16 in C Major, K.545: II. Andante - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=RQr2P6O2WOA",
@@ -440,7 +480,7 @@
     "easy_video_link": ""
   },
   {
-    "song_title": "PIANO SONATA NO 5 IN G MAJOR K 283",
+    "song_title": "PIANO SONATA NO 5 IN G MAJOR K 283 MOV 1",
     "artist": "MOZART",
     "tbh_video_title": "Mozart - Piano Sonata No. 5 in G major, K. 283: I. Allegro - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=ILCA0J8uiiE",
@@ -3750,7 +3790,7 @@
     "easy_video_link": ""
   },
   {
-    "song_title": "PIANO SONATA IN C MAJOR K545",
+    "song_title": "PIANO SONATA NO 16 IN C MAJOR K 545 MOV 1",
     "artist": "MOZART",
     "tbh_video_title": "Mozart - Piano Sonata in C Major, K.545 - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=Ad6_V-6XxK4",
