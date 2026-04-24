@@ -1,5 +1,25 @@
 [
   {
+    "song_title": "BABYDOLL",
+    "artist": "DOMINIC FIKE",
+    "tbh_video_title": "Dominic Fike - Babydoll - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=ZBJ0w78exP8",
+    "sheet_music_link": "https://www.musicnotes.com/l/g7rgW",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "BEAUTY AND A BEAT",
+    "artist": "JUSTIN BIEBER",
+    "tbh_video_title": "Justin Bieber, Nicki Minaj - Beauty And A Beat - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=fMewtYJ97wQ",
+    "sheet_music_link": "https://www.musicnotes.com/l/3vrgb",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "PIANO SONATA NO 5 IN G MAJOR K 283 MOV 2",
     "artist": "MOZART",
     "tbh_video_title": "Mozart - Piano Sonata No. 5 in G major, K. 283: II. Andante - Piano Tutorial with Sheet Music",
@@ -74,7 +94,7 @@
     "artist": "LAUFEY",
     "tbh_video_title": "Laufey - I Wait, I Wait, I Wait - Accurate Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=-9cs8B193ls",
-    "sheet_music_link": "",
+    "sheet_music_link": "https://www.musicnotes.com/l/7LKgQ",
     "type": "ACC",
     "easy_video_title": "",
     "easy_video_link": ""
