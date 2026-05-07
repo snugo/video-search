@@ -16,7 +16,7 @@ async function loadData() {
   data = await res.json();
 
   fuse = new Fuse(data, {
-    keys: ['song_title', 'artist'],
+    keys: ['song_title', 'artist', 'tbh_video_title', 'easy_video_title'],
     threshold: 0.3,
   });
 
