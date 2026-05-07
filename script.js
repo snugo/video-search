@@ -18,7 +18,6 @@ async function loadData() {
   fuse = new Fuse(data, {
     keys: ['song_title', 'artist', 'tbh_video_title', 'easy_video_title'],
     threshold: 0.4,
-    ignoreLocation: true,
   });
 
   document.getElementById('search').addEventListener('input', handleSearch);
