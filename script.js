@@ -16,8 +16,14 @@ async function loadData() {
   data = await res.json();
 
   fuse = new Fuse(data, {
-    keys: ['song_title', 'artist', 'tbh_video_title', 'easy_video_title'],
-    threshold: 0.3,
+    keys: [
+      { name: 'song_title', weight: 3 },
+      { name: 'artist', weight: 2 },
+      { name: 'tbh_video_title', weight: 1 },
+      { name: 'easy_video_title', weight: 1 }
+    ]
+    threshold: 0.4,
+    ignoreLocation: true,
   });
 
   document.getElementById('search').addEventListener('input', handleSearch);
