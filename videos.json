@@ -1,9 +1,39 @@
 [
   {
+    "song_title": "HIT THE WALL",
+    "artist": "GRACIE ABRAMS",
+    "tbh_video_title": "Gracie Abrams - Hit the Wall - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=V9S5V_iNcbw",
+    "sheet_music_link": "https://www.musicnotes.com/l/T93gn",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "HUMAN NATURE",
+    "artist": "MICHAEL JACKSON",
+    "tbh_video_title": "Michael Jackson - Human Nature - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=YHCtdTl9JX8",
+    "sheet_music_link": "https://www.musicnotes.com/l/D93gw",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "THE CURE",
+    "artist": "OLIVIA RODRIGO",
+    "tbh_video_title": "Olivia Rodrigo - the cure - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=Kx1TjjA_gPE",
+    "sheet_music_link": "",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "LIZ ON TOP OF THE WORLD",
     "artist": "PRIDE AND PREJUDICE",
     "tbh_video_title": "Pride and Prejudice - Liz on Top of the World - Piano Tutorial with Sheet Music",
-    "tbh_video_link": "https://www.youtube.com/watch?v=Kx1TjjA_gPE",
+    "tbh_video_link": "https://www.youtube.com/watch?v=MKlr7oGCxeA",
     "sheet_music_link": "https://www.musicnotes.com/l/ktRgZ",
     "type": "ARR",
     "easy_video_title": "",
@@ -24,7 +54,7 @@
     "artist": "LANA DEL REY",
     "tbh_video_title": "Lana Del Rey - Sweet Carolina - Accurate Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=PDQLbwOb4yI",
-    "sheet_music_link": "",
+    "sheet_music_link": "https://www.musicnotes.com/l/qH3gW",
     "type": "ACC",
     "easy_video_title": "",
     "easy_video_link": ""
