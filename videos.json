@@ -1,10 +1,40 @@
 [
   {
+    "song_title": "EARTH SONG",
+    "artist": "MICHAEL JACKSON",
+    "tbh_video_title": "Michael Jackson - Earth Song - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=mEbN--bfWDc",
+    "sheet_music_link": "https://www.musicnotes.com/l/TCtgP",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "I KNEW IT I KNEW YOU",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - I Knew It, I Knew You - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=OYpqq8-J-s4",
+    "sheet_music_link": "",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "THE CURE",
+    "artist": "OLIVIA RODRIGO",
+    "tbh_video_title": "Olivia Rodrigo - the cure - Accompaniment Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=5cUpVSFfGXw",
+    "sheet_music_link": "https://www.musicnotes.com/l/xdtgF",
+    "type": "ACC",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "IMPOSTOR SYNDROME",
     "artist": "SIDNEY GISH",
     "tbh_video_title": "Sidney Gish - Impostor Syndrome - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=5jiLX5Kq4pY",
-    "sheet_music_link": "",
+    "sheet_music_link": "https://www.musicnotes.com/l/3BtgW",
     "type": "ARR",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -44,7 +74,7 @@
     "artist": "OLIVIA RODRIGO",
     "tbh_video_title": "Olivia Rodrigo - the cure - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=Kx1TjjA_gPE",
-    "sheet_music_link": "",
+    "sheet_music_link": "https://www.musicnotes.com/l/xf3gQ",
     "type": "ARR",
     "easy_video_title": "",
     "easy_video_link": ""
