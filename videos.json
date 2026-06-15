@@ -1,5 +1,85 @@
 [
   {
+    "song_title": "LESS",
+    "artist": "OLIVIA RODRIGO",
+    "tbh_video_title": "Olivia Rodrigo - less - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=Lm2TMg7PR3I",
+    "sheet_music_link": "",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "LESS",
+    "artist": "OLIVIA RODRIGO",
+    "tbh_video_title": "Olivia Rodrigo - less - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=43g5Mu42Lac",
+    "sheet_music_link": "",
+    "type": "ACC",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "STUPID SONG",
+    "artist": "OLIVIA RODRIGO",
+    "tbh_video_title": "Olivia Rodrigo - stupid song - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=mL-2nVeHArs",
+    "sheet_music_link": "https://www.musicnotes.com/l/txjgW",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "STUPID SONG",
+    "artist": "OLIVIA RODRIGO",
+    "tbh_video_title": "Olivia Rodrigo - stupid song (Live) - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=OHo6LAvBL-c",
+    "sheet_music_link": "https://www.musicnotes.com/l/jxjgW",
+    "type": "ACC",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "I KNEW IT I KNEW YOU",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - I Knew It, I Knew You (Live) - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=tlQubXkcUqE",
+    "sheet_music_link": "",
+    "type": "ACC",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "HATE YOURSELF",
+    "artist": "TV GIRL",
+    "tbh_video_title": "TV Girl - Hate Yourself - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=hcFjBvVVYv4",
+    "sheet_music_link": "https://www.musicnotes.com/l/6Ljg4",
+    "type": "ACC",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "HATE YOURSELF",
+    "artist": "TV GIRL",
+    "tbh_video_title": "TV Girl - Hate Yourself - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=WiOZmEU90Vg",
+    "sheet_music_link": "https://www.musicnotes.com/l/jLjgF",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "PASILYO",
+    "artist": "SUNKISSED LOLA",
+    "tbh_video_title": "SunKissed Lola - Pasilyo - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=MP2dBGxMzyI",
+    "sheet_music_link": "",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "EARTH SONG",
     "artist": "MICHAEL JACKSON",
     "tbh_video_title": "Michael Jackson - Earth Song - Piano Tutorial with Sheet Music",
