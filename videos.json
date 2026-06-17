@@ -1,10 +1,40 @@
 [
   {
+    "song_title": "HONEYBEE",
+    "artist": "OLIVIA RODRIGO",
+    "tbh_video_title": "Olivia Rodrigo - honeybee - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=qGYrlEZNBsQ",
+    "sheet_music_link": "https://www.musicnotes.com/l/6h6gX",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "HONEYBEE",
+    "artist": "OLIVIA RODRIGO",
+    "tbh_video_title": "Olivia Rodrigo - honeybee - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=WTlPh-OJLnI",
+    "sheet_music_link": "https://www.musicnotes.com/l/Vh6gb",
+    "type": "ACC",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "CHANGES",
+    "artist": "DAVID BOWIE",
+    "tbh_video_title": "David Bowie - Changes - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=W8mKqPV8q9A",
+    "sheet_music_link": "https://www.musicnotes.com/l/KtjgF",
+    "type": "ACC",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "LESS",
     "artist": "OLIVIA RODRIGO",
     "tbh_video_title": "Olivia Rodrigo - less - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=Lm2TMg7PR3I",
-    "sheet_music_link": "",
+    "sheet_music_link": "https://www.musicnotes.com/l/BBjgn",
     "type": "ARR",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -14,7 +44,7 @@
     "artist": "OLIVIA RODRIGO",
     "tbh_video_title": "Olivia Rodrigo - less - Accurate Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=43g5Mu42Lac",
-    "sheet_music_link": "",
+    "sheet_music_link": "https://www.musicnotes.com/l/5Bjgp",
     "type": "ACC",
     "easy_video_title": "",
     "easy_video_link": ""
