@@ -1,5 +1,55 @@
 [
   {
+    "song_title": "MAN IN THE MIRROR",
+    "artist": "MICHAEL JACKSON",
+    "tbh_video_title": "Michael Jackson - Man in the Mirror - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=enbGM_781zI",
+    "sheet_music_link": "",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "YESTERDAY",
+    "artist": "THE BEATLES",
+    "tbh_video_title": "The Beatles - Yesterday - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=N2R_M6M55T8",
+    "sheet_music_link": "https://www.musicnotes.com/l/v96gZ",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "WHATS WRONG WITH ME",
+    "artist": "OLIVIA RODRIGO",
+    "tbh_video_title": "Olivia Rodrigo, Robert Smith - what's wrong with me - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=aVU7KbyA67Y",
+    "sheet_music_link": "https://www.musicnotes.com/l/tT6g8",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "WHATS WRONG WITH ME",
+    "artist": "OLIVIA RODRIGO",
+    "tbh_video_title": "Olivia Rodrigo - what's wrong with me - Piano Accompaniment Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=DWGgYygmhUs",
+    "sheet_music_link": "https://www.musicnotes.com/l/rC6gW",
+    "type": "ACC",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "ROCK BURWELL",
+    "artist": "LOVE IS IN THE AIR PT 1",
+    "tbh_video_title": "Rock Burwell - Love is in the Air, Pt.1 (Obsession) - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=8UzMZyu070M",
+    "sheet_music_link": "",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "HATE THAT I MADE YOU LOVE ME",
     "artist": "ARIANA GRANDE",
     "tbh_video_title": "Ariana Grande - hate that i made you love me - Piano Tutorial with Sheet Music",
