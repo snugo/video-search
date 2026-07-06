@@ -1,40 +1,10 @@
 [
   {
-    "song_title": "THE ONE WHOS RUNNING THE SHOW",
-    "artist": "THE AMAZING DIGITAL CIRCUS",
-    "tbh_video_title": "The Amazing Digital Circus - The One Who's Running the Show - Piano Tutorial with Sheet Music",
-    "tbh_video_link": "https://www.youtube.com/watch?v=ZPxXOjp2o6M",
-    "sheet_music_link": "",
-    "type": "ARR",
-    "easy_video_title": "",
-    "easy_video_link": ""
-  },
-  {
-    "song_title": "BEGGED",
-    "artist": "OLIVIA RODRIGO",
-    "tbh_video_title": "Olivia Rodrigo - begged - Piano Accompaniment Tutorial with Sheet Music",
-    "tbh_video_link": "https://www.youtube.com/watch?v=gbt-037SJPs",
-    "sheet_music_link": "https://www.musicnotes.com/l/DBVgP",
-    "type": "ACC",
-    "easy_video_title": "",
-    "easy_video_link": ""
-  },
-  {
-    "song_title": "BEGGED",
-    "artist": "OLIVIA RODRIGO",
-    "tbh_video_title": "Olivia Rodrigo - begged - Piano Tutorial with Sheet Music",
-    "tbh_video_link": "https://www.youtube.com/watch?v=g_3g8vl-og0",
-    "sheet_music_link": "https://www.musicnotes.com/l/lBVgF",
-    "type": "ARR",
-    "easy_video_title": "",
-    "easy_video_link": ""
-  },
-  {
     "song_title": "MAN IN THE MIRROR",
     "artist": "MICHAEL JACKSON",
     "tbh_video_title": "Michael Jackson - Man in the Mirror - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=enbGM_781zI",
-    "sheet_music_link": "https://www.musicnotes.com/sheetmusic/tutorialsbyhugo/man-in-the-mirror/MN0310759",
+    "sheet_music_link": "",
     "type": "ARR",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -83,7 +53,7 @@
     "song_title": "HATE THAT I MADE YOU LOVE ME",
     "artist": "ARIANA GRANDE",
     "tbh_video_title": "Ariana Grande - hate that i made you love me - Piano Tutorial with Sheet Music",
-    "tbh_video_link": "https://www.youtube.com/watch?v=BxuOfaEQM14",
+    "tbh_video_link": "https://www.youtube.com/watch?v=bscAisA-aRI",
     "sheet_music_link": "https://www.musicnotes.com/l/Mz6gq",
     "type": "ARR",
     "easy_video_title": "",
