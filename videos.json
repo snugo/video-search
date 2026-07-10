@@ -1,11 +1,91 @@
 [
   {
+    "song_title": "TOMORROW NEVER KNOWS",
+    "artist": "THE BEATLES",
+    "tbh_video_title": "The Beatles - Tomorrow Never Knows - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=x4gvgDyO6uc",
+    "sheet_music_link": "https://www.musicnotes.com/l/GHHgn",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "HAPPINESS",
+    "artist": "REX ORANGE COUNTY",
+    "tbh_video_title": "Rex Orange County - Happiness - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=ECEwmqrXIT8",
+    "sheet_music_link": "",
+    "type": "ACC",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "MAYBE",
+    "artist": "SIENNA SPIRO",
+    "tbh_video_title": "Sienna Spiro - MAYBE. - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=MdDPRifQCX0",
+    "sheet_music_link": "https://www.musicnotes.com/l/dxHgP",
+    "type": "ACC",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "MY BODY ISNT READY",
+    "artist": "SOMBR",
+    "tbh_video_title": "sombr - My Body Isn't Ready - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=RhEWdwhookM",
+    "sheet_music_link": "",
+    "type": "ACC",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "CIGARETTE SMOKE",
+    "artist": "OLIVIA RODRIGO",
+    "tbh_video_title": "Olivia Rodrigo - cigarette smoke - Piano Accompaniment Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=_PanQVOTMHA",
+    "sheet_music_link": "https://www.musicnotes.com/l/9NHg4",
+    "type": "ACC",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "CIGARETTE SMOKE",
+    "artist": "OLIVIA RODRIGO",
+    "tbh_video_title": "Olivia Rodrigo - cigarette smoke - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=Du6ct8BE1K4",
+    "sheet_music_link": "https://www.musicnotes.com/l/7NHgZ",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "HOLDING OUT FOR A HERO",
+    "artist": "BONNIE TYLER",
+    "tbh_video_title": "Bonnie Tyler - Holding Out for a Hero - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=cTk47aacqSY",
+    "sheet_music_link": "https://www.musicnotes.com/l/ffHgb",
+    "type": "ACC",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "EARRINGS",
+    "artist": "MALCOLM TODD",
+    "tbh_video_title": "Malcolm Todd - Earrings - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=UFPNUjDch-8",
+    "sheet_music_link": "https://www.musicnotes.com/l/9tHg4",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "THE ONE WHOS RUNNING THE SHOW",
     "artist": "THE AMAZING DIGITAL CIRCUS",
     "tbh_video_title": "The Amazing Digital Circus - The One Who's Running the Show - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=ZPxXOjp2o6M",
-    "sheet_music_link": "",
-    "type": "ARR",
+    "sheet_music_link": "https://www.musicnotes.com/l/kjHgQ",
+    "type": "ACC",
     "easy_video_title": "",
     "easy_video_link": ""
   },
