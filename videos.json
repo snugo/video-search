@@ -34,7 +34,7 @@
     "artist": "SOMBR",
     "tbh_video_title": "sombr - My Body Isn't Ready - Accurate Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=RhEWdwhookM",
-    "sheet_music_link": "",
+    "sheet_music_link": "https://www.musicnotes.com/l/BxHgS",
     "type": "ACC",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -53,9 +53,19 @@
     "song_title": "CIGARETTE SMOKE",
     "artist": "OLIVIA RODRIGO",
     "tbh_video_title": "Olivia Rodrigo - cigarette smoke - Piano Tutorial with Sheet Music",
-    "tbh_video_link": "https://www.youtube.com/watch?v=Du6ct8BE1K4",
+    "tbh_video_link": "https://www.youtube.com/watch?v=Du6ct8BE1K3",
     "sheet_music_link": "https://www.musicnotes.com/l/7NHgZ",
     "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "JULIET",
+    "artist": "JVKE",
+    "tbh_video_title": "JVKE, Bryant Barnes & Emilio Piano - juliet - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=8lq7hPqb14M",
+    "sheet_music_link": "",
+    "type": "ACC",
     "easy_video_title": "",
     "easy_video_link": ""
   },
