@@ -1,5 +1,25 @@
 [
   {
+    "song_title": "THE KNIFE",
+    "artist": "GRACIE ABRAMS",
+    "tbh_video_title": "Gracie Abrams - The Knife - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=XGoxjqpCXE8",
+    "sheet_music_link": "https://www.musicnotes.com/l/7f2gX",
+    "type": "ACC",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "ODYSSEUS",
+    "artist": "LUDWIG GÖRANSSON",
+    "tbh_video_title": "Ludwig Göransson - Odysseus - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=7ssRN8gwpNE",
+    "sheet_music_link": "https://www.musicnotes.com/l/tL2gJ",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "TOMORROW NEVER KNOWS",
     "artist": "THE BEATLES",
     "tbh_video_title": "The Beatles - Tomorrow Never Knows - Piano Tutorial with Sheet Music",
@@ -14,7 +34,7 @@
     "artist": "REX ORANGE COUNTY",
     "tbh_video_title": "Rex Orange County - Happiness - Accurate Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=ECEwmqrXIT8",
-    "sheet_music_link": "",
+    "sheet_music_link": "https://www.musicnotes.com/l/td2g4",
     "type": "ACC",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -64,7 +84,7 @@
     "artist": "JVKE",
     "tbh_video_title": "JVKE, Bryant Barnes & Emilio Piano - juliet - Accurate Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=8lq7hPqb14M",
-    "sheet_music_link": "",
+    "sheet_music_link": "https://www.musicnotes.com/l/GtvgF",
     "type": "ACC",
     "easy_video_title": "",
     "easy_video_link": ""
