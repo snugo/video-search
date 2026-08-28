@@ -1,5 +1,55 @@
 [
   {
+    "song_title": "500 MILES",
+    "artist": "PETER PAUL AND MARY",
+    "tbh_video_title": "Peter, Paul and Mary - 500 Miles - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=Td6nJ8pmJ-c",
+    "sheet_music_link": "https://www.musicnotes.com/l/xV9gJ",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "JOLENE",
+    "artist": "DOLLY PARTON",
+    "tbh_video_title": "Dolly Parton - Jolene - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=7pNXsP25Ntk",
+    "sheet_music_link": "https://www.musicnotes.com/l/fV9g4",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "ICON SESSIONS",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - I Knew It, I Knew You / August / All Too Well - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=EypJe1-Nddg",
+    "sheet_music_link": "",
+    "type": "ACC",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "GOOD LOOKING",
+    "artist": "SUKI WATERHOUSE",
+    "tbh_video_title": "Suki Waterhouse - Good Looking - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=jA9G7JrRbAs",
+    "sheet_music_link": "https://www.musicnotes.com/l/dl7gb",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "NORMAN FUCKING ROCKWELL",
+    "artist": "LANA DEL REY",
+    "tbh_video_title": "Lana Del Rey - Norman f*****g Rockwell - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=8SjW1IC7Mnk",
+    "sheet_music_link": "https://www.musicnotes.com/l/TG7gW",
+    "type": "ACC",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "ISNT SHE LOVELY",
     "artist": "STEVIE WONDER",
     "tbh_video_title": "Stevie Wonder - Isn't She Lovely - Piano Tutorial with Sheet Music",
