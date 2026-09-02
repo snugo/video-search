@@ -1,5 +1,515 @@
 [
   {
+    "song_title": "500 MILES",
+    "artist": "PETER PAUL AND MARY",
+    "tbh_video_title": "Peter, Paul and Mary - 500 Miles - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=Td6nJ8pmJ-c",
+    "sheet_music_link": "https://www.musicnotes.com/l/xV9gJ",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "JOLENE",
+    "artist": "DOLLY PARTON",
+    "tbh_video_title": "Dolly Parton - Jolene - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=7pNXsP25Ntk",
+    "sheet_music_link": "https://www.musicnotes.com/l/fV9g4",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "ICON SESSIONS",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - I Knew It, I Knew You / August / All Too Well - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=EypJe1-Nddg",
+    "sheet_music_link": "",
+    "type": "ACC",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "GOOD LOOKING",
+    "artist": "SUKI WATERHOUSE",
+    "tbh_video_title": "Suki Waterhouse - Good Looking - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=jA9G7JrRbAs",
+    "sheet_music_link": "https://www.musicnotes.com/l/dl7gb",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "NORMAN FUCKING ROCKWELL",
+    "artist": "LANA DEL REY",
+    "tbh_video_title": "Lana Del Rey - Norman f*****g Rockwell - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=8SjW1IC7Mnk",
+    "sheet_music_link": "https://www.musicnotes.com/l/TG7gW",
+    "type": "ACC",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "ISNT SHE LOVELY",
+    "artist": "STEVIE WONDER",
+    "tbh_video_title": "Stevie Wonder - Isn't She Lovely - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=Akv34Jz_4To",
+    "sheet_music_link": "https://www.musicnotes.com/l/j77gp",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "GREAT EXPECTATION",
+    "artist": "SIENNA SPIRO",
+    "tbh_video_title": "SIENNA SPIRO - Great Expectation - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=ZoSPfwtYnvg",
+    "sheet_music_link": "https://www.musicnotes.com/l/lG7gX",
+    "type": "ACC",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "THE KNIFE",
+    "artist": "GRACIE ABRAMS",
+    "tbh_video_title": "Gracie Abrams - The Knife - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=XGoxjqpCXE8",
+    "sheet_music_link": "https://www.musicnotes.com/l/7f2gX",
+    "type": "ACC",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "ODYSSEUS",
+    "artist": "LUDWIG GÖRANSSON",
+    "tbh_video_title": "Ludwig Göransson - Odysseus - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=7ssRN8gwpNE",
+    "sheet_music_link": "https://www.musicnotes.com/l/tL2gJ",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "TOMORROW NEVER KNOWS",
+    "artist": "THE BEATLES",
+    "tbh_video_title": "The Beatles - Tomorrow Never Knows - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=x4gvgDyO6uc",
+    "sheet_music_link": "https://www.musicnotes.com/l/GHHgn",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "HAPPINESS",
+    "artist": "REX ORANGE COUNTY",
+    "tbh_video_title": "Rex Orange County - Happiness - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=ECEwmqrXIT8",
+    "sheet_music_link": "https://www.musicnotes.com/l/td2g4",
+    "type": "ACC",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "MAYBE",
+    "artist": "SIENNA SPIRO",
+    "tbh_video_title": "Sienna Spiro - MAYBE. - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=MdDPRifQCX0",
+    "sheet_music_link": "https://www.musicnotes.com/l/dxHgP",
+    "type": "ACC",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "MY BODY ISNT READY",
+    "artist": "SOMBR",
+    "tbh_video_title": "sombr - My Body Isn't Ready - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=RhEWdwhookM",
+    "sheet_music_link": "https://www.musicnotes.com/l/BxHgS",
+    "type": "ACC",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "CIGARETTE SMOKE",
+    "artist": "OLIVIA RODRIGO",
+    "tbh_video_title": "Olivia Rodrigo - cigarette smoke - Piano Accompaniment Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=_PanQVOTMHA",
+    "sheet_music_link": "https://www.musicnotes.com/l/9NHg4",
+    "type": "ACC",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "CIGARETTE SMOKE",
+    "artist": "OLIVIA RODRIGO",
+    "tbh_video_title": "Olivia Rodrigo - cigarette smoke - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=Du6ct8BE1K3",
+    "sheet_music_link": "https://www.musicnotes.com/l/7NHgZ",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "JULIET",
+    "artist": "JVKE",
+    "tbh_video_title": "JVKE, Bryant Barnes & Emilio Piano - juliet - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=8lq7hPqb14M",
+    "sheet_music_link": "https://www.musicnotes.com/l/GtvgF",
+    "type": "ACC",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "HOLDING OUT FOR A HERO",
+    "artist": "BONNIE TYLER",
+    "tbh_video_title": "Bonnie Tyler - Holding Out for a Hero - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=cTk47aacqSY",
+    "sheet_music_link": "https://www.musicnotes.com/l/ffHgb",
+    "type": "ACC",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "EARRINGS",
+    "artist": "MALCOLM TODD",
+    "tbh_video_title": "Malcolm Todd - Earrings - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=UFPNUjDch-8",
+    "sheet_music_link": "https://www.musicnotes.com/l/9tHg4",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "THE ONE WHOS RUNNING THE SHOW",
+    "artist": "THE AMAZING DIGITAL CIRCUS",
+    "tbh_video_title": "The Amazing Digital Circus - The One Who's Running the Show - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=ZPxXOjp2o6M",
+    "sheet_music_link": "https://www.musicnotes.com/l/kjHgQ",
+    "type": "ACC",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "BEGGED",
+    "artist": "OLIVIA RODRIGO",
+    "tbh_video_title": "Olivia Rodrigo - begged - Piano Accompaniment Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=gbt-037SJPs",
+    "sheet_music_link": "https://www.musicnotes.com/l/DBVgP",
+    "type": "ACC",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "BEGGED",
+    "artist": "OLIVIA RODRIGO",
+    "tbh_video_title": "Olivia Rodrigo - begged - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=g_3g8vl-og0",
+    "sheet_music_link": "https://www.musicnotes.com/l/lBVgF",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "MAN IN THE MIRROR",
+    "artist": "MICHAEL JACKSON",
+    "tbh_video_title": "Michael Jackson - Man in the Mirror - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=enbGM_781zI",
+    "sheet_music_link": "https://www.musicnotes.com/sheetmusic/tutorialsbyhugo/man-in-the-mirror/MN0310759",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "YESTERDAY",
+    "artist": "THE BEATLES",
+    "tbh_video_title": "The Beatles - Yesterday - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=N2R_M6M55T8",
+    "sheet_music_link": "https://www.musicnotes.com/l/v96gZ",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "WHATS WRONG WITH ME",
+    "artist": "OLIVIA RODRIGO",
+    "tbh_video_title": "Olivia Rodrigo, Robert Smith - what's wrong with me - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=aVU7KbyA67Y",
+    "sheet_music_link": "https://www.musicnotes.com/l/tT6g8",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "WHATS WRONG WITH ME",
+    "artist": "OLIVIA RODRIGO",
+    "tbh_video_title": "Olivia Rodrigo - what's wrong with me - Piano Accompaniment Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=DWGgYygmhUs",
+    "sheet_music_link": "https://www.musicnotes.com/l/rC6gW",
+    "type": "ACC",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "ROCK BURWELL",
+    "artist": "LOVE IS IN THE AIR PT 1",
+    "tbh_video_title": "Rock Burwell - Love is in the Air, Pt.1 (Obsession) - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=8UzMZyu070M",
+    "sheet_music_link": "",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "HATE THAT I MADE YOU LOVE ME",
+    "artist": "ARIANA GRANDE",
+    "tbh_video_title": "Ariana Grande - hate that i made you love me - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=BxuOfaEQM14",
+    "sheet_music_link": "https://www.musicnotes.com/l/Mz6gq",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "PAINT BY NUMBERS",
+    "artist": "HARRY STYLES",
+    "tbh_video_title": "Harry Styles - Paint By Numbers (Live) - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=bwL2Snj9sbM",
+    "sheet_music_link": "https://www.musicnotes.com/l/Hr6gJ",
+    "type": "ACC",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "HONEYBEE",
+    "artist": "OLIVIA RODRIGO",
+    "tbh_video_title": "Olivia Rodrigo - honeybee - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=qGYrlEZNBsQ",
+    "sheet_music_link": "https://www.musicnotes.com/l/6h6gX",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "HONEYBEE",
+    "artist": "OLIVIA RODRIGO",
+    "tbh_video_title": "Olivia Rodrigo - honeybee - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=WTlPh-OJLnI",
+    "sheet_music_link": "https://www.musicnotes.com/l/Vh6gb",
+    "type": "ACC",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "CHANGES",
+    "artist": "DAVID BOWIE",
+    "tbh_video_title": "David Bowie - Changes - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=W8mKqPV8q9A",
+    "sheet_music_link": "https://www.musicnotes.com/l/KtjgF",
+    "type": "ACC",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "LESS",
+    "artist": "OLIVIA RODRIGO",
+    "tbh_video_title": "Olivia Rodrigo - less - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=Lm2TMg7PR3I",
+    "sheet_music_link": "https://www.musicnotes.com/l/BBjgn",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "LESS",
+    "artist": "OLIVIA RODRIGO",
+    "tbh_video_title": "Olivia Rodrigo - less - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=43g5Mu42Lac",
+    "sheet_music_link": "https://www.musicnotes.com/l/5Bjgp",
+    "type": "ACC",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "STUPID SONG",
+    "artist": "OLIVIA RODRIGO",
+    "tbh_video_title": "Olivia Rodrigo - stupid song - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=mL-2nVeHArs",
+    "sheet_music_link": "https://www.musicnotes.com/l/txjgW",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "STUPID SONG",
+    "artist": "OLIVIA RODRIGO",
+    "tbh_video_title": "Olivia Rodrigo - stupid song (Live) - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=OHo6LAvBL-c",
+    "sheet_music_link": "https://www.musicnotes.com/l/jxjgW",
+    "type": "ACC",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "I KNEW IT I KNEW YOU",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - I Knew It, I Knew You (Live) - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=tlQubXkcUqE",
+    "sheet_music_link": "",
+    "type": "ACC",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "HATE YOURSELF",
+    "artist": "TV GIRL",
+    "tbh_video_title": "TV Girl - Hate Yourself - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=hcFjBvVVYv4",
+    "sheet_music_link": "https://www.musicnotes.com/l/6Ljg4",
+    "type": "ACC",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "HATE YOURSELF",
+    "artist": "TV GIRL",
+    "tbh_video_title": "TV Girl - Hate Yourself - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=WiOZmEU90Vg",
+    "sheet_music_link": "https://www.musicnotes.com/l/jLjgF",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "PASILYO",
+    "artist": "SUNKISSED LOLA",
+    "tbh_video_title": "SunKissed Lola - Pasilyo - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=MP2dBGxMzyI",
+    "sheet_music_link": "",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "EARTH SONG",
+    "artist": "MICHAEL JACKSON",
+    "tbh_video_title": "Michael Jackson - Earth Song - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=mEbN--bfWDc",
+    "sheet_music_link": "https://www.musicnotes.com/l/TCtgP",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "I KNEW IT I KNEW YOU",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - I Knew It, I Knew You - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=OYpqq8-J-s4",
+    "sheet_music_link": "",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "THE CURE",
+    "artist": "OLIVIA RODRIGO",
+    "tbh_video_title": "Olivia Rodrigo - the cure - Accompaniment Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=5cUpVSFfGXw",
+    "sheet_music_link": "https://www.musicnotes.com/l/xdtgF",
+    "type": "ACC",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "IMPOSTOR SYNDROME",
+    "artist": "SIDNEY GISH",
+    "tbh_video_title": "Sidney Gish - Impostor Syndrome - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=5jiLX5Kq4pY",
+    "sheet_music_link": "https://www.musicnotes.com/l/3BtgW",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "BILLIE JEAN",
+    "artist": "MICHAEL JACKSON",
+    "tbh_video_title": "Michael Jackson - Billie Jean - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=VG6tYwykVl8",
+    "sheet_music_link": "https://www.musicnotes.com/l/f53gS",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "HIT THE WALL",
+    "artist": "GRACIE ABRAMS",
+    "tbh_video_title": "Gracie Abrams - Hit the Wall - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=V9S5V_iNcbw",
+    "sheet_music_link": "https://www.musicnotes.com/l/T93gn",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "HUMAN NATURE",
+    "artist": "MICHAEL JACKSON",
+    "tbh_video_title": "Michael Jackson - Human Nature - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=YHCtdTl9JX8",
+    "sheet_music_link": "https://www.musicnotes.com/l/D93gw",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "THE CURE",
+    "artist": "OLIVIA RODRIGO",
+    "tbh_video_title": "Olivia Rodrigo - the cure - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=Kx1TjjA_gPE",
+    "sheet_music_link": "https://www.musicnotes.com/l/xf3gQ",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "LIZ ON TOP OF THE WORLD",
+    "artist": "PRIDE AND PREJUDICE",
+    "tbh_video_title": "Pride and Prejudice - Liz on Top of the World - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=MKlr7oGCxeA",
+    "sheet_music_link": "https://www.musicnotes.com/l/ktRgZ",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "THE GREAT DIVIDE",
+    "artist": "NOAH KAHAN",
+    "tbh_video_title": "Noah Kahan - The Great Divide - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=bUKPM8rSPiY",
+    "sheet_music_link": "https://www.musicnotes.com/l/7KRgS",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "SWEET CAROLINA",
+    "artist": "LANA DEL REY",
+    "tbh_video_title": "Lana Del Rey - Sweet Carolina - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=PDQLbwOb4yI",
+    "sheet_music_link": "https://www.musicnotes.com/l/qH3gW",
+    "type": "ACC",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "ALL YOURN",
+    "artist": "TYLER CHILDERS",
+    "tbh_video_title": "Tyler Childers - All Your'n - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=M8VYDNGvvlQ",
+    "sheet_music_link": "https://www.musicnotes.com/l/r3dg8",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "SNOW ON THE BEACH",
     "artist": "TAYLOR SWIFT",
     "tbh_video_title": "Taylor Swift - Snow On The Beach (Eras Tour) - Accurate Piano Tutorial with Sheet Music",
