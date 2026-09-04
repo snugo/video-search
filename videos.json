@@ -1,5 +1,25 @@
 [
   {
+    "song_title": "INDIGO",
+    "artist": "SAM BARBER",
+    "tbh_video_title": "Sam Barber, Avery Anna - Indigo - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=coNrQPpj3sk",
+    "sheet_music_link": "https://www.musicnotes.com/l/J3cgp",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "YOU WERE GOOD TO ME",
+    "artist": "JEREMY ZUCKER",
+    "tbh_video_title": "Jeremy Zucker, Chelsea Cutler - you were good to me - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=9ujzbN3FHPg",
+    "sheet_music_link": "https://www.musicnotes.com/l/G29gw",
+    "type": "ACC",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "JE TE VEUX",
     "artist": "SATIE",
     "tbh_video_title": "Satie - Je te veux - Piano Tutorial with Sheet Music",
