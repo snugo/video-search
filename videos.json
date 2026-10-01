@@ -1,10 +1,110 @@
 [
   {
+    "song_title": "STOP THE WEDDING",
+    "artist": "ASHE",
+    "tbh_video_title": "Ashe - Stop The Wedding! - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=yhYndHQC2S0",
+    "sheet_music_link": "https://www.musicnotes.com/l/zNfgP",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "SARABANDE IN D MINOR",
+    "artist": "HANDEL",
+    "tbh_video_title": "Handel - Sarabande in D Minor - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=HDp0EMNIANY",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/sarabande-in-d-minor-hwv-437",
+    "type": "CLA",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "THOSE EYES",
+    "artist": "NEW WEST",
+    "tbh_video_title": "New West - Those Eyes - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=hE4e1Ez30_Q",
+    "sheet_music_link": "https://www.musicnotes.com/l/5TGgp",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "LA MARITZA",
+    "artist": "SYLVIE VARTAN",
+    "tbh_video_title": "Sylvie Vartan - La Maritza - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=PXoxA3IbinE",
+    "sheet_music_link": "",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "CLEVELAND",
+    "artist": "TAYLOR SWIFT",
+    "tbh_video_title": "Taylor Swift - Cleveland! - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=e3kW4STYwd8",
+    "sheet_music_link": "https://www.musicnotes.com/l/hBGg8",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "THE GIRL WITH THE FLAXEN HAIR",
+    "artist": "DEBUSSY",
+    "tbh_video_title": "Debussy - The Girl With The Flaxen Hair - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=xIBKwZdp-18",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/la-fille-aux-cheveux-de-lin-l-117-8",
+    "type": "CLA",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "STRANGE",
+    "artist": "CELESTE",
+    "tbh_video_title": "Celeste - Strange - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=fSqbCxxpSE8",
+    "sheet_music_link": "https://www.musicnotes.com/l/vHLgn",
+    "type": "ACC",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "ISLANDS IN THE STREAM",
+    "artist": "KENNY ROGERS AND DOLLY PARTON",
+    "tbh_video_title": "Kenny Rogers, Dolly Parton - Islands In The Stream - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=2ltJuqXWHu4",
+    "sheet_music_link": "https://www.musicnotes.com/l/z7LgX",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "THE GOVERNORS WALTZ",
+    "artist": "PHOEBE BRIDGERS",
+    "tbh_video_title": "Phoebe Bridgers - The Governor’s Waltz - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=EgDsHhwqGIY",
+    "sheet_music_link": "https://www.musicnotes.com/l/B2Lgw",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "WALTZ IN A FLAT MAJOR",
+    "artist": "BRAHMS",
+    "tbh_video_title": "Brahms - Waltz in A-flat Major, Op. 39, No. 15 - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=-iZSxjf32go",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/waltz-in-a-flat-major-op-39-no-15",
+    "type": "CLA",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "BAGS",
     "artist": "CLAIRO",
     "tbh_video_title": "Clairo - Bags - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=Ss6NYl9I48g",
-    "sheet_music_link": "",
+    "sheet_music_link": "https://www.musicnotes.com/l/BtLgq",
     "type": "ARR",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -16995,7 +17095,7 @@
     "tbh_video_title": "Billy Joel - Piano Man - Piano Tutorial + SHEETS | #tbt",
     "tbh_video_link": "https://www.youtube.com/watch?v=Gjq8XUQ9mts",
     "sheet_music_link": "https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0179276",
-    "type": "ARR",
+    "type": "ACC",
     "easy_video_title": "Billy Joel - Piano Man - EASY Piano Tutorial",
     "easy_video_link": "https://www.youtube.com/watch?v=Go512KQ5uPw"
   },

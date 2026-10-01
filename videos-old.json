@@ -1,5 +1,95 @@
 [
   {
+    "song_title": "BAGS",
+    "artist": "CLAIRO",
+    "tbh_video_title": "Clairo - Bags - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=Ss6NYl9I48g",
+    "sheet_music_link": "",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "MY LIFE",
+    "artist": "BILLY JOEL",
+    "tbh_video_title": "Billy Joel - My Life - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=K46g3ubrAIE",
+    "sheet_music_link": "https://www.musicnotes.com/l/hxcgF",
+    "type": "ACC",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "MY LIFE",
+    "artist": "BILLY JOEL",
+    "tbh_video_title": "Billy Joel - My Life - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=C1xhjKCxstc",
+    "sheet_music_link": "https://www.musicnotes.com/l/Mxcgm",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "OF FOREIGN LANDS AND PEOPLE",
+    "artist": "SCHUMANN",
+    "tbh_video_title": "Schumann - Of Foreign Lands and People - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=JBhBcz8BPMk",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/of-foreign-lands-and-people-op-15-no-1",
+    "type": "CLA",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "UNETHICAL",
+    "artist": "FAOUZIA",
+    "tbh_video_title": "Faouzia - UNETHICAL - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=Ku8cyn2Wqic",
+    "sheet_music_link": "https://www.musicnotes.com/l/MGcgX",
+    "type": "ACC",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "INDIGO",
+    "artist": "SAM BARBER",
+    "tbh_video_title": "Sam Barber, Avery Anna - Indigo - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=coNrQPpj3sk",
+    "sheet_music_link": "https://www.musicnotes.com/l/J3cgp",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "YOU WERE GOOD TO ME",
+    "artist": "JEREMY ZUCKER",
+    "tbh_video_title": "Jeremy Zucker, Chelsea Cutler - you were good to me - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=9ujzbN3FHPg",
+    "sheet_music_link": "https://www.musicnotes.com/l/G29gw",
+    "type": "ACC",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "JE TE VEUX",
+    "artist": "SATIE",
+    "tbh_video_title": "Satie - Je te veux - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=94p-1TAZIrE",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/je-te-veux",
+    "type": "CLA",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "9 TO 5",
+    "artist": "DOLLY PARTON",
+    "tbh_video_title": "Dolly Parton - 9 to 5 - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=1kO-tPkE6io",
+    "sheet_music_link": "https://www.musicnotes.com/l/jncgp",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "500 MILES",
     "artist": "PETER PAUL AND MARY",
     "tbh_video_title": "Peter, Paul and Mary - 500 Miles - Piano Tutorial with Sheet Music",
@@ -604,7 +694,7 @@
     "artist": "MOZART",
     "tbh_video_title": "Mozart - Piano Sonata No. 5 in G major, K. 283: II. Andante - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=6PfE0JY9Jgc",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/831499/mozart-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/piano-sonata-no-5-in-g-major-k-283-ii-andante",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -694,7 +784,7 @@
     "artist": "MOZART",
     "tbh_video_title": "Mozart - Piano Sonata No.16 in C Major, K.545: II. Andante - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=RQr2P6O2WOA",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/831499/mozart-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/piano-sonata-no-16-in-c-major-k-545-ii-andante",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -734,7 +824,7 @@
     "artist": "CHOPIN",
     "tbh_video_title": "Chopin - Etude Op. 25 No. 2 \"The Bees\" - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=NQH7vKZLTxo",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/823675/chopin-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/etude-in-f-minor-op-25-no-2-the-bees",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -864,7 +954,7 @@
     "artist": "TCHAIKOVSKY",
     "tbh_video_title": "Tchaikovsky - Swan Lake - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=Sgt_CsqLSSo",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/831501/tchaikovsky-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/swan-lake-op-20-act-ii-no-10-scene-moderato",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -904,7 +994,7 @@
     "artist": "BACH",
     "tbh_video_title": "Bach - Invention No. 8 in F Major, BWV 779 - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=Wnonsvvpd0Y",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/831466/bach-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/invention-no-8-in-f-major-bwv-779",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -1004,7 +1094,7 @@
     "artist": "CHOPIN",
     "tbh_video_title": "Chopin - Etude Op. 25 No. 9 \"Butterfly\" - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=IbKF_guytKQ",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/823675/chopin-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/etude-in-g-flat-major-op-25-no-9-butterfly",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -1082,9 +1172,9 @@
   {
     "song_title": "PIANO SONATA NO 5 IN G MAJOR K 283 MOV 1",
     "artist": "MOZART",
-    "tbh_video_title": "Mozart - Piano Sonata No. 5 in G major, K. 283: I. Allegro - Piano Tutorial with Sheet Music",
+    "tbh_video_title": "Mozart - Piano Sonata No.5 in G major, K. 283: I. Allegro - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=ILCA0J8uiiE",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/831499/mozart-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/piano-sonata-no-5-in-g-major-k-283-i-allegro",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -1164,7 +1254,7 @@
     "artist": "CHOPIN",
     "tbh_video_title": "Chopin - Ballade No. 2 in F Major - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=kHfZ6nSB93E",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/823675/chopin-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/ballade-no-2-in-f-major-op-38",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -1234,7 +1324,7 @@
     "artist": "SCHUBERT",
     "tbh_video_title": "Schubert - Ave Maria - Accurate Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=4IwA45KRxOQ",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/834243/various-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/ave-maria-d-839-op-52-no-6",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -1274,7 +1364,7 @@
     "artist": "BACH",
     "tbh_video_title": "Bach/Hess - Jesu, Joy of Man's Desiring - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=8ekMKJPVOFE",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/831466/bach-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/jesu-joy-of-mans-desiring-bwv-147",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -1324,7 +1414,7 @@
     "artist": "CHOPIN",
     "tbh_video_title": "Chopin - Ballade No. 1 in G Minor - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=txorog90eVM",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/959404/chopin-ballade-no-1-in-g-minor",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/ballade-no-1-in-g-minor-op-23",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -1364,7 +1454,7 @@
     "artist": "VIVALDI",
     "tbh_video_title": "Vivaldi - Winter - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=onJ-ffw9SH8",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/955814/vivaldi-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/winter-from-the-four-seasons",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -1404,7 +1494,7 @@
     "artist": "LISZT",
     "tbh_video_title": "Liszt - Hungarian Rhapsody No. 2 - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=PXHF8zH350I",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/834240/liszt-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/hungarian-rhapsody-no-2-in-c-sharp-minor-s-244-2",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -1474,7 +1564,7 @@
     "artist": "CHOPIN",
     "tbh_video_title": "Chopin - Prélude in E Minor - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=6YugMU48Z7A",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/823675/chopin-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/prelude-in-e-minor-op-28-no-4",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -1534,7 +1624,7 @@
     "artist": "LISZT",
     "tbh_video_title": "Liszt - Consolation No. 2 - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=ujfWk_52ijc",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/834240/liszt-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/consolation-no-2-in-e-major-s-172-2",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -1584,7 +1674,7 @@
     "artist": "CHOPIN",
     "tbh_video_title": "Chopin - Nocturne in D-flat Major, Op. 27, No. 2 - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=Q0Krvzg8r_Y",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/823675/chopin-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/nocturne-in-d-flat-major-op-27-no-2",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -1644,7 +1734,7 @@
     "artist": "GRIEG",
     "tbh_video_title": "Grieg - In the Hall of the Mountain King - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=6zmpVnblYaM",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/834243/various-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/in-the-hall-of-the-mountain-king-op-46-no-4",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -1714,7 +1804,7 @@
     "artist": "SCHUBERT",
     "tbh_video_title": "Schubert - Impromptu No. 3 in Gb Major - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=agovLxX1axM",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/834243/various-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/impromptu-no-3-in-g-flat-major-op-90-d-899",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -1774,7 +1864,7 @@
     "artist": "BURGMULLER",
     "tbh_video_title": "Burgmüller - L’arabesque Op. 100 No. 2 - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=3suvvEuU_JI",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/834243/various-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/larabesque-op-100-no-2",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -1844,7 +1934,7 @@
     "artist": "BACH",
     "tbh_video_title": "Bach - Invention No. 1 in C Major, BWV 772 - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=_TBFwUUI-As",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/831466/bach-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/invention-no-1-in-c-major-bwv-772",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -1914,7 +2004,7 @@
     "artist": "CHOPIN",
     "tbh_video_title": "Chopin - Nocturne in E Minor, Op. 72, No. 1 - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=wAVzV3YdHgU",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/823675/chopin-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/nocturne-in-e-minor-op-72-no-1",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -1984,7 +2074,7 @@
     "artist": "BEETHOVEN",
     "tbh_video_title": "Beethoven/Liszt - Symphony No.7 II. Allegretto - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=VVn_V8oiGQ0",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/831534/beethoven-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/symphony-no-7-in-a-major-op-92-ii-allegretto",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -2054,7 +2144,7 @@
     "artist": "CHOPIN",
     "tbh_video_title": "Chopin - Waltz in B minor Op. 69 No. 2 - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=IHVc3-XcE8k",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/823675/chopin-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/waltz-in-b-minor-op-69-no-2",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -2104,7 +2194,7 @@
     "artist": "GRIEG",
     "tbh_video_title": "Grieg - Lyric Pieces Op. 68 No. 5: “At the Cradle” - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=Hld-FjY18lc",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/834243/various-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/at-the-cradle-op-68-no-5",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -2154,7 +2244,7 @@
     "artist": "LISZT",
     "tbh_video_title": "Liszt - Consolation No. 3 - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=Jh5zNGZyKxA",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/834240/liszt-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/consolation-no-3-in-d-flat-major-s-172-3",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -2204,7 +2294,7 @@
     "artist": "BEETHOVEN",
     "tbh_video_title": "Beethoven - Sonata No. 23, “Appassionata” 3rd Movement - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=nCVbw7_F6QY",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/831534/beethoven-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/piano-sonata-no-23-in-f-minor-op-57-appassionata",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -2244,7 +2334,7 @@
     "artist": "CHOPIN",
     "tbh_video_title": "Chopin - Revolutionary Etude - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=pnkN0oyNLyg",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/823675/chopin-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/etude-in-c-minor-op-10-no-12-revolutionary",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -2294,7 +2384,7 @@
     "artist": "VIVALDI",
     "tbh_video_title": "Vivaldi - Summer - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=l2rSjLGndbQ",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/955814/vivaldi-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/summer-from-the-four-seasons",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -2334,7 +2424,7 @@
     "artist": "CHOPIN",
     "tbh_video_title": "Chopin - Waltz in E Minor - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=aYhP69uxcR8",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/823675/chopin-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/waltz-in-e-minor-op-posth",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -2424,7 +2514,7 @@
     "artist": "BELA BARTOK",
     "tbh_video_title": "Béla Bartók - Quasi Adagio - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=K5lbADs9iL0",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/834243/various-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/quasi-adagio-no-3-from-for-children-sz-42",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -2434,7 +2524,7 @@
     "artist": "MOZART",
     "tbh_video_title": "Mozart - Minuet in G major, K. 1/1e - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=7Uzaq7H0K5E",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/831499/mozart-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/minuet-in-g-major-k-1e",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -2454,7 +2544,7 @@
     "artist": "BEETHOVEN",
     "tbh_video_title": "Beethoven - Ecossaise in G - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=eopZ7tK9Xf8",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/831534/beethoven-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/ecossaise-in-g-major-woo-23",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -2464,7 +2554,7 @@
     "artist": "BACH",
     "tbh_video_title": "Bach - Musette in D - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=BQvsziXooHE",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/831466/bach-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/musette-in-d-major-bwv-anh-126",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -2544,7 +2634,7 @@
     "artist": "SCHUBERT LISZT",
     "tbh_video_title": "Schubert/Liszt - Erlkönig - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=JEwSioXi2aQ",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/834240/liszt-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/erlkoenig-in-g-minor-s-558-4",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -2584,7 +2674,7 @@
     "artist": "CHOPIN",
     "tbh_video_title": "Chopin - Nocturne in Bb Minor, Op. 9, No. 1 - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=EhD2a4hv9bM",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/823675/chopin-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/nocturne-in-b-flat-minor-op-9-no-1",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -2624,7 +2714,7 @@
     "artist": "BEETHOVEN",
     "tbh_video_title": "Beethoven - Rage Over a Lost Penny - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=7qGNZp11zUA",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/831534/beethoven-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/rondo-a-capriccio-in-g-major-op-129-rage-over-a-lost-penny",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -2674,7 +2764,7 @@
     "artist": "WILHELM STENHAMMAR",
     "tbh_video_title": "Wilhelm Stenhammar - Fantasie No. 1 - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=lBwL1sC--Co",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/834243/various-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/fantasie-no-1-op-11",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -2744,7 +2834,7 @@
     "artist": "ALKAN",
     "tbh_video_title": "Alkan - Etude WoO - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=4fyVUzFpRMo",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/834243/various-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/etude-in-a-minor-woo",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -2784,7 +2874,7 @@
     "artist": "BRAHMS",
     "tbh_video_title": "Brahms - Hungarian Dance No. 1 - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=dBsAoRmw1Ng",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/831462/brahms-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/hungarian-dance-no-1-in-g-minor-woo-1",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -2864,7 +2954,7 @@
     "artist": "ERIK SATIE",
     "tbh_video_title": "Satie - Gnossienne No.1 - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=nKbI61uhQzE",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/833875/satie-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/gnossienne-no-1",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -2904,7 +2994,7 @@
     "artist": "CHOPIN",
     "tbh_video_title": "Chopin - Nocturne Op. 55 No. 1 - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=y1tZHhCE-I4",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/823675/chopin-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/nocturne-in-f-minor-op-55-no-1",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -2994,7 +3084,7 @@
     "artist": "CHOPIN",
     "tbh_video_title": "Chopin - \"Aeolian Harp\" Etude Op.25 No.1 - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=T-7tElGkBxI",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/823675/chopin-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/etude-in-a-flat-major-op-25-no-1-aeolian-harp",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -3034,7 +3124,7 @@
     "artist": "BACH",
     "tbh_video_title": "Bach - Prelude and Fugue No. 2 in C Minor - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=YDPuE5yLOg4",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/831466/bach-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/prelude-and-fugue-no-2-in-c-minor-bwv-847",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -3074,7 +3164,7 @@
     "artist": "BEETHOVEN",
     "tbh_video_title": "Beethoven - Pathetique Sonata 1st Movement - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=zFZWU7Pq2W0",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/831534/beethoven-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/piano-sonata-no-8-in-c-minor-op-13-pathetique-i-grave-allegro-di-molto-e-con-brio",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -3144,7 +3234,7 @@
     "artist": "CHOPIN",
     "tbh_video_title": "Chopin - Raindrop Prelude - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=eoTwKjC_qiI",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/823675/chopin-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/prelude-in-d-flat-major-op-28-no-15-raindrop",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -3284,7 +3374,7 @@
     "artist": "CHOPIN",
     "tbh_video_title": "Chopin - Prelude Op. 28 No. 16 in B flat minor - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=qGfkgRtlpCc",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/823675/chopin-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/prelude-no-16-in-b-flat-minor-op-28-no-16",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -3454,7 +3544,7 @@
     "artist": "BRAHMS",
     "tbh_video_title": "Brahms - Intermezzo Op. 118 No. 2 - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=RLXonmRmZjo",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/831462/brahms-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/intermezzo-in-a-major-op-118-no-2",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -3494,7 +3584,7 @@
     "artist": "BACH",
     "tbh_video_title": "Bach - Prelude in C Minor, BWV 999 - Piano Tutorials with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=XA7P5UukU8Q",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/831466/bach-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/prelude-in-c-minor-bwv-999",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -3554,7 +3644,7 @@
     "artist": "MOZART",
     "tbh_video_title": "Mozart - 12 Variations on Ah Vous Dirai-Je Maman - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=9EJ5eYT7TC4",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/831499/mozart-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/12-variations-on-ah-vous-dirai-je-maman-k-265",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -3594,7 +3684,7 @@
     "artist": "SCOTT JOPLIN",
     "tbh_video_title": "Scott Joplin - Maple Leaf Rag - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=eyh0bFWxWOs",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/834243/various-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/maple-leaf-rag",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -3704,7 +3794,7 @@
     "artist": "RACHMANINOFF",
     "tbh_video_title": "Rachmaninoff - Prelude in G minor, Op. 23, No. 5 - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=EEEb6uF6ySM",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/831465/rachmaninoff-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/prelude-in-g-minor-op-23-no-5",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -3760,11 +3850,11 @@
     "easy_video_link": ""
   },
   {
-    "song_title": "CHOPIN  WALTZ IN C SHARP MINOR OP 64 NO 2",
+    "song_title": "WALTZ IN C SHARP MINOR OP 64 NO 2",
     "artist": "CHOPIN",
     "tbh_video_title": "Chopin - Waltz in C♯ Minor (Op. 64 No. 2) - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=6aGWGaRKK18",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/823675/chopin-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/waltz-in-c-sharp-minor-op-64-no-2",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -3824,7 +3914,7 @@
     "artist": "MOZART",
     "tbh_video_title": "Mozart - Eine Kleine Nachtmusik - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=kmjXNJ2IRnw",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/831499/mozart-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/eine-kleine-nachtmusik-k-525",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -3864,7 +3954,7 @@
     "artist": "TCHAIKOVSKY",
     "tbh_video_title": "Tchaikovsky - The Seasons, 1. January - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=wLTx8c2FI0o",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/831501/tchaikovsky-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/the-seasons-op-37a-i-january-at-the-fireside",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -3904,7 +3994,7 @@
     "artist": "TCHAIKOVSKY",
     "tbh_video_title": "Tchaikovsky - Dance of the Sugar Plum Fairy (The Nutcracker) - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=EOJ37P4kaKc",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/831501/tchaikovsky-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/dance-of-the-sugar-plum-fairy-op-71a",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -3954,7 +4044,7 @@
     "artist": "BACH",
     "tbh_video_title": "Bach - Invention No. 11 in G Minor, BWV 782 - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=QDaWOwRi9z4",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/831466/bach-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/invention-no-11-in-g-minor-bwv-782",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -4054,7 +4144,7 @@
     "artist": "RACHMANINOFF",
     "tbh_video_title": "Rachmaninoff - Prelude in C Sharp Minor (Op. 3 No. 2) - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=F5PfKCQot-Y",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/831465/rachmaninoff-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/prelude-in-c-sharp-minor-op-3-no-2",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -4124,7 +4214,7 @@
     "artist": "CHOPIN",
     "tbh_video_title": "Chopin - Étude Op.25 No.11 (Winter Wind) - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=g_UAT5HAEl0",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/823675/chopin-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/etude-in-a-minor-op-25-no-11-winter-wind",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -4254,7 +4344,7 @@
     "artist": "CHOPIN",
     "tbh_video_title": "Chopin - Nocturne in C Sharp Minor (No. 20) - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=jcSdPY2yiJo",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/823675/chopin-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/nocturne-no-20-in-c-sharp-minor-op-posth",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -4324,7 +4414,7 @@
     "artist": "LISZT",
     "tbh_video_title": "Liszt - Romance S. 169 - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=nzw7tLDKxkc",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/834240/liszt-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/romance-in-e-minor-s-169",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -4392,9 +4482,9 @@
   {
     "song_title": "PIANO SONATA NO 16 IN C MAJOR K 545 MOV 1",
     "artist": "MOZART",
-    "tbh_video_title": "Mozart - Piano Sonata in C Major, K.545 - Piano Tutorial with Sheet Music",
+    "tbh_video_title": "Mozart - Piano Sonata No.16 in C Major, K.545: I. Allegro - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=Ad6_V-6XxK4",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/831499/mozart-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/piano-sonata-no-16-in-c-major-k-545-i-allegro",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -4494,7 +4584,7 @@
     "artist": "BEETHOVEN",
     "tbh_video_title": "Beethoven - Sonata No.17 Tempest 3rd Movement - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=Tn1648X4ZKk",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/831534/beethoven-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/piano-sonata-no-17-in-d-minor-op-31-no-2-tempest-iii-allegretto",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -4564,7 +4654,7 @@
     "artist": "CHOPIN",
     "tbh_video_title": "Chopin - Waltz in A minor (Found in New York 2024) - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=iMoXr7cJdts",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/823675/chopin-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/waltz-in-a-minor-op-posth",
     "type": "CLA",
     "easy_video_title": "Chopin - Waltz in A minor - EASY Piano Tutorial",
     "easy_video_link": "https://www.youtube.com/watch?v=fP3vxRJpuHY"
@@ -4594,7 +4684,7 @@
     "artist": "DEBUSSY",
     "tbh_video_title": "Debussy - Arabesque No.1 - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=5qcDb1OrmuQ",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/833909/debussy-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/arabesque-no-1-in-e-major-l-66-1",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -4694,7 +4784,7 @@
     "artist": "CHOPIN",
     "tbh_video_title": "Chopin - Nocturne Op.48 No.1 - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=jNqy54JvC0k",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/823675/chopin-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/nocturne-in-c-minor-op-48-no-1",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -4794,7 +4884,7 @@
     "artist": "MOZART",
     "tbh_video_title": "Mozart - Fantasia in d minor, K.397 - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=SMO8jUe4OUw",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/831499/mozart-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/fantasia-in-d-minor-k-397",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -4892,9 +4982,9 @@
   {
     "song_title": "PATHÉTIQUE 2ND MOVEMENT",
     "artist": "BEETHOVEN",
-    "tbh_video_title": "Beethoven - Pathétique (2nd movement) - Piano Tutorial with Sheet Music",
+    "tbh_video_title": "Beethoven - Pathétique Sonata (2nd movement) - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=pHBr-qwwTwE",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/831534/beethoven-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/piano-sonata-no-8-in-c-minor-op-13-pathetique-ii-adagio-cantabile",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -4994,7 +5084,7 @@
     "artist": "CHOPIN",
     "tbh_video_title": "Chopin - Minute Waltz - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=AnbYTuB2dIQ",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/823675/chopin-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/waltz-in-d-flat-major-op-64-no-1-minute-waltz",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -5064,7 +5154,7 @@
     "artist": "DEBUSSY",
     "tbh_video_title": "Debussy - Rêverie - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=5aLl9UEuWhE",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/833909/debussy-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/reverie-l-68",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -5154,7 +5244,7 @@
     "artist": "BRAHMS",
     "tbh_video_title": "Brahms - Hungarian Dance No. 5 - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=j8DmisS0_h8",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/831462/brahms-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/hungarian-dance-no-5-in-f-sharp-minor-woo-1",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -5304,7 +5394,7 @@
     "artist": "CHOPIN",
     "tbh_video_title": "Chopin - Fantaisie-Impromptu, Op. 66 - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=QDcBdJOK6mA",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/823675/chopin-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/fantaisie-impromptu-in-c-sharp-minor-op-66",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -6694,7 +6784,7 @@
     "artist": "FRANZ LISZT",
     "tbh_video_title": "Franz Liszt - La Campanella - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=faGkRkz8QNk",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/834240/liszt-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/la-campanella-s-141-3",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -6904,7 +6994,7 @@
     "artist": "BEETHOVEN",
     "tbh_video_title": "Beethoven - Für Elise - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=3RY5p7rbpd0",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/831534/beethoven-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/fuer-elise-in-a-minor-woo-59",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -6944,7 +7034,7 @@
     "artist": "MOZART",
     "tbh_video_title": "Mozart - Rondo Alla Turca - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=6_qH4iI2Ado",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/831499/mozart-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/rondo-alla-turca-in-a-minor-k-331",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -7024,7 +7114,7 @@
     "artist": "BEETHOVEN",
     "tbh_video_title": "Beethoven - Moonlight Sonata (3rd Movement) - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=Wm2D7NrtMg4",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/831534/beethoven-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/piano-sonata-no-14-in-c-sharp-minor-op-27-no-2-moonlight-iii-presto-agitato",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -7074,7 +7164,7 @@
     "artist": "BEETHOVEN",
     "tbh_video_title": "Beethoven - Moonlight Sonata (2nd Movement) - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=XEulrVtU9DM",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/831534/beethoven-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/piano-sonata-no-14-in-c-sharp-minor-op-27-no-2-moonlight-ii-allegretto",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -7134,7 +7224,7 @@
     "artist": "BEETHOVEN",
     "tbh_video_title": "Beethoven - Moonlight Sonata (1st Movement) - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=dFJDJkoA3z0",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/831534/beethoven-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/piano-sonata-no-14-in-c-sharp-minor-op-27-no-2-moonlight-i-adagio-sostenuto",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -8280,7 +8370,7 @@
     "easy_video_link": "https://www.youtube.com/watch?v=5Dgs66fUbRg"
   },
   {
-    "song_title": "BOYS A LIAR PT 2",
+    "song_title": "BOYS A LIAR PT 2 ",
     "artist": "PINKPANTHERESS AND ICE SPICE",
     "tbh_video_title": "Boy's a liar Pt. 2 - Reimagined Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=TAT7l_8WclA",
@@ -9994,7 +10084,7 @@
     "artist": "ERIK SATIE",
     "tbh_video_title": "Erik Satie - Gymnopédie No. 1 - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=jUcYgxGGNMI",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/833875/satie-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/gymnopedie-no-1",
     "type": "CLA",
     "easy_video_title": "Erik Satie - Gymnopédie No. 1 - EASY Piano Tutorial",
     "easy_video_link": "https://www.youtube.com/watch?v=yRONA4BBz4c"
@@ -10230,16 +10320,6 @@
     "easy_video_link": ""
   },
   {
-    "song_title": "EVERYTHING I DO I DO IT FOR YOU",
-    "artist": "BRYAN ADAMS",
-    "tbh_video_title": "Bryan Adams - (Everything I Do) I Do It for You - ACCURATE Piano Tutorial",
-    "tbh_video_link": "https://www.youtube.com/watch?v=0KYAz8kubmE",
-    "sheet_music_link": "https://www.musicnotes.com/l/ghRMm",
-    "type": "ACC",
-    "easy_video_title": "",
-    "easy_video_link": ""
-  },
-  {
     "song_title": "MAIN THEME",
     "artist": "SUCCESSION",
     "tbh_video_title": "Succession Main Theme - Piano Tutorial + SHEETS",
@@ -10451,7 +10531,7 @@
   },
   {
     "song_title": "WAY BACK THEN",
-    "artist": "SQUID GAME",
+    "artist": " SQUID GAME",
     "tbh_video_title": "Squid Game OST - Way Back Then - Piano Tutorial + SHEETS",
     "tbh_video_link": "https://www.youtube.com/watch?v=5SXEYRnrMn8",
     "sheet_music_link": "https://www.musicnotes.com/l/L2gMP",
@@ -11744,7 +11824,7 @@
     "artist": "SCOTT JOPLIN",
     "tbh_video_title": "Scott Joplin - The Entertainer - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=wBbW17x5vZQ",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/834243/various-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/the-entertainer",
     "type": "CLA",
     "easy_video_title": "Scott Joplin - The Entertainer - EASY Piano Tutorial",
     "easy_video_link": "https://www.youtube.com/watch?v=LPh8xUfQdYg"
@@ -12110,7 +12190,7 @@
     "easy_video_link": ""
   },
   {
-    "song_title": "HUSAVIK",
+    "song_title": "HUSAVIK ",
     "artist": "EUROVISION SONG CONTEST THE STORY OF FIRE SAGA",
     "tbh_video_title": "How to play piano part of Husavik (Eurovision Song Contest: The Story of Fire Saga)",
     "tbh_video_link": "https://www.youtube.com/watch?v=AxqHAiuUkXI",
@@ -12181,7 +12261,7 @@
   },
   {
     "song_title": "THE NAME OF LIFE INOCHI NO NAMAE",
-    "artist": "SPIRITED AWAY",
+    "artist": "SPIRITED AWAY ",
     "tbh_video_title": "The Name of Life (Inochi no Namae) - Spirited Away | Piano Instrumental | Piano Tutorial",
     "tbh_video_link": "https://www.youtube.com/watch?v=JmKSFZ4zrjA",
     "sheet_music_link": "",
@@ -12504,7 +12584,7 @@
     "artist": "FRANZ LISZT",
     "tbh_video_title": "Franz Liszt - Liebestraum No. 3 - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=EIs9pi_b6J4",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/834240/liszt-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/liebestraum-no-3-in-a-flat-major-s-541-3",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -12532,9 +12612,9 @@
   {
     "song_title": "CLAIR DE LUNE",
     "artist": "CLAUDE DEBUSSY",
-    "tbh_video_title": "How to play Clair De Lune by Claude Debussy on piano",
+    "tbh_video_title": "Debussy - Clair De Lune - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=Fa5QzuJrDMU",
-    "sheet_music_link": "https://hugospianoschool.com/l/digital_download/833909/debussy-bundle",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/clair-de-lune-l-75-3",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -12624,7 +12704,7 @@
     "artist": "CHOPIN",
     "tbh_video_title": "How to play Nocturne in E-flat major (Op. 9 No. 2) by Chopin on piano",
     "tbh_video_link": "https://www.youtube.com/watch?v=TtCEFCxv6Z0",
-    "sheet_music_link": "",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/nocturne-in-e-flat-major-op-9-no-2",
     "type": "CLA",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -13772,7 +13852,7 @@
   {
     "song_title": "SOUTH OF THE BORDER",
     "artist": "ED SHEERAN",
-    "tbh_video_title": "South of the Border\" for piano and vocals - Tutorial & Sheets",
+    "tbh_video_title": "\"South of the Border\" for piano and vocals - Tutorial & Sheets",
     "tbh_video_link": "https://www.youtube.com/watch?v=yz4vERUpNhM",
     "sheet_music_link": "https://www.musicnotes.com/l/gGhPp",
     "type": "ARR",
@@ -13891,7 +13971,7 @@
   },
   {
     "song_title": "MARCH TO THE SEA",
-    "artist": "TWENTY ONE PILOTS",
+    "artist": " TWENTY ONE PILOTS",
     "tbh_video_title": "March To The Sea  |-/  Piano Tutorial + Sheet Music + Lyrics",
     "tbh_video_link": "https://www.youtube.com/watch?v=TtCMFLp3STY",
     "sheet_music_link": "https://www.musicnotes.com/l/NzhWw",
@@ -14272,7 +14352,7 @@
   {
     "song_title": "BAD GUY X PITY PARTY",
     "artist": "BILLIE EILISH",
-    "tbh_video_title": "bad guy\" mashed up with \"Pity Party\" (the perfect match)",
+    "tbh_video_title": "\"bad guy\" mashed up with \"Pity Party\" (the perfect match)",
     "tbh_video_link": "https://www.youtube.com/watch?v=byxqmFKDv5U",
     "sheet_music_link": "https://www.musicnotes.com/l/LRFPW",
     "type": "ARR",
@@ -14512,7 +14592,7 @@
   {
     "song_title": "LUNA",
     "artist": "HUGO SELLERBERG",
-    "tbh_video_title": "Luna\" - original piano song",
+    "tbh_video_title": "\"Luna\" - original piano song",
     "tbh_video_link": "https://www.youtube.com/watch?v=_6MftWAo-DI",
     "sheet_music_link": "",
     "type": "ARR",
@@ -14712,7 +14792,7 @@
   {
     "song_title": "HAPPY NEW YEAR",
     "artist": "BENNY ANDERSSON",
-    "tbh_video_title": "Happy New Year\" - Breathtaking piano version by ABBA's Benny Andersson four decades later",
+    "tbh_video_title": "\"Happy New Year\" - Breathtaking piano version by ABBA's Benny Andersson four decades later",
     "tbh_video_link": "https://www.youtube.com/watch?v=TodTmSCNDGQ",
     "sheet_music_link": "",
     "type": "ARR",
@@ -14870,7 +14950,7 @@
     "easy_video_link": "https://www.youtube.com/watch?v=enKeK39STao"
   },
   {
-    "song_title": "BLURRYFACE",
+    "song_title": "BLURRYFACE ",
     "artist": "TWENTY ONE PILOTS",
     "tbh_video_title": "BLURRYFACE - ULTIMATE PIANO MEDLEY - TWENTY ONE PILOTS",
     "tbh_video_link": "https://www.youtube.com/watch?v=F9Am5bnk7yk",
@@ -15272,7 +15352,7 @@
   {
     "song_title": "BUMP",
     "artist": "HUGO SELLERBERG",
-    "tbh_video_title": "Bump\" (Original Piano Song by Hugo)",
+    "tbh_video_title": "\"Bump\" (Original Piano Song by Hugo)",
     "tbh_video_link": "https://www.youtube.com/watch?v=V69p57OeuiU",
     "sheet_music_link": "",
     "type": "ARR",
@@ -18910,16 +18990,6 @@
     "easy_video_link": "https://www.youtube.com/watch?v=Ke61jDeTm7w"
   },
   {
-    "song_title": "ETUDE OP 25 NO 2 IN F MINOR",
-    "artist": "CHOPIN",
-    "tbh_video_title": "Chopin - Etude Op. 25 no. 2 in F minor - Piano Tutorial + Free Sheets",
-    "tbh_video_link": "https://www.youtube.com/watch?v=lh-UyIRyUR8",
-    "sheet_music_link": "https://musopen.org/music/1089/frederic-chopin/etudes-op-25/",
-    "type": "CLA",
-    "easy_video_title": "",
-    "easy_video_link": ""
-  },
-  {
     "song_title": "DRUG DEALER",
     "artist": "MACKLEMORE FT ARIANA DEBOO",
     "tbh_video_title": "Macklemore - Drug Dealer ft. Ariana DeBoo - Piano Tutorial + Chords",
@@ -19372,7 +19442,7 @@
   {
     "song_title": "HERE COMES A THOUGHT",
     "artist": "STEVEN UNIVERSE",
-    "tbh_video_title": "Here Comes a Thought\" | Steven Universe - Piano Tutorial + SHEETS",
+    "tbh_video_title": "\"Here Comes a Thought\" | Steven Universe - Piano Tutorial + SHEETS",
     "tbh_video_link": "https://www.youtube.com/watch?v=e1CijOdNFXo",
     "sheet_music_link": "http://bit.ly/2cqgrpJ",
     "type": "ARR",
@@ -20400,7 +20470,7 @@
     "easy_video_link": "https://www.youtube.com/watch?v=P4ms4igSy1k"
   },
   {
-    "song_title": "AWAKENING OF A DAY",
+    "song_title": "AWAKENING OF A DAY ",
     "artist": "HUGO SELLERBERG",
     "tbh_video_title": "Awakening Of A Day (original) - Piano Tutorial + Sheets",
     "tbh_video_link": "https://www.youtube.com/watch?v=e5iUOCm0N-0",
