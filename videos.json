@@ -1,5 +1,35 @@
 [
   {
+    "song_title": "I MISS YOU IM SORRY",
+    "artist": "GRACIE ABRAMS",
+    "tbh_video_title": "Gracie Abrams - I miss you, I'm sorry - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=DwvDW3IrQLQ",
+    "sheet_music_link": "https://www.musicnotes.com/l/VKCgZ",
+    "type": "ACC",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "TRÄUMEREI",
+    "artist": "SCHUMANN",
+    "tbh_video_title": "Schumann - Träumerei, Op. 15, No. 7 - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=TRZ3pC_2Wx0",
+    "sheet_music_link": "https://shop.tutorialsbyhugo.com/products/traeumerei-op-15-no-7",
+    "type": "CLA",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "WICKED GAME",
+    "artist": "CHRIS ISAAK",
+    "tbh_video_title": "Chris Isaak - Wicked Game - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=imur3ryKoIQ",
+    "sheet_music_link": "https://www.musicnotes.com/l/gxLgp",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "FOREVER",
     "artist": "THE LITTLE DIPPERS",
     "tbh_video_title": "The Little Dippers - Forever (Obsession End Credits) - Piano Tutorial with Sheet Music",
@@ -11532,7 +11562,7 @@
   {
     "song_title": "CHAMPAGNE PROBLEMS",
     "artist": "TAYLOR SWIFT",
-    "tbh_video_title": "Taylor Swift - champagne problems - Piano Tutorial + SHEETS",
+    "tbh_video_title": "Taylor Swift - champagne problems - Accurate Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=QW4rsupM9wU",
     "sheet_music_link": "https://www.musicnotes.com/l/C2LXX",
     "type": "ACC",
