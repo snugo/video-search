@@ -1,10 +1,30 @@
 [
   {
+    "song_title": "EARLY SUNSETS OVER MONROEVILLE",
+    "artist": "MY CHEMICAL ROMANCE",
+    "tbh_video_title": "My Chemical Romance - Early Sunsets Over Monroeville - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=aBdv6u_EwIc",
+    "sheet_music_link": "https://www.musicnotes.com/l/fhBgW",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "THE KARATE KID",
+    "artist": "COLDPLAY",
+    "tbh_video_title": "Coldplay - The Karate Kid - Accurate Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=UC2aRidWHg4",
+    "sheet_music_link": "https://www.musicnotes.com/l/3LlgQ",
+    "type": "ACC",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "LANDSLIDE",
     "artist": "FLEETWOOD MAC",
     "tbh_video_title": "Fleetwood Mac - Landslide - Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=IKKRKiio5aY",
-    "sheet_music_link": "",
+    "sheet_music_link": "https://www.musicnotes.com/l/BcDgm",
     "type": "ARR",
     "easy_video_title": "",
     "easy_video_link": ""
@@ -34,7 +54,7 @@
     "artist": "KATSEYE",
     "tbh_video_title": "KATSEYE - unloveu - Accurate Piano Tutorial with Sheet Music",
     "tbh_video_link": "https://www.youtube.com/watch?v=8t4VuVioz_k",
-    "sheet_music_link": "",
+    "sheet_music_link": "https://www.musicnotes.com/l/kGDgS",
     "type": "ACC",
     "easy_video_title": "",
     "easy_video_link": ""
