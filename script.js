@@ -23,6 +23,8 @@ async function loadData() {
       tbh_video_title: normalizeForSearch(v['tbh_video_title']),
       easy_video_title: normalizeForSearch(v['easy_video_title']),
     };
+    v._search.all = ' ' + [v._search.song_title, v._search.artist, v._search.tbh_video_title, v._search.easy_video_title].join(' ') + ' ';
+    v._search.main = ' ' + v._search.song_title + ' ' + v._search.artist + ' ';
   });
 
   fuse = new Fuse(data, {
@@ -58,9 +60,32 @@ function normalizeForSearch(s) {
     .trim();
 }
 
+// Every word must appear somewhere (song, artist or video titles), in any order:
+// "home christmas olivia" finds "TAKE ME HOME (4 CHRISTMAS)" by OLIVIA RODRIGO.
+// Matches in the song title/artist come first, whole words before parts of words.
+// If nothing matches (e.g. a typo), fall back to the fuzzy search.
+function searchVideos(query) {
+  const words = query.split(' ').filter(Boolean);
+  const scored = [];
+  data.forEach((v, i) => {
+    if (!words.every(w => v._search.all.includes(w))) return;
+    let score = 0;
+    words.forEach(w => {
+      if (v._search.main.includes(' ' + w + ' ')) score += 3;
+      else if (v._search.main.includes(w)) score += 2;
+      else if (v._search.all.includes(' ' + w + ' ')) score += 1;
+    });
+    scored.push({ v, score, i });
+  });
+  if (scored.length) {
+    return scored.sort((a, b) => b.score - a.score || a.i - b.i).map(s => s.v);
+  }
+  return fuse.search(query).map(r => r.item);
+}
+
 function handleSearch() {
   const query = normalizeForSearch(document.getElementById('search').value);
-  const results = query ? fuse.search(query).map(r => r.item) : data;
+  const results = query ? searchVideos(query) : data;
   const filtered = applyFilter(results);
   displayResults(filtered);
 }
