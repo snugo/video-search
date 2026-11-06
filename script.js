@@ -15,8 +15,18 @@ async function loadData() {
   const res = await fetch('videos.json');
   data = await res.json();
 
+  // Search on copies without punctuation/accents, so "op 117" finds "OP. 117," and "beyonce" finds "BEYONCÉ"
+  data.forEach(v => {
+    v._search = {
+      song_title: normalizeForSearch(v['song_title']),
+      artist: normalizeForSearch(v['artist']),
+      tbh_video_title: normalizeForSearch(v['tbh_video_title']),
+      easy_video_title: normalizeForSearch(v['easy_video_title']),
+    };
+  });
+
   fuse = new Fuse(data, {
-    keys: ['song_title', 'artist', 'tbh_video_title', 'easy_video_title'],
+    keys: ['_search.song_title', '_search.artist', '_search.tbh_video_title', '_search.easy_video_title'],
     threshold: 0.4,
   });
 
@@ -38,8 +48,18 @@ async function loadData() {
   displayResults(data); // show all on load
 }
 
+function normalizeForSearch(s) {
+  return String(s || '')
+    .normalize('NFKD').replace(/[̀-ͯ]/g, '')  // drop accents
+    .toLowerCase()
+    .replace(/['’‘]/g, '')                               // "i'm" -> "im"
+    .replace(/&/g, ' and ')
+    .replace(/[^a-z0-9]+/g, ' ')                         // other punctuation -> space
+    .trim();
+}
+
 function handleSearch() {
-  const query = document.getElementById('search').value;
+  const query = normalizeForSearch(document.getElementById('search').value);
   const results = query ? fuse.search(query).map(r => r.item) : data;
   const filtered = applyFilter(results);
   displayResults(filtered);
