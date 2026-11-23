@@ -1,5 +1,25 @@
 [
   {
+    "song_title": "BLACK GIVES WAY TO BLUE",
+    "artist": "ALICE IN CHAINS",
+    "tbh_video_title": "Alice In Chains - Black Gives Way To Blue - Piano Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=RVIpEr5VybQ",
+    "sheet_music_link": "",
+    "type": "ARR",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
+    "song_title": "LAST CHRISTMAS",
+    "artist": "WHAM!",
+    "tbh_video_title": "Wham! - Last Christmas - Piano Accompaniment Tutorial with Sheet Music",
+    "tbh_video_link": "https://www.youtube.com/watch?v=xEpETyiwbbI",
+    "sheet_music_link": "https://www.musicnotes.com/l/KRNzS",
+    "type": "ACC",
+    "easy_video_title": "",
+    "easy_video_link": ""
+  },
+  {
     "song_title": "SLEIGH RIDE",
     "artist": "LEROY ANDERSON, THE RONETTES",
     "tbh_video_title": "Leroy Anderson, The Ronettes - Sleigh Ride - Piano Tutorial with Sheet Music",
